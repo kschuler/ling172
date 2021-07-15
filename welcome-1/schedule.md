@@ -33,7 +33,8 @@ description: 'Monday & Wednesdays 10:15 - 11:15am'
       <td style="text-align:left">
         <p><b>Sep 06: Labor day, no class!</b>
         </p>
-        <p>Sep 08:</p>
+        <p><b>Sep 08: </b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
