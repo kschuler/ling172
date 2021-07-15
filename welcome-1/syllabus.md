@@ -11,7 +11,7 @@
 All class sessions will be 60 minutes unless otherwise noted. See what we have planned for each class session week-by-week on the full [Schedule](schedule.md).
 
 | Block | Monday | Tuesday | Wednesday | Thursday | Friday |
-| :--- | :---: | :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 8:30am |  |  |  |  |  |
 | 10:15am | **Lecture**  |  | **Lecture** | **Lab 402** | **Lab 404** |
 | 12:00pm | \*\*\*\* | \*\*\*\* | \*\*\*\* | **Lab 403** | **Lab 405** |
