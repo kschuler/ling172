@@ -10,7 +10,7 @@ _This is an introductory course and no specific background is assumed or require
 
 ### General Schedule
 
-All class sessions will be 60 minutes unless otherwise noted. See what we have planned for each class session week-by-week on the full [Schedule](schedule.md).
+All class sessions will be 60 minutes unless otherwise noted. See what we've got planned for each class session each week on the full [Schedule](schedule.md).
 
 | Block | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :---: | :---: | :---: | :---: | :---: | :---: |
