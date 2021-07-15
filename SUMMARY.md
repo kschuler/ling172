@@ -6,7 +6,7 @@
 
 * [Syllabus](welcome-1/syllabus.md)
 * [Schedule](welcome-1/schedule.md)
-* [Discussion board](https://example.com)
+* [Getting help](welcome-1/getting-help.md)
 
 ## Exploring your data <a id="welcome"></a>
 
