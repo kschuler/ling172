@@ -22,7 +22,7 @@
         <p><b>Dr. Kathryn Schuler</b>
         </p>
         <p>likes to be called: Katie</p>
-        <p>Office hours:</p>
+        <p>Office hours: TBD</p>
       </td>
       <td style="text-align:center">
         <p><b>Instructor</b>
@@ -32,8 +32,8 @@
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><b>Dr. Colin Twomey</b>
         </p>
-        <p>likes to be called:</p>
-        <p>Office hours:</p>
+        <p>likes to be called: TBD</p>
+        <p>Office hours: TBD</p>
       </td>
     </tr>
     <tr>
@@ -45,8 +45,8 @@
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><b>June Choe</b>
         </p>
-        <p>likes to be called: ??</p>
-        <p>Office hours:</p>
+        <p>likes to be called: TBD</p>
+        <p>Office hours: TBD</p>
       </td>
       <td style="text-align:center"></td>
     </tr>
@@ -59,8 +59,8 @@
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><b>TBD</b>
         </p>
-        <p>likes to be called: ??</p>
-        <p>Office hours:</p>
+        <p>likes to be called: TBD</p>
+        <p>Office hours: TBD</p>
       </td>
       <td style="text-align:center">
         <p><b>TA</b>
@@ -68,9 +68,8 @@
         <p><b><br />[PICTURE]</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>TBD</b>
-        </p>
-        <p>Office hours:</p>
+        <p><b>TBD<br /></b>likes to be called: TBD</p>
+        <p>Office hours: TBD</p>
       </td>
     </tr>
     <tr>
@@ -83,7 +82,7 @@
         <p><b>TBD</b>
         </p>
         <p>likes to be called: TBD</p>
-        <p>Office hours:</p>
+        <p>Office hours: TBD</p>
       </td>
       <td style="text-align:center">
         <p><b>TA</b>
@@ -94,6 +93,7 @@
         <p><b>TBD</b>
         </p>
         <p>likes to be called: TBD</p>
+        <p>Office hours: TBD</p>
       </td>
     </tr>
   </tbody>
@@ -101,7 +101,7 @@
 
 ## General Schedule
 
-All sessions will be 60 minutes unless otherwise noted
+All class sessions will be 60 minutes unless otherwise noted. See what is planned for each class week-by-week on the full [Schedule](../schedule.md).
 
 | Block | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :---: | :--- | :---: | :---: | :---: |
