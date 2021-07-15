@@ -1,3 +1,7 @@
+---
+description: 'Monday & Wednesdays 10:15 - 11:15am'
+---
+
 # Schedule
 
 <table>
@@ -132,7 +136,7 @@
       <td style="text-align:left">13</td>
       <td style="text-align:left">
         <p>Nov 22:</p>
-        <p>Nov 24: Friday classes, no class</p>
+        <p>Nov 24: Friday classes, no class!</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
