@@ -15,66 +15,86 @@ description: 'Monday & Wednesdays 10:15 - 11:15am'
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left"><b>1</b>
+      </td>
       <td style="text-align:left">
-        <p>Aug 30: Still summer, no class!</p>
-        <p>Sep 01: Welcome</p>
+        <p><b>Aug 30: No classes yet!</b>
+        </p>
+        <p><b>Sep 01: Welcome</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><em>first day of Penn classes (31st)</em>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">2</td>
+      <td style="text-align:left"><b>2</b>
+      </td>
       <td style="text-align:left">
-        <p>Sep 06: Labor day, no class!</p>
+        <p><b>Sep 06: Labor day, no class!</b>
+        </p>
         <p>Sep 08:</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">3</td>
+      <td style="text-align:left"><b>3</b>
+      </td>
       <td style="text-align:left">
-        <p>Sep 13:</p>
-        <p>Sep 15:</p>
+        <p><b>Sep 13:</b>
+        </p>
+        <p><b>Sep 15:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><em>course selection period ends (14th)</em>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left"><b>4</b>
+      </td>
       <td style="text-align:left">
-        <p>Sep 20:</p>
-        <p>Sep 22:</p>
+        <p><b>Sep 20: </b>
+        </p>
+        <p><b>Sep 22:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">5</td>
+      <td style="text-align:left"><b>5</b>
+      </td>
       <td style="text-align:left">
-        <p>Sep 27:</p>
-        <p>Sep 29:</p>
+        <p><b>Sep 27: </b>
+        </p>
+        <p><b>Sep 29:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">6</td>
+      <td style="text-align:left"><b>6</b>
+      </td>
       <td style="text-align:left">
-        <p>Oct 04:</p>
-        <p>Oct 06:</p>
+        <p><b>Oct 04: </b>
+        </p>
+        <p><b>Oct 06:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">7</td>
+      <td style="text-align:left"><b>7</b>
+      </td>
       <td style="text-align:left">
-        <p>Oct 11:</p>
-        <p>Oct 13:</p>
+        <p><b>Oct 11:</b>
+        </p>
+        <p><b>Oct 13:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
@@ -85,58 +105,76 @@ description: 'Monday & Wednesdays 10:15 - 11:15am'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8</td>
+      <td style="text-align:left"><b>8</b>
+      </td>
       <td style="text-align:left">
-        <p>Oct 18:</p>
-        <p>Oct 20:</p>
+        <p><b>Oct 18: </b>
+        </p>
+        <p><b>Oct 20:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">9</td>
+      <td style="text-align:left"><b>9</b>
+      </td>
       <td style="text-align:left">
-        <p>Oct 25:</p>
-        <p>Oct 27:</p>
+        <p><b>Oct 25: </b>
+        </p>
+        <p><b>Oct 27:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><em>grade type change deadline (29th)</em>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10</td>
+      <td style="text-align:left"><b>10</b>
+      </td>
       <td style="text-align:left">
-        <p>Nov 01:</p>
-        <p>Nov 03:</p>
+        <p><b>Nov 01:</b>
+        </p>
+        <p><b>Nov 03:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><em>advanced registration begins (1st)</em>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11</td>
+      <td style="text-align:left"><b>11</b>
+      </td>
       <td style="text-align:left">
-        <p>Nov 08:</p>
-        <p>Nov 10:</p>
+        <p><b>Nov 08:</b>
+        </p>
+        <p><b>Nov 10:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><em>last day to withdraw (8th)</em>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12</td>
+      <td style="text-align:left"><b>12</b>
+      </td>
       <td style="text-align:left">
-        <p>Nov 15:</p>
-        <p>Nov 17:</p>
+        <p><b>Nov 15:</b>
+        </p>
+        <p><b>Nov 17:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">13</td>
+      <td style="text-align:left"><b>13</b>
+      </td>
       <td style="text-align:left">
-        <p>Nov 22:</p>
-        <p>Nov 24: Friday classes, no class!</p>
+        <p><b>Nov 22:</b>
+        </p>
+        <p><b>Nov 24: Friday classes, no class!</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
@@ -147,19 +185,25 @@ description: 'Monday & Wednesdays 10:15 - 11:15am'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14</td>
+      <td style="text-align:left"><b>14</b>
+      </td>
       <td style="text-align:left">
-        <p>Nov 29:</p>
-        <p>Dec 01:</p>
+        <p><b>Nov 29:</b>
+        </p>
+        <p><b>Dec 01:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">15</td>
+      <td style="text-align:left"><b>15</b>
+      </td>
       <td style="text-align:left">
-        <p>Dec 06:</p>
-        <p>Dec 08:</p>
+        <p><b>Dec 06: </b>
+        </p>
+        <p><b>Dec 08:</b>
+        </p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><em>last day of classes (10th)</em>
