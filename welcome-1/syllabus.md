@@ -132,7 +132,18 @@ All class sessions will be 60 minutes unless otherwise noted. See what we've got
 
 ### Materials
 
+* **Course website** \(you are here\): for syllabus, schedule, policies, and links to everything you need
+* **Canvas site** for announcements and grade-related things
+* **Online textbook** \(free\): R for Data Science by X, Y, and Z
+
 ### Evaluation
+
+* **Exams \(90%\):** There are four take-home "exams", but the lowest exam score is dropped
+* **Data journal \(10%\)**: Practice your skills by applying what you’ve learned to \(at least\) four data
+
+  sets of your choosing. More details will be provided on the course website.
+
+* Note that **lab problem sets are ungraded**. They are designed to help you practice your new skills in a low-pressure environment and to help you prepare for the exams!
 
 ## Policies
 
