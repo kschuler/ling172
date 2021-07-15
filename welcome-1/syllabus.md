@@ -140,7 +140,7 @@ All class sessions will be 60 minutes unless otherwise noted. See what we have p
 
 ### Grading Scale
 
-Minimum score before rounding
+The table below shows the minimum score required \(before rounding\). Grading in this course is not curved: there is room for everyone to do well!
 
 |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
