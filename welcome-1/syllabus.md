@@ -2,7 +2,7 @@
 
 ## Overview
 
-### Welcome
+### Course description
 
 Welcome to Data Science for studying Language and the Mind! Data Sci for Lang & Mind is an entry-level course designed to teach basic principles of data science to students with little or no background in statistics or computer science. Students will learn to identify patterns in data using visualizations and descriptive statistics; make predictions from data using machine learning and optimization; and quantify the certainty of their predictions using statistical models. This course aims to help students build a foundation of critical thinking and computational skills that will allow them to work with data in all fields related to the study of the mind \(e.g. linguistics, psychology, philosophy, cognitive science, neuroscience\).
 
@@ -135,6 +135,7 @@ All class sessions will be 60 minutes unless otherwise noted. See what we've got
 * **Course website** \(you are here\): for syllabus, schedule, policies, and links to everything you need
 * **Canvas site** for announcements and grade-related things
 * **Online textbook** \(free\): R for Data Science by X, Y, and Z
+* **Discussion board**: for questions and discussions
 
 ### Evaluation
 
@@ -149,7 +150,15 @@ All class sessions will be 60 minutes unless otherwise noted. See what we've got
 
 ### Attendance
 
+### Rescheduling and make-ups
 
+### Late assignments
+
+### Accommodations 
+
+### Academic integrity
+
+### Support
 
 ### Grading Scale
 
@@ -161,6 +170,30 @@ The table below shows the minimum score required \(before rounding\). Grading in
 | C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61% |
 
 ## FAQs
+
+**Can I skip the fourth exam if I am happy with my grade on the first three?**
+
+> Yes! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
+
+**If I miss lab can I come to another lab section that week?**
+
+> Sure! You can join any lab session that will work for your schedule. But keep in mind that the rooms are small so it’s best to email the section TA to let them know.
+
+**I noticed a mistake in the grading of my exam. How do I get this fixed?**
+
+> We will look at your exam again if you make a formal [re-grade request](https://canvas.upenn.edu/courses/1489351/modules/items/17298855) via Canvas within one week of getting your exam back.
+
+**I missed or failed an exam. What can I do to make it up?**
+
+> Nothing. We don’t allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn’t happen more than once!
+
+**Can I turn in my data journal late?**
+
+> Yep! Data journals will be accepted without penalty through the end of the semester \(Dec 10th\).
+
+**I missed class, how can I catch up?**
+
+> Click on the link for the day to watch the videos and go through the exercises on your own \(or with a friend!\). You can also come to office hours if you get stuck, or ask question in your lab section.
 
 
 
