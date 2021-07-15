@@ -2,6 +2,8 @@
 
 ## Welcome 
 
+
+
 ## Teaching Team
 
 <table>
@@ -21,6 +23,9 @@
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><b>Dr. Kathryn Schuler</b>
         </p>
+        <p>kschuler@sas.upenn.edu
+          <br />
+        </p>
         <p>likes to be called: Katie</p>
         <p>Office hours: TBD</p>
       </td>
@@ -30,7 +35,8 @@
         <p><b><br />[PICTURE]</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>Dr. Colin Twomey</b>
+        <p><b>Dr. Colin Twomey<br /></b>ctwomey@sas.upenn.edu
+          <br />
         </p>
         <p>likes to be called: TBD</p>
         <p>Office hours: TBD</p>
@@ -43,7 +49,8 @@
         <p><b><br />[PICTURE]</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>June Choe</b>
+        <p><b>June Choe<br /></b>jchoe@sas.upenn.edu
+          <br />
         </p>
         <p>likes to be called: TBD</p>
         <p>Office hours: TBD</p>
@@ -57,7 +64,8 @@
         <p><b><br />[PICTURE]</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>TBD</b>
+        <p><b>TBD<br /></b>tbd@sas.upenn.edu
+          <br />
         </p>
         <p>likes to be called: TBD</p>
         <p>Office hours: TBD</p>
@@ -68,7 +76,10 @@
         <p><b><br />[PICTURE]</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>TBD<br /></b>likes to be called: TBD</p>
+        <p><b>TBD<br /></b>tbd@sas.upenn.edu
+          <br />
+        </p>
+        <p>likes to be called: TBD</p>
         <p>Office hours: TBD</p>
       </td>
     </tr>
@@ -79,7 +90,8 @@
         <p><b><br />[PICTURE]</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>TBD</b>
+        <p><b>TBD<br /></b>tbd@sas.upenn.edu
+          <br />
         </p>
         <p>likes to be called: TBD</p>
         <p>Office hours: TBD</p>
@@ -90,7 +102,8 @@
         <p><b><br />[PICTURE]</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>TBD</b>
+        <p><b>TBD<br /></b>tbd@sas.upenn.edu
+          <br />
         </p>
         <p>likes to be called: TBD</p>
         <p>Office hours: TBD</p>
