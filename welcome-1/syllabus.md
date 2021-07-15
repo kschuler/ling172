@@ -143,7 +143,7 @@ All class sessions will be 60 minutes unless otherwise noted. See what we have p
 The table below shows the minimum score required \(before rounding\). Grading in this course is not curved: there is room for everyone to do well!
 
 |  |  |  |  |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | A+ 97% | A 93% | A- 90% | B+ 87% | B 84% | B- 80% |
 | C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61% |
 
