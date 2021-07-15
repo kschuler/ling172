@@ -1,2 +1,2 @@
-# Syllabus
+# Welcome
 
