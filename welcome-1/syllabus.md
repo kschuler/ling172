@@ -193,7 +193,7 @@ The table below shows the minimum score required \(before rounding\). Grading in
 
 **I missed class, how can I catch up?**
 
-> Click on the link for the day to watch the videos and go through the exercises on your own \(or with a friend!\). You can also come to office hours if you get stuck, or ask question in your lab section.
+>
 
 
 
