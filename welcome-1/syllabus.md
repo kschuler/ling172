@@ -4,7 +4,9 @@
 
 ### Welcome
 
+Welcome to Data Science for studying Language and the Mind! Data Sci for Lang & Mind is an entry-level course designed to teach basic principles of data science to students with little or no background in statistics or computer science. Students will learn to identify patterns in data using visualizations and descriptive statistics; make predictions from data using machine learning and optimization; and quantify the certainty of their predictions using statistical models. This course aims to help students build a foundation of critical thinking and computational skills that will allow them to work with data in all fields related to the study of the mind \(e.g. linguistics, psychology, philosophy, cognitive science, neuroscience\).
 
+_This is an introductory course and no specific background is assumed or required. Freshmen are very welcome!_
 
 ### General Schedule
 
