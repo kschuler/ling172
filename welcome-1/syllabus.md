@@ -150,23 +150,30 @@ All class sessions will be 60 minutes unless otherwise noted. See what we've got
 
 ### Attendance
 
+There is no formal attendance policy, but attendance is highly correlated with class performance.
+
 ### Rescheduling and make-ups
+
+Because we drop your lowest exam, we do not offer retakes or make-up exams. But please contact us if something extreme happens - a family or medical emergency, for example - and we can discuss some options provided you have documentation.
 
 ### Late assignments
 
+Late data journals will be accepted without penalty through the end of the semester.
+
 ### Accommodations 
+
+We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your lab section TA as soon as possible to make these arrangements.
 
 ### Academic integrity
 
-### Support
+We will follow the rules of the University and the Code of Academic Integrity. It is your responsibility to be familiar with these policies.
 
 ### Grading Scale
 
-The table below shows the minimum score required \(before rounding\). Grading in this course is not on a curve: there is room for everyone to do well!
+The table below shows the minimum score required \(before rounding\) for letter grades. Grading in this course is not on a curve: there is room for everyone to do well!
 
-|  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
 | A+ 97% | A 93% | A- 90% | B+ 87% | B 84% | B- 80% |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61% |
 
 ## FAQs
