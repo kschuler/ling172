@@ -62,7 +62,8 @@ description: 'Monday & Wednesdays 10:15 - 11:15am'
         </p>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Exam 1</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>5</b>
@@ -115,7 +116,8 @@ description: 'Monday & Wednesdays 10:15 - 11:15am'
         </p>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Exam 2</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>9</b>
@@ -166,7 +168,8 @@ description: 'Monday & Wednesdays 10:15 - 11:15am'
         </p>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Exam 3</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>13</b>
@@ -208,6 +211,19 @@ description: 'Monday & Wednesdays 10:15 - 11:15am'
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><em>last day of classes (10th)</em>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>16</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Dec 13: Reading period, no class!</b>
+        </p>
+        <p><b>Dec 15: Finals week, no class!</b>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Exam 4</b>
       </td>
     </tr>
   </tbody>
