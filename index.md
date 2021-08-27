@@ -1,6 +1,6 @@
 ---
-title: "Data Science for Studying Language and the Mind"
-layout: page
+title: "Home"
+layout: default
 ---
 
 ## Test
