@@ -9,7 +9,7 @@ layout: default
 
 <h3 align="center">Mondays & Wednesdays XX Time</h3>
 <br>
-<h4 align="center"><b>**The course is full! [Join the waitlist!](https://docs.google.com/forms/d/1ZAectJ07CbwUjm4mkTfQOMVEvWAN04qwF5pYfRfPo70/)**</b></h4>
+<h4 align="center"><b>**The course is full! [Join the waitlist](https://docs.google.com/forms/d/1ZAectJ07CbwUjm4mkTfQOMVEvWAN04qwF5pYfRfPo70/) **</b></h4>
 
 <hr>
 
