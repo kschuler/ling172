@@ -30,4 +30,4 @@ comments:
 remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
- - jekyll-feed
+  - jekyll-remote-theme
