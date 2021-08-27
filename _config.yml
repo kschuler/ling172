@@ -1,4 +1,4 @@
-title: "Blog Title"
+title: "LING 172 / PSYCH 215"
 author: "Blog Author"
 description: "My personal blog about ... something"
 permalink: /:title/
@@ -9,13 +9,13 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+show_frame: false          # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "index.md"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
