@@ -16,7 +16,7 @@ layout: page
 ## Teaching Team
 
 ### Instructors
-[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) - Office Hours TBD
+[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) - Office Hours TBD<br>
 [Dr. Colin Twomey](mailto:ctwomey@sas.upenn.edu) - Office Hours TBD
 
 ### Lead TA
@@ -44,19 +44,17 @@ Welcome to Data Science for studying Language and the Mind! Data Sci for Lang & 
 
 *This is an introductory course and no specific background is assumed or required. Freshmen are very welcome!*
 
-### General Schedule
+### Lab Schedule
 
 
 Section | Time | Location | TA
 --- | --- | ---
-401 Lecture| Mondays 10:15-11:15am & <br> Wednesdays 10:15-11:15am | MOOR 216 | Colin <br> Katie
 402 Lab | Thursdays 10:30-11:30am | BENN 222| TBD
 403 Lab | Thursdays 9:30-10:30am | BENN 222 | TBD
 404 Lab| Thursdays 10:30-11:30am | DRLB 4E19| TBD
 405 Lab | Thursdays 9:30-10:30am | DRLB 4E19 | TBD
 
-
-  
+ 
 ### Materials
 
 - **[Course website](index.md)** (you are here) for schedule, policies, and links to all assigned materials
