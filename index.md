@@ -9,7 +9,7 @@ layout: page
 
 <h3 align="center">Mondays & Wednesdays 10:15-11:15am MOOR 216</h3>
 <br>
-<h4 align="center"><b>**The course is full! [Join the waitlist](https://docs.google.com/forms/d/1ZAectJ07CbwUjm4mkTfQOMVEvWAN04qwF5pYfRfPo70/) **</b></h4>
+<h4 align="center"><b>**The course is full! <a href="https://docs.google.com/forms/d/1ZAectJ07CbwUjm4mkTfQOMVEvWAN04qwF5pYfRfPo70/"> Join the waitlist!</a>**</b></h4>
 
 <hr>
 
