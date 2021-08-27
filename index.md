@@ -74,21 +74,21 @@ Section | Time | Location | TA
 Schedule is subject to change. All lectures will be recorded and [posted here]() a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
-1 | Sep 01: Welcome | | *first day of Penn classes (31)*
-2 | Sep 06: Labor Day, no class! <br> Sep 08:  | | 
-3 | Sep 13: Welcome <br> Sep 15:  | | 
-4 | Sep 20: Welcome <br> Sep 22:  | | *course selection period ends (14)*
-5 | Sep 27: Welcome <br> Sep 29:  | | **Exam 1**
-6 | Oct 04: Welcome <br> Oct 06:  | | 
-7 | Oct 11: Welcome <br> Oct 13:  | | *drop period ends (11) <br> fall break (14 - 17)*
-8 | Oct 18: Welcome <br> Oct 20:  | | **Exam 2**
-9 | Oct 25: Welcome <br> Oct 27:  | | *grade types change deadline (29)*
-10 | Nov 01: Welcome <br> Nov 10:  | | *advanced registration begins (1)*
-11 | Nov 08: Welcome <br> Nov 03:  | | *last day to withdraw (8)*
-12 | Nov 15: Welcome <br> Nov 17:  | | **Exam 3**
-13 | Nov 22: Welcome <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*
-14 | Nov 29: Welcome <br> Dec 01:  | |
-15 | Dec 06: Welcome <br> Dec 08:  | | *last day of classes (10)*
+1 | Sep 01: Welcome | | *first day of Penn classes (31)* <br> Problem Set 1
+2 | Sep 06: Labor Day, no class! <br> Sep 08: Data visualization | | Problem Set 2 
+3 | Sep 13: R basics <br> Sep 15: Data transformation  | | *course selection period ends (14)* <br> Problem Set 3
+4 | Sep 20: Exploratory data analysis <br> Sep 22: Tibbles | | **Exam 1**
+5 | Sep 27: Data import <br> Sep 29: Tidy data | | Problem Set 4
+6 | Oct 04:Relational data <br> Oct 06: Strings | | Problem Set 5
+7 | Oct 11: Factors <br> Oct 13: Dates & Times  | | *drop period ends (11) <br> fall break (14 - 17)*<br> Problem Set 6
+8 | Oct 18: Pipes <br> Oct 20: Functions | | **Exam 2**
+9 | Oct 25: Vectors <br> Oct 27: Iteration | | *grade types change deadline (29)*
+10 | Nov 01: Model basics <br> Nov 10: Model building  | | *advanced registration begins (1)*
+11 | Nov 08: Many models <br> Nov 03: TBD | | *last day to withdraw (8)*
+12 | Nov 15: TBD  <br> Nov 17: TBD  | | **Exam 3**
+13 | Nov 22: TBD <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*
+14 | Nov 29: TBD <br> Dec 01: TBD | |
+15 | Dec 06: TBD <br> Dec 08: TBD | | *last day of classes (10)*
 16 | Dec 13: Reading period, no class! <br> Dec 15: Finals week, no class! | | **Exam 4**
 
 
@@ -99,6 +99,8 @@ Wk  | Lecture | Readings | Resources
 
 
 ## How to do well in LING172
+
+- To be updated
 
 ## Policies
 
