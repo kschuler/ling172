@@ -74,19 +74,19 @@ Wk  | Lecture | Readings | Resources
 1 | Sep 01: Welcome | Ch 1 | *first day of Penn classes (31)* <br> Problem Set 1
 2 | Sep 06: Labor Day, no class! <br> Sep 08: Data visualization | Ch 2-3 | Problem Set 2 
 3 | Sep 13: R basics <br> Sep 15: Data transformation  | Ch 4-5 | *course selection period ends (14)* <br> Problem Set 3
-4 | Sep 20: Exploratory data analysis <br> Sep 22: Tibbles | Ch 7, 9-11 | **Exam 1**
+4 | Sep 20: Exploratory data analysis <br> Sep 22: Tibbles | Ch 7, 9-11 | **Exam 1 due Fri**
 5 | Sep 27: Data import <br> Sep 29: Tidy data | Ch 11-12 | Problem Set 4
 6 | Oct 04:Relational data <br> Oct 06: Strings | Ch 13-14 | Problem Set 5
 7 | Oct 11: Factors <br> Oct 13: Dates & Times  | Ch 15-16 | *drop period ends (11) <br> fall break (14 - 17)*<br> Problem Set 6
-8 | Oct 18: Pipes <br> Oct 20: Functions | Ch 17-19 | **Exam 2**
+8 | Oct 18: Pipes <br> Oct 20: Functions | Ch 17-19 | **Exam 2 due Fri**
 9 | Oct 25: Vectors <br> Oct 27: Iteration | Ch 20-21 | *grade types change deadline (29)*
 10 | Nov 01: Model basics <br> Nov 10: Model building  | Ch 22-24 | *advanced registration begins (1)*
 11 | Nov 08: Many models <br> Nov 03: TBD | Ch 25 | *last day to withdraw (8)*
-12 | Nov 15: TBD  <br> Nov 17: TBD  | | **Exam 3**
+12 | Nov 15: TBD  <br> Nov 17: TBD  | | **Exam 3 due Fri**
 13 | Nov 22: TBD <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*
-14 | Nov 29: TBD <br> Dec 01: TBD | |
+14 | Nov 29: TBD <br> Dec 01: TBD | | **Data journals due Fri**
 15 | Dec 06: TBD <br> Dec 08: TBD | | *last day of classes (10)*
-16 | Dec 13: Reading period, no class! <br> Dec 15: Finals week, no class! | | **Exam 4**
+16 | Dec 13: Reading period, no class! <br> Dec 15: Finals week, no class! | | **Exam 4 due Fri**
 
 
 
@@ -103,9 +103,10 @@ Wk  | Lecture | Readings | Resources
 
 ## Policies
 
-- **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
-- **Rescheduling or make-up exams**: Because we drop your lowest exam, we do not offer retakes or make-up exams. But please contact us if something extreme happens - a family or medical emergency, for example - and we can discuss some options. Note that we do not consider multiple exams on the same day an extreme happening. 
-- **Late assignments**: Late data journals will be accepted without penalty through the end of the semester.
+- **Attendance**: There is no formal attendance policy, but keeping up with the material is highly correlated with class performance. Make plans to attend in person or watch the lectures online (alone or with a small group). 
+- **Exam deadlines**: Exams are due on Friday at midnight of the week they are [scheduled](#schedule). Exams have. a 3-day grace period, which means they will be accepted without penalty through Monday at midnight.  
+- **Rescheduling or make-up exams**: Because we drop your lowest exam, we do not offer retakes or make-up exams. But please contact us if something extreme happens - a family or medical emergency, for example - and we can discuss some options. 
+- **Late assignments**: Late data journals will be accepted without penalty through the last day of class (Dec 10th).
 - **Re-grade requests**: If you notice a grading error, we'd be happy to look at your exam again. To request a re-grade, please fill out the re-grade request form via canvas *within one week of receiving your graded exam or assignment*. This class is really big, so we need a way to formally keep track of these things. If you ask about grading in person or via email, you'll be directed to make a formal request via the regrade request form. 
 - **Accommodations**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your lab section TA as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
@@ -114,7 +115,7 @@ Wk  | Lecture | Readings | Resources
 ## Grading scale
 The table below shows the minimum score before rounding for letter grades. Grading in this course is not on a curve: there is room for everyone to do well!
 
-A+ 97% | A 93% | A- 90% | B+ 87% | B 84% | B- 80%
+A+ 97 | A 93% | A- 90% | B+ 87% | B 84% | B- 80%
 --- | --- | --- | --- | --- | ---
 C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 
