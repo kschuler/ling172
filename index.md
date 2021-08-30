@@ -81,13 +81,13 @@ Wk  | Lecture | Readings | Resources
 6 | Oct 04:Relational data <br> Oct 06: Strings | Ch 13-14 | Problem Set 5
 7 | Oct 11: Factors <br> Oct 13: Dates & Times  | Ch 15-16 | *drop period ends (11) <br> fall break (14 - 17)*<br> Problem Set 6
 8 | Oct 18: Pipes <br> Oct 20: Functions | Ch 17-19 | **Exam 2 due Fri**
-9 | Oct 25: Vectors <br> Oct 27: Iteration | Ch 20-21 | *grade types change deadline (29)*
-10 | Nov 01: Model basics <br> Nov 10: Model building  | Ch 22-24 | *advanced registration begins (1)*
-11 | Nov 08: Many models <br> Nov 03: TBD | Ch 25 | *last day to withdraw (8)*
+9 | Oct 25: Vectors <br> Oct 27: Iteration | Ch 20-21 | *grade types change deadline (29)*<br> Problem Set 7
+10 | Nov 01: Model basics <br> Nov 10: Model building  | Ch 22-24 | *advanced registration begins (1)* <br> Problem Set 8
+11 | Nov 08: Many models <br> Nov 03: TBD | Ch 25 | *last day to withdraw (8)* <br> Problem Set 9
 12 | Nov 15: TBD  <br> Nov 17: TBD  | | **Exam 3 due Fri**
-13 | Nov 22: TBD <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*
-14 | Nov 29: TBD <br> Dec 01: TBD | | **Data journals due Fri**
-15 | Dec 06: TBD <br> Dec 08: TBD | | *last day of classes (10)*
+13 | Nov 22: TBD <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*<br> Problem Set 10
+14 | Nov 29: TBD <br> Dec 01: TBD | | **Data journals due Fri**<br> Problem Set 11
+15 | Dec 06: TBD <br> Dec 08: TBD | | *last day of classes (10)*<br> Problem Set 12
 16 | Dec 13: Reading period, no class! <br> Dec 15: Finals week, no class! | | **Exam 4 due Fri**
 
 
