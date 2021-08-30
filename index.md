@@ -70,7 +70,7 @@ Section | Time | Location | TA
 - TBD
 
 ## Schedule
-Schedule is subject to change. All lectures will be recorded and [posted here]() a few minutes after each class.
+Schedule is subject to change. All lectures will be recorded and [posted here](https://canvas.upenn.edu/courses/1613834/external_tools/90311) a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
 1 | Sep 01: Welcome | Ch 1 | *first day of Penn classes (31)* <br> Problem Set 1
