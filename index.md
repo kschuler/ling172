@@ -61,7 +61,7 @@ Section | Time | Location | TA
 - **[Course website](index.md)** (you are here) for schedule, policies, and links to all assigned materials
 - **[Canvas site](https://canvas.upenn.edu/courses/1613834)** for announcements and grade related things
 - **[Perusall](https://app.perusall.com/courses/ling172-psyc215/_/dashboard)** for reading assignments (access code released at first class meeting), most of which come from [R for Data Science](https://r4ds.had.co.nz/) (in case you prefer a paper copy).
-- **[Ed Discussion)[https://edstem.org/us/courses/12952/discussion/]** for online discussion and support
+- **[Ed Discussion](https://edstem.org/us/courses/12952/discussion/)** for online discussion and support
 
 ### Evaluation 
 - **Exams (90%)** - There are four exams, but the lowest exam score is dropped. 
