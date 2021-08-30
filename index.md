@@ -12,6 +12,8 @@ layout: page
 
 > The course is full! [Join the waitlist!](https://docs.google.com/forms/d/1ZAectJ07CbwUjm4mkTfQOMVEvWAN04qwF5pYfRfPo70/)
 
+<hr>
+
 ## Teaching Team
 
 ### Instructors
