@@ -122,11 +122,17 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 
 ## FAQs
 
+**I am not comfortable coming to the 80 person lecture in person due to COVID. Can I watch the lectures online instead?**
+> Yes, of course! We know many students won't feel comfortable in an enclosed space with this many people just yet. All lectures will be recorded and poster [here]() a few minutes after class. You can watch on your own, or form a small group of peers to watch together if you are more comfortable. 
+
 **Can I skip the fourth exam if I am happy with my grade on the first three?**
 > Yes! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
 
 **If I miss lab can I come to another recitation section that week?**
 > Sure! You can join any lab session that will work for your schedule. But keep in mind that the rooms are small so it’s best to email the section TA to let them know.
+
+**I am not comfortable attending lab in person. What should I do?**
+> We expect labs to have around 15-20 people each week, so they will be much smaller than lecture. If you still don't feel comfortable, we recommend trying the problem sets on your own, and then attending virtual office hours to get help. You can also ask questions on Ed Discussion as you are working through them. 
 
 **I noticed a mistake in the grading of my exam. How do I get this fixed?**
 > We will look at your exam again if you make a formal [re-grade request](https://canvas.upenn.edu/courses/1489351/modules/items/17298855) via Canvas within one week of getting your exam back.
@@ -135,16 +141,16 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once! 
 
 **Can I turn in my data journal late?** 
-> Yep! Data journals will be accepted without penalty through the end of the semester (Dec 10th).
+> Yep! Data journals will be accepted without penalty through the last day of class (Dec 10th).
 
 **I missed class, how can I catch up?**
 > All of the lectures will be automatically recorded and posted to canvas a few minutes after class ends. You can watch the lectures when you are ready. We also recommend attending office hours and lab sections to make sure you don't fall behind. 
 
-**I do not feel well, or need to quarantine. What should I do?**
-> Please don't come to class if you are unwell. Follow the steps in the question above (under "I missed class") to catch up. 
+**I do not feel well, tested positive for COVID, and/or need to quarantine. What should I do?**
+> Please don't come to class if you are unwell or under quarantine. Follow the steps in the question above (under "I missed class") to catch up. If you miss a lab, you can try the problem sets on your own and schedule a virtual office hours to catch up. If you will miss an exam for this reason, let us know and we will work with you.
 
-**What will happen if one of the instructors or TAs does not feel well or needs to quarantine? **
-> We'll teach the course remotely if we need to, or fill in for each other if we can. We have a large teaching team, so this shouldn't be an issue. 
+**What will happen if one of the instructors or TAs does not feel well, tests positive, and/or needs to quarantine?**
+> We will teach the course remotely if we need to, or fill in for each other if we can. We have a large teaching team, so this shouldn't be an issue. 
 
 
 
