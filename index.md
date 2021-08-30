@@ -32,7 +32,7 @@ layout: page
 
 ## Getting Help
 
-- **Ed Disucssion:** The best way to get help anytime is to ask a question on the [discussion board](). You'll get a response within 24 hours, usually much faster. Students are encouraged to answer each other's questions as well. 
+- **Ed Disucssion:** The best way to get help anytime is to ask a question on the [discussion board](https://edstem.org/us/courses/12952/discussion/). You'll get a response within 24 hours, usually much faster. Students are encouraged to answer each other's questions as well. 
 
 - **Office Hours:** The best way to get help one-on-one is to attend virtual office hours on zoom. 
 
@@ -61,7 +61,7 @@ Section | Time | Location | TA
 - **[Course website](index.md)** (you are here) for schedule, policies, and links to all assigned materials
 - **[Canvas site](https://canvas.upenn.edu/courses/1613834)** for announcements and grade related things
 - **[Perusall](https://app.perusall.com/courses/ling172-psyc215/_/dashboard)** for reading assignments (access code released at first class meeting), most of which come from [R for Data Science](https://r4ds.had.co.nz/) (in case you prefer a paper copy).
-- **[Ed Discussion (via Canvas)[]** for online discussion and support
+- **[Ed Discussion)[https://edstem.org/us/courses/12952/discussion/]** for online discussion and support
 
 ### Evaluation 
 - **Exams (90%)** - There are four exams, but the lowest exam score is dropped. 
@@ -125,7 +125,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 ## FAQs
 
 **I am not comfortable coming to the 80 person lecture in person due to COVID. Can I watch the lectures online instead?**
-> Yes, of course! We know many students won't feel comfortable in an enclosed space with this many people just yet. All lectures will be recorded and poster [here]() a few minutes after class. You can watch on your own, or form a small group of peers to watch together if you are more comfortable. 
+> Yes, of course! We know many students won't feel comfortable in an enclosed space with this many people just yet. All lectures will be recorded and posted [here]() a few minutes after class. You can watch on your own, or form a small group of peers to watch together if you are more comfortable. 
 
 **Can I skip the fourth exam if I am happy with my grade on the first three?**
 > Yes! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
@@ -134,7 +134,9 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Sure! You can join any lab session that will work for your schedule. But keep in mind that the rooms are small so it’s best to email the section TA to let them know.
 
 **I am not comfortable attending lab in person. What should I do?**
-> We expect labs to have around 15-20 people each week, so they will be much smaller than lecture. If you still don't feel comfortable, we recommend trying the problem sets on your own, and then attending virtual office hours to get help. You can also ask questions on Ed Discussion as you are working through them. 
+> We expect labs to have around 15-20 people each week, so they will be much smaller than lecture. If you still don't feel comfortable, we recommend trying the problem sets on your own, and then attending virtual office hours to get help. You can also ask questions on Ed 
+
+as you are working through them. 
 
 **I noticed a mistake in the grading of my exam. How do I get this fixed?**
 > We will look at your exam again if you make a formal [re-grade request](https://canvas.upenn.edu/courses/1489351/modules/items/17298855) via Canvas within one week of getting your exam back.
