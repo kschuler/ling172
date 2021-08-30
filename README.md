@@ -8,5 +8,5 @@ The website is created with two files: `_config.yml` and `index.md`. Edits shoul
 
 ## Website
 
-The website renders here, and is updated after each commit: [https://kathrynschuler.com/ling172]()
+The website renders here, and is updated after each commit: [https://www.kathrynschuler.com/ling172]()
 
