@@ -66,8 +66,6 @@ Section | Time | Location | TA
 - **Data journal (10%)** - Practice your skills by applying what you’ve learned to (at least) four data sets of your choosing. More details will be provided as the deadline approaches
 - Note that **lab problem sets are ungraded**. They are designed to help you practice your new skills in a low-pressure environment and to help you prepare for the exams!
 
-### Extra Credit
-- TBD
 
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted here](https://canvas.upenn.edu/courses/1613834/external_tools/90311) a few minutes after each class.
@@ -99,7 +97,9 @@ Wk  | Lecture | Readings | Resources
 
 ## How to do well in LING172
 
-- To be updated
+- Keep up with lecture material by attending in person or watching online
+- Try the practice problem sets 
+- Get help with problem sets during lab or virtual office hours
 
 ## Policies
 
