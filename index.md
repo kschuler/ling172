@@ -134,9 +134,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Sure! You can join any lab session that will work for your schedule. But keep in mind that the rooms are small so it’s best to email the section TA to let them know.
 
 **I am not comfortable attending lab in person. What should I do?**
-> We expect labs to have around 15-20 people each week, so they will be much smaller than lecture. If you still don't feel comfortable, we recommend trying the problem sets on your own, and then attending virtual office hours to get help. You can also ask questions on Ed 
-
-as you are working through them. 
+> We expect labs to have around 15-20 people each week, so they will be much smaller than lecture. If you still don't feel comfortable, we recommend trying the problem sets on your own, and then attending virtual office hours to get help. You can also ask questions on Ed Discussion as you are working through them. 
 
 **I noticed a mistake in the grading of my exam. How do I get this fixed?**
 > We will look at your exam again if you make a formal [re-grade request](https://canvas.upenn.edu/courses/1489351/modules/items/17298855) via Canvas within one week of getting your exam back.
