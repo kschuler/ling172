@@ -73,7 +73,7 @@ Section | Time | Location | TA
 Schedule is subject to change. All lectures will be recorded and [posted here](https://canvas.upenn.edu/courses/1613834/external_tools/90311) a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
-1 | Sep 01: Welcome | [Ch 1](https://app.perusall.com/courses/ling172-psyc215/1-introduction-or-r-for-data-science-865413295?assignmentId=fowzE5QhWyf99jPrs&part=1) | *first day of Penn classes (31)* <br> Problem Set 1
+1 | Sep 01: Welcome | [Ch 1](https://app.perusall.com/courses/ling172-psyc215/1-introduction-or-r-for-data-science-865413295?assignmentId=fowzE5QhWyf99jPrs&part=1) | *first day of Penn classes (31)* <br> [Problem Set 1](https://colab.research.google.com/drive/1paOSBijSnpzZAim8uMWtFtVhilKHWksZ)
 2 | Sep 06: Labor Day, no class! <br> Sep 08: Data visualization | [Ch 2-3](https://app.perusall.com/courses/ling172-psyc215/2-introduction-or-r-for-data-science-116556996?assignmentId=2k3FuDKSCWRriWcuy&part=1) | Problem Set 2 
 3 | Sep 13: R basics <br> Sep 15: Data transformation  | [Ch 4-5](https://app.perusall.com/courses/ling172-psyc215/4-workflow-basics-or-r-for-data-science-398275411?assignmentId=E6nPiWM9FNQtXJ4Sf&part=1) | *course selection period ends (14)* <br> Problem Set 3
 4 | Sep 20: Exploratory data analysis <br> Sep 22: Tibbles | [Ch 7, 9-11](https://app.perusall.com/courses/ling172-psyc215/7-exploratory-data-analysis-or-r-for-data-science-374118651?assignmentId=5ZDaPSbePbg9Ax5TD&part=1) | **Exam 1 due Fri**
