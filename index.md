@@ -73,20 +73,20 @@ Section | Time | Location | TA
 Schedule is subject to change. All lectures will be recorded and [posted here](https://canvas.upenn.edu/courses/1613834/external_tools/90311) a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
-1 | Sep 01: Welcome | Ch 1 | *first day of Penn classes (31)* <br> Problem Set 1
-2 | Sep 06: Labor Day, no class! <br> Sep 08: Data visualization | Ch 2-3 | Problem Set 2 
-3 | Sep 13: R basics <br> Sep 15: Data transformation  | Ch 4-5 | *course selection period ends (14)* <br> Problem Set 3
-4 | Sep 20: Exploratory data analysis <br> Sep 22: Tibbles | Ch 7, 9-11 | **Exam 1 due Fri**
-5 | Sep 27: Data import <br> Sep 29: Tidy data | Ch 11-12 | Problem Set 4
-6 | Oct 04:Relational data <br> Oct 06: Strings | Ch 13-14 | Problem Set 5
-7 | Oct 11: Factors <br> Oct 13: Dates & Times  | Ch 15-16 | *drop period ends (11) <br> fall break (14 - 17)*<br> Problem Set 6
-8 | Oct 18: Pipes <br> Oct 20: Functions | Ch 17-19 | **Exam 2 due Fri**
-9 | Oct 25: Vectors <br> Oct 27: Iteration | Ch 20-21 | *grade types change deadline (29)*<br> Problem Set 7
-10 | Nov 01: Model basics <br> Nov 10: Model building  | Ch 22-24 | *advanced registration begins (1)* <br> Problem Set 8
-11 | Nov 08: Many models <br> Nov 03: TBD | Ch 25 | *last day to withdraw (8)* <br> Problem Set 9
-12 | Nov 15: TBD  <br> Nov 17: TBD  | | **Exam 3 due Fri**
-13 | Nov 22: TBD <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*<br> Problem Set 10
-14 | Nov 29: TBD <br> Dec 01: TBD | | **Data journals due Fri**<br> Problem Set 11
+1 | Sep 01: Welcome | [Ch 1](https://app.perusall.com/courses/ling172-psyc215/1-introduction-or-r-for-data-science-865413295?assignmentId=fowzE5QhWyf99jPrs&part=1) | *first day of Penn classes (31)* <br> Problem Set 1
+2 | Sep 06: Labor Day, no class! <br> Sep 08: Data visualization | [Ch 2-3](https://app.perusall.com/courses/ling172-psyc215/2-introduction-or-r-for-data-science-116556996?assignmentId=2k3FuDKSCWRriWcuy&part=1) | Problem Set 2 
+3 | Sep 13: R basics <br> Sep 15: Data transformation  | [Ch 4-5](https://app.perusall.com/courses/ling172-psyc215/4-workflow-basics-or-r-for-data-science-398275411?assignmentId=E6nPiWM9FNQtXJ4Sf&part=1) | *course selection period ends (14)* <br> Problem Set 3
+4 | Sep 20: Exploratory data analysis <br> Sep 22: Tibbles | [Ch 7, 9-11](https://app.perusall.com/courses/ling172-psyc215/7-exploratory-data-analysis-or-r-for-data-science-374118651?assignmentId=5ZDaPSbePbg9Ax5TD&part=1) | **Exam 1 due Fri**
+5 | Sep 27: Data import <br> Sep 29: Tidy data | [Ch 11-12](https://app.perusall.com/courses/ling172-psyc215/11-data-import-or-r-for-data-science-208923256?assignmentId=H4JAnSKTTP83thnmb&part=1) | Problem Set 4
+6 | Oct 04:Relational data <br> Oct 06: Strings | [Ch 13-14](https://app.perusall.com/courses/ling172-psyc215/13-relational-data-or-r-for-data-science-849544878?assignmentId=su9b7ENMveyXwyvx4&part=1) | Problem Set 5
+7 | Oct 11: Factors <br> Oct 13: Dates & Times  | [Ch 15-16](https://app.perusall.com/courses/ling172-psyc215/15-factors-or-r-for-data-science-111191381?assignmentId=ss22smErvbJATwF9W&part=1) | *drop period ends (11) <br> fall break (14 - 17)*<br> Problem Set 6
+8 | Oct 18: Pipes <br> Oct 20: Functions | [Ch 17-19](https://app.perusall.com/courses/ling172-psyc215/17-introduction-or-r-for-data-science-66076026?assignmentId=zHxmHSKtwc8PfH8km&part=1) | **Exam 2 due Fri**
+9 | Oct 25: Vectors <br> Oct 27: Iteration | [Ch 20-21](https://app.perusall.com/courses/ling172-psyc215/20-vectors-or-r-for-data-science-658335726?assignmentId=5fTz889fQ2YuHzEMW&part=1) | *grade types change deadline (29)*<br> Problem Set 7
+10 | Nov 01: Model basics <br> Nov 10: Model building  | [Ch 22-24](https://app.perusall.com/courses/ling172-psyc215/22-introduction-or-r-for-data-science-514508974?assignmentId=E8ks5HRungvHFEpHM&part=1) | *advanced registration begins (1)* <br> Problem Set 8
+11 | Nov 08: Many models <br> Nov 03: Linear regression | [Ch 25](https://app.perusall.com/courses/ling172-psyc215/25-many-models-or-r-for-data-science-341825677?assignmentId=MS9t9FRjwXzb3P6xK&part=1) | *last day to withdraw (8)* <br> Problem Set 9
+12 | Nov 15: Logistic regression  <br> Nov 17: Multiple regression | | **Exam 3 due Fri**
+13 | Nov 22: ANOVA <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*<br> Problem Set 10
+14 | Nov 29: Linear mixed effects I <br> Dec 01: Linear mixed effects II | | **Data journals due Fri**<br> Problem Set 11
 15 | Dec 06: TBD <br> Dec 08: TBD | | *last day of classes (10)*<br> Problem Set 12
 16 | Dec 13: Reading period, no class! <br> Dec 15: Finals week, no class! | | **Exam 4 due Fri**
 
