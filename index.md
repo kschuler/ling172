@@ -51,9 +51,9 @@ Welcome to Data Science for studying Language and the Mind! Data Sci for Lang & 
 Section | Time | Location | TA
 --- | --- | ---
 402 Lab | Thursdays 10:15-11:15am | BENN 222| June
-403 Lab | Thursdays 12:00-1:00pm | BENN 222 | June
+403 Lab | Thursdays 12:00-1:00pm | BENN 222 | TBD
 404 Lab| Fridays 10:15-11:15am | DRLB 4E19| June
-405 Lab | Fridays 12:00-1:00pm | DRLB 4E19 | TBD
+405 Lab | Fridays 12:00-1:00pm | DRLB 4E19 | June
 
  
 ### Materials
