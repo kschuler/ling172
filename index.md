@@ -24,10 +24,10 @@ layout: page
 [June Choe](mailto:yjchoe@sas.upenn.edu) - Virtual Office Hours TBD
 
 ### Lab Assistants
-[LA1 TBD](mailto:) - Office Hours TBD<br>
-[LA2 TBD](mailto:) - Office Hours TBD<br>
-[LA3 TBD](mailto:) - Office Hours TBD<br>
-[LA4 TBD](mailto:) - Office Hours TBD
+[Nikhil Avadhani](mailto:nikav@sas.upenn.edu) - Office Hours TBD<br>
+[Sophie Faircloth](mailto:sof@sas.upenn.edu) - Office Hours TBD<br>
+[Salam Karadsheh](mailto:salamkar@sas.upenn.edu) - Office Hours TBD<br>
+[Kevin Liang](mailto:kevliang@sas.upenn.edu) - Office Hours TBD
 
 
 ## Getting Help
@@ -48,12 +48,12 @@ Welcome to Data Science for studying Language and the Mind! Data Sci for Lang & 
 ### Lab Schedule
 
 
-Section | Time | Location | TA
+Section | Time | Location | LA
 --- | --- | ---
-402 Lab | Thursdays 10:15-11:15am | BENN 222| June
-403 Lab | Thursdays 12:00-1:00pm | BENN 222 | TBD
-404 Lab| Fridays 10:15-11:15am | DRLB 4E19| June
-405 Lab | Fridays 12:00-1:00pm | DRLB 4E19 | June
+402 Lab | Thursdays 10:15-11:15am | BENN 222 | Nikhil
+403 Lab | Thursdays 12:00-1:00pm | BENN 222 | Sophie
+404 Lab | Fridays 10:15-11:15am | DRLB 4E19 | Salam
+405 Lab | Fridays 12:00-1:00pm | DRLB 4E19 | Kevin
 
  
 ### Materials
