@@ -17,7 +17,7 @@ layout: page
 ## Teaching Team
 
 ### Instructors
-[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) - Virtual Office Hours TBD<br>
+[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) - Mondays 11:15 - 12:15 [on Zoom](https://upenn.zoom.us/my/katieschuler)<br>
 [Dr. Colin Twomey](mailto:ctwomey@sas.upenn.edu) - Virtual Office Hours TBD
 
 ### Lead TA
