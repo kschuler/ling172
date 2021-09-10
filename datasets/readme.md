@@ -1,4 +1,7 @@
-## Datasets
+---
+title: "Datasets"
+layout: page
+---
 
 Datasets used in Fall 2021 for LING 172. 
 
