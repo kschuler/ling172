@@ -1,0 +1,1973 @@
+"","language","age","measure","uni_lemma","words","prop"
+"1","American Sign Language",10,"produces","ball","BALL",0
+"2","American Sign Language",18,"produces","ball","BALL",0.666666666666667
+"3","American Sign Language",21,"produces","ball","BALL",1
+"4","American Sign Language",23,"produces","ball","BALL",1
+"5","American Sign Language",24,"produces","ball","BALL",1
+"6","American Sign Language",27,"produces","ball","BALL",1
+"7","American Sign Language",30,"produces","ball","BALL",1
+"8","American Sign Language",31,"produces","ball","BALL",1
+"9","American Sign Language",32,"produces","ball","BALL",1
+"10","American Sign Language",34,"produces","ball","BALL",1
+"11","British Sign Language",8,"produces","ball","ball",0
+"12","British Sign Language",9,"produces","ball","ball",0
+"13","British Sign Language",10,"produces","ball","ball",0
+"14","British Sign Language",11,"produces","ball","ball",0.166666666666667
+"15","British Sign Language",12,"produces","ball","ball",0
+"16","British Sign Language",13,"produces","ball","ball",0
+"17","British Sign Language",14,"produces","ball","ball",0.142857142857143
+"18","British Sign Language",15,"produces","ball","ball",0.166666666666667
+"19","British Sign Language",16,"produces","ball","ball",0.285714285714286
+"20","British Sign Language",17,"produces","ball","ball",0.428571428571429
+"21","British Sign Language",18,"produces","ball","ball",0.5
+"22","British Sign Language",19,"produces","ball","ball",0.5
+"23","British Sign Language",20,"produces","ball","ball",0.909090909090909
+"24","British Sign Language",21,"produces","ball","ball",0.6
+"25","British Sign Language",22,"produces","ball","ball",0.666666666666667
+"26","British Sign Language",23,"produces","ball","ball",0.857142857142857
+"27","British Sign Language",24,"produces","ball","ball",0.8
+"28","British Sign Language",25,"produces","ball","ball",0.571428571428571
+"29","British Sign Language",26,"produces","ball","ball",1
+"30","British Sign Language",27,"produces","ball","ball",1
+"31","British Sign Language",28,"produces","ball","ball",1
+"32","British Sign Language",29,"produces","ball","ball",1
+"33","British Sign Language",30,"produces","ball","ball",1
+"34","British Sign Language",32,"produces","ball","ball",1
+"35","British Sign Language",33,"produces","ball","ball",1
+"36","British Sign Language",36,"produces","ball","ball",1
+"37","Cantonese",16,"produces","ball","波",0.511111111111111
+"38","Cantonese",17,"produces","ball","波",0.672131147540984
+"39","Cantonese",18,"produces","ball","波",0.772727272727273
+"40","Cantonese",19,"produces","ball","波",0.787878787878788
+"41","Cantonese",20,"produces","ball","波",0.89041095890411
+"42","Cantonese",21,"produces","ball","波",0.875
+"43","Cantonese",22,"produces","ball","波",0.888888888888889
+"44","Cantonese",23,"produces","ball","波",0.918918918918919
+"45","Cantonese",24,"produces","ball","波",0.941176470588235
+"46","Cantonese",25,"produces","ball","波",0.984615384615385
+"47","Cantonese",26,"produces","ball","波",0.970149253731343
+"48","Cantonese",27,"produces","ball","波",1
+"49","Cantonese",28,"produces","ball","波",0.96969696969697
+"50","Cantonese",29,"produces","ball","波",0.985915492957746
+"51","Cantonese",30,"produces","ball","波",1
+"52","Croatian",8,"produces","ball","lopta",0
+"53","Croatian",9,"produces","ball","lopta",0
+"54","Croatian",10,"produces","ball","lopta",0.0454545454545455
+"55","Croatian",11,"produces","ball","lopta",0
+"56","Croatian",12,"produces","ball","lopta",0.0571428571428571
+"57","Croatian",13,"produces","ball","lopta",0.0588235294117647
+"58","Croatian",14,"produces","ball","lopta",0.107142857142857
+"59","Croatian",15,"produces","ball","lopta",0.125
+"60","Croatian",16,"produces","ball","lopta",0.468085106382979
+"61","Croatian",17,"produces","ball","lopta",0.2
+"62","Croatian",18,"produces","ball","lopta",0.363636363636364
+"63","Croatian",19,"produces","ball","lopta",0.523809523809524
+"64","Croatian",20,"produces","ball","lopta",0.576923076923077
+"65","Croatian",21,"produces","ball","lopta",0.620689655172414
+"66","Croatian",22,"produces","ball","lopta",0.75
+"67","Croatian",23,"produces","ball","lopta",0.846153846153846
+"68","Croatian",24,"produces","ball","lopta",0.833333333333333
+"69","Croatian",25,"produces","ball","lopta",0.833333333333333
+"70","Croatian",26,"produces","ball","lopta",0.862068965517241
+"71","Croatian",27,"produces","ball","lopta",0.92
+"72","Croatian",28,"produces","ball","lopta",1
+"73","Croatian",29,"produces","ball","lopta",0.928571428571429
+"74","Croatian",30,"produces","ball","lopta",1
+"75","Danish",8,"produces","ball","bold",0
+"76","Danish",9,"produces","ball","bold",0
+"77","Danish",10,"produces","ball","bold",0.00549450549450549
+"78","Danish",11,"produces","ball","bold",0.02
+"79","Danish",12,"produces","ball","bold",0.0265957446808511
+"80","Danish",13,"produces","ball","bold",0.0509259259259259
+"81","Danish",14,"produces","ball","bold",0.0786516853932584
+"82","Danish",15,"produces","ball","bold",0.137931034482759
+"83","Danish",16,"produces","ball","bold",0.239554317548747
+"84","Danish",17,"produces","ball","bold",0.320809248554913
+"85","Danish",18,"produces","ball","bold",0.458100558659218
+"86","Danish",19,"produces","ball","bold",0.534626038781163
+"87","Danish",20,"produces","ball","bold",0.670391061452514
+"88","Danish",21,"produces","ball","bold",0.716101694915254
+"89","Danish",22,"produces","ball","bold",0.842553191489362
+"90","Danish",23,"produces","ball","bold",0.847368421052632
+"91","Danish",24,"produces","ball","bold",0.907407407407407
+"92","Danish",25,"produces","ball","bold",0.91304347826087
+"93","Danish",26,"produces","ball","bold",0.951456310679612
+"94","Danish",27,"produces","ball","bold",0.943181818181818
+"95","Danish",28,"produces","ball","bold",0.952631578947368
+"96","Danish",29,"produces","ball","bold",0.956043956043956
+"97","Danish",30,"produces","ball","bold",0.988439306358382
+"98","Danish",31,"produces","ball","bold",0.982857142857143
+"99","Danish",32,"produces","ball","bold",0.986013986013986
+"100","Danish",33,"produces","ball","bold",0.986754966887417
+"101","Danish",34,"produces","ball","bold",1
+"102","Danish",35,"produces","ball","bold",0.991150442477876
+"103","Danish",36,"produces","ball","bold",1
+"104","English (American)",8,"produces","ball","ball",0.0285714285714286
+"105","English (American)",9,"produces","ball","ball",0.0212765957446809
+"106","English (American)",10,"produces","ball","ball",0.0451612903225806
+"107","English (American)",11,"produces","ball","ball",0.127659574468085
+"108","English (American)",12,"produces","ball","ball",0.223776223776224
+"109","English (American)",13,"produces","ball","ball",0.376623376623377
+"110","English (American)",14,"produces","ball","ball",0.484615384615385
+"111","English (American)",15,"produces","ball","ball",0.537190082644628
+"112","English (American)",16,"produces","ball","ball",0.75417661097852
+"113","English (American)",17,"produces","ball","ball",0.798342541436464
+"114","English (American)",18,"produces","ball","ball",0.884030418250951
+"115","English (American)",19,"produces","ball","ball",0.914634146341463
+"116","English (American)",20,"produces","ball","ball",0.952554744525547
+"117","English (American)",21,"produces","ball","ball",0.940886699507389
+"118","English (American)",22,"produces","ball","ball",0.96
+"119","English (American)",23,"produces","ball","ball",0.977099236641221
+"120","English (American)",24,"produces","ball","ball",0.963979416809606
+"121","English (American)",25,"produces","ball","ball",0.972972972972973
+"122","English (American)",26,"produces","ball","ball",0.983425414364641
+"123","English (American)",27,"produces","ball","ball",0.979487179487179
+"124","English (American)",28,"produces","ball","ball",0.994981179422836
+"125","English (American)",29,"produces","ball","ball",0.97979797979798
+"126","English (American)",30,"produces","ball","ball",0.993220338983051
+"127","English (Australian)",12,"produces","ball","ball",0.140845070422535
+"128","English (Australian)",13,"produces","ball","ball",0.171875
+"129","English (Australian)",14,"produces","ball","ball",0.414414414414414
+"130","English (Australian)",15,"produces","ball","ball",0.478260869565217
+"131","English (Australian)",16,"produces","ball","ball",0.65
+"132","English (Australian)",17,"produces","ball","ball",0.701923076923077
+"133","English (Australian)",18,"produces","ball","ball",0.779816513761468
+"134","English (Australian)",19,"produces","ball","ball",0.887096774193548
+"135","English (Australian)",20,"produces","ball","ball",0.987179487179487
+"136","English (Australian)",21,"produces","ball","ball",0.882352941176471
+"137","English (Australian)",22,"produces","ball","ball",0.972602739726027
+"138","English (Australian)",23,"produces","ball","ball",0.985915492957746
+"139","English (Australian)",24,"produces","ball","ball",0.960526315789474
+"140","English (Australian)",25,"produces","ball","ball",0.988235294117647
+"141","English (Australian)",26,"produces","ball","ball",0.974025974025974
+"142","English (Australian)",27,"produces","ball","ball",0.972222222222222
+"143","English (Australian)",28,"produces","ball","ball",1
+"144","English (Australian)",29,"produces","ball","ball",0.969230769230769
+"145","English (Australian)",30,"produces","ball","ball",1
+"146","English (British)",12,"produces","ball","ball",0.148148148148148
+"147","English (British)",13,"produces","ball","ball",0.142857142857143
+"148","English (British)",14,"produces","ball","ball",0.234375
+"149","English (British)",15,"produces","ball","ball",0.340909090909091
+"150","English (British)",16,"produces","ball","ball",0.406779661016949
+"151","English (British)",17,"produces","ball","ball",0.593908629441624
+"152","English (British)",18,"produces","ball","ball",0.601694915254237
+"153","English (British)",19,"produces","ball","ball",0.73394495412844
+"154","English (British)",20,"produces","ball","ball",0.821917808219178
+"155","English (British)",21,"produces","ball","ball",0.865853658536585
+"156","English (British)",22,"produces","ball","ball",0.912162162162162
+"157","English (British)",23,"produces","ball","ball",0.906828119744366
+"158","English (British)",24,"produces","ball","ball",0.91658971991382
+"159","English (British)",25,"produces","ball","ball",0.913404507710557
+"160","English (British)",26,"produces","ball","ball",0.918439716312057
+"161","English (British)",27,"produces","ball","ball",0.919463087248322
+"162","English (British)",28,"produces","ball","ball",0.881720430107527
+"163","English (British)",29,"produces","ball","ball",0.9
+"164","English (British)",30,"produces","ball","ball",1
+"165","English (British)",31,"produces","ball","ball",1
+"166","English (British)",32,"produces","ball","ball",0.962962962962963
+"167","English (British)",33,"produces","ball","ball",0.933333333333333
+"168","English (British)",34,"produces","ball","ball",0.8
+"169","English (British)",35,"produces","ball","ball",0.8
+"170","French (French)",8,"produces","ball","balle, ballon",0
+"171","French (French)",9,"produces","ball","balle, ballon",0
+"172","French (French)",11,"produces","ball","balle, ballon",0.0535714285714286
+"173","French (French)",12,"produces","ball","balle, ballon",0
+"174","French (French)",13,"produces","ball","balle, ballon",0.0465116279069767
+"175","French (French)",14,"produces","ball","balle, ballon",0.0208333333333333
+"176","French (French)",16,"produces","ball","balle, ballon",0.145833333333333
+"177","French (French)",17,"produces","ball","balle, ballon",0.25
+"178","French (French)",19,"produces","ball","balle, ballon",0.5
+"179","French (French)",20,"produces","ball","balle, ballon",0.5125
+"180","French (French)",21,"produces","ball","balle, ballon",0.5625
+"181","French (French)",22,"produces","ball","balle, ballon",0.658536585365854
+"182","French (French)",23,"produces","ball","balle, ballon",0.647887323943662
+"183","French (French)",24,"produces","ball","balle, ballon",0.715384615384615
+"184","French (French)",25,"produces","ball","balle, ballon",0.75
+"185","French (French)",26,"produces","ball","balle, ballon",0.703125
+"186","French (French)",27,"produces","ball","balle, ballon",0.807692307692308
+"187","French (French)",28,"produces","ball","balle, ballon",0.852941176470588
+"188","French (French)",29,"produces","ball","balle, ballon",0.828571428571429
+"189","French (French)",30,"produces","ball","balle, ballon",0.862068965517241
+"190","French (Quebecois)",8,"produces","ball","ballon, balle",0
+"191","French (Quebecois)",9,"produces","ball","ballon, balle",0.0169491525423729
+"192","French (Quebecois)",10,"produces","ball","ballon, balle",0.0181818181818182
+"193","French (Quebecois)",11,"produces","ball","ballon, balle",0.0172413793103448
+"194","French (Quebecois)",12,"produces","ball","ballon, balle",0.0616438356164384
+"195","French (Quebecois)",13,"produces","ball","ballon, balle",0.121428571428571
+"196","French (Quebecois)",14,"produces","ball","ballon, balle",0.188679245283019
+"197","French (Quebecois)",15,"produces","ball","ballon, balle",0.346774193548387
+"198","French (Quebecois)",16,"produces","ball","ballon, balle",0.357894736842105
+"199","French (Quebecois)",17,"produces","ball","balle, ballon",0.576923076923077
+"200","French (Quebecois)",18,"produces","ball","balle, ballon",0.546296296296296
+"201","French (Quebecois)",19,"produces","ball","balle, ballon",0.675925925925926
+"202","French (Quebecois)",20,"produces","ball","balle, ballon",0.698412698412698
+"203","French (Quebecois)",21,"produces","ball","balle, ballon",0.798387096774194
+"204","French (Quebecois)",22,"produces","ball","balle, ballon",0.780701754385965
+"205","French (Quebecois)",23,"produces","ball","balle, ballon",0.865384615384615
+"206","French (Quebecois)",24,"produces","ball","balle, ballon",0.87037037037037
+"207","French (Quebecois)",25,"produces","ball","balle, ballon",0.827586206896552
+"208","French (Quebecois)",26,"produces","ball","balle, ballon",0.868421052631579
+"209","French (Quebecois)",27,"produces","ball","balle, ballon",0.889830508474576
+"210","French (Quebecois)",28,"produces","ball","balle, ballon",0.933962264150943
+"211","French (Quebecois)",29,"produces","ball","balle, ballon",0.990566037735849
+"212","French (Quebecois)",30,"produces","ball","balle, ballon",0.913461538461538
+"213","German",18,"produces","ball","Ball",0.764705882352941
+"214","German",19,"produces","ball","Ball",0.822784810126582
+"215","German",20,"produces","ball","Ball",0.8125
+"216","German",21,"produces","ball","Ball",0.883116883116883
+"217","German",22,"produces","ball","Ball",0.863157894736842
+"218","German",23,"produces","ball","Ball",0.968421052631579
+"219","German",24,"produces","ball","Ball",0.951456310679612
+"220","German",25,"produces","ball","Ball",0.936842105263158
+"221","German",26,"produces","ball","Ball",0.978260869565217
+"222","German",27,"produces","ball","Ball",0.97752808988764
+"223","German",28,"produces","ball","Ball",0.989247311827957
+"224","German",29,"produces","ball","Ball",1
+"225","German",30,"produces","ball","Ball",1
+"226","Greek (Cypriot)",18,"produces","ball","μπάλα",0.688888888888889
+"227","Greek (Cypriot)",21,"produces","ball","μπάλα",0.777777777777778
+"228","Greek (Cypriot)",24,"produces","ball","μπάλα",0.875
+"229","Greek (Cypriot)",27,"produces","ball","μπάλα",0.96551724137931
+"230","Greek (Cypriot)",30,"produces","ball","μπάλα",0.970588235294118
+"231","Hebrew",12,"produces","ball","כדור",0
+"232","Hebrew",15,"produces","ball","כדור",0
+"233","Hebrew",16,"produces","ball","כדור",0.5
+"234","Hebrew",19,"produces","ball","כדור",0.857142857142857
+"235","Hebrew",20,"produces","ball","כדור",0.857142857142857
+"236","Hebrew",21,"produces","ball","כדור",1
+"237","Hebrew",22,"produces","ball","כדור",1
+"238","Hebrew",23,"produces","ball","כדור",0.9
+"239","Hebrew",24,"produces","ball","כדור",1
+"240","Hebrew",25,"produces","ball","כדור",0.951219512195122
+"241","Hebrew",26,"produces","ball","כדור",0.948717948717949
+"242","Hebrew",27,"produces","ball","כדור",1
+"243","Hebrew",28,"produces","ball","כדור",1
+"244","Hebrew",29,"produces","ball","כדור",0.956521739130435
+"245","Hebrew",30,"produces","ball","כדור",1
+"246","Hebrew",31,"produces","ball","כדור",0.9375
+"247","Hebrew",32,"produces","ball","כדור",1
+"248","Hebrew",33,"produces","ball","כדור",0.904761904761905
+"249","Hebrew",34,"produces","ball","כדור",1
+"250","Hebrew",35,"produces","ball","כדור",0.875
+"251","Italian",7,"produces","ball","palla",0
+"252","Italian",8,"produces","ball","palla",0
+"253","Italian",9,"produces","ball","palla",0.0789473684210526
+"254","Italian",10,"produces","ball","palla",0.0377358490566038
+"255","Italian",11,"produces","ball","palla",0.0714285714285714
+"256","Italian",12,"produces","ball","palla",0.115942028985507
+"257","Italian",13,"produces","ball","palla",0.229166666666667
+"258","Italian",14,"produces","ball","palla",0.25
+"259","Italian",15,"produces","ball","palla",0.323529411764706
+"260","Italian",16,"produces","ball","palla",0.357142857142857
+"261","Italian",17,"produces","ball","palla",0.479166666666667
+"262","Italian",18,"produces","ball","palla",0.573333333333333
+"263","Italian",19,"produces","ball","palla",0.689655172413793
+"264","Italian",20,"produces","ball","palla",0.674698795180723
+"265","Italian",21,"produces","ball","palla",0.776119402985075
+"266","Italian",22,"produces","ball","palla",0.792207792207792
+"267","Italian",23,"produces","ball","palla",0.942857142857143
+"268","Italian",24,"produces","ball","palla",0.929411764705882
+"269","Italian",25,"produces","ball","palla",0.923076923076923
+"270","Italian",26,"produces","ball","palla",0.951219512195122
+"271","Italian",27,"produces","ball","palla",0.930232558139535
+"272","Italian",28,"produces","ball","palla",0.954545454545455
+"273","Italian",29,"produces","ball","palla",0.972972972972973
+"274","Italian",30,"produces","ball","palla",0.985074626865672
+"275","Italian",31,"produces","ball","palla",0.894736842105263
+"276","Italian",32,"produces","ball","palla",0.956521739130435
+"277","Italian",33,"produces","ball","palla",1
+"278","Italian",34,"produces","ball","palla",0.947368421052632
+"279","Italian",35,"produces","ball","palla",1
+"280","Italian",36,"produces","ball","palla",0.952380952380952
+"281","Kiswahili",9,"produces","ball","Mpira/Boli",0.8
+"282","Kiswahili",10,"produces","ball","Mpira/Boli",0.75
+"283","Kiswahili",11,"produces","ball","Mpira/Boli",0.571428571428571
+"284","Kiswahili",12,"produces","ball","Mpira/Boli",0.714285714285714
+"285","Kiswahili",13,"produces","ball","Mpira/Boli",1
+"286","Kiswahili",14,"produces","ball","Mpira/Boli",0.428571428571429
+"287","Kiswahili",22,"produces","ball","Mpira/Boli",1
+"288","Kiswahili",23,"produces","ball","Mpira/Boli",0.8
+"289","Kiswahili",24,"produces","ball","Mpira/Boli",0.866666666666667
+"290","Kiswahili",25,"produces","ball","Mpira/Boli",0.769230769230769
+"291","Kiswahili",26,"produces","ball","Mpira/Boli",0.866666666666667
+"292","Kiswahili",27,"produces","ball","Mpira/Boli",1
+"293","Kiswahili",28,"produces","ball","Mpira/Boli",1
+"294","Kiswahili",29,"produces","ball","Mpira/Boli",0.888888888888889
+"295","Korean",8,"produces","ball","공",0
+"296","Korean",9,"produces","ball","공",0
+"297","Korean",10,"produces","ball","공",0.0166666666666667
+"298","Korean",11,"produces","ball","공",0.0461538461538462
+"299","Korean",12,"produces","ball","공",0.05
+"300","Korean",13,"produces","ball","공",0.2
+"301","Korean",14,"produces","ball","공",0.19672131147541
+"302","Korean",15,"produces","ball","공",0.241935483870968
+"303","Korean",16,"produces","ball","공",0.26984126984127
+"304","Korean",17,"produces","ball","공",0.372881355932203
+"305","Korean",18,"produces","ball","공",0.615384615384615
+"306","Korean",19,"produces","ball","공",0.634920634920635
+"307","Korean",20,"produces","ball","공",0.661290322580645
+"308","Korean",21,"produces","ball","공",0.745762711864407
+"309","Korean",22,"produces","ball","공",0.779411764705882
+"310","Korean",23,"produces","ball","공",0.791044776119403
+"311","Korean",24,"produces","ball","공",0.88
+"312","Korean",25,"produces","ball","공",0.930555555555556
+"313","Korean",26,"produces","ball","공",0.90625
+"314","Korean",27,"produces","ball","공",0.95
+"315","Korean",28,"produces","ball","공",0.957142857142857
+"316","Korean",29,"produces","ball","공",0.945205479452055
+"317","Korean",30,"produces","ball","공",0.938461538461538
+"318","Korean",31,"produces","ball","공",0.985294117647059
+"319","Korean",32,"produces","ball","공",0.952380952380952
+"320","Korean",33,"produces","ball","공",0.986301369863014
+"321","Korean",34,"produces","ball","공",0.985714285714286
+"322","Korean",35,"produces","ball","공",0.967741935483871
+"323","Korean",36,"produces","ball","공",0.985507246376812
+"324","Mandarin",12,"produces","ball","皮球",0
+"325","Mandarin",13,"produces","ball","皮球",0.02
+"326","Mandarin",14,"produces","ball","皮球",0.0208333333333333
+"327","Mandarin",15,"produces","ball","皮球",0.0217391304347826
+"328","Mandarin",16,"produces","ball","皮球, 汽球",0.36036036036036
+"329","Mandarin",17,"produces","ball","皮球, 球, 汽球",0.552631578947368
+"330","Mandarin",18,"produces","ball","皮球, 球, 汽球",0.52046783625731
+"331","Mandarin",19,"produces","ball","皮球, 球, 汽球",0.635294117647059
+"332","Mandarin",20,"produces","ball","皮球, 球, 汽球",0.64327485380117
+"333","Mandarin",21,"produces","ball","皮球, 球, 汽球",0.68452380952381
+"334","Mandarin",22,"produces","ball","皮球, 球, 汽球",0.742331288343558
+"335","Mandarin",23,"produces","ball","皮球, 球, 汽球",0.835294117647059
+"336","Mandarin",24,"produces","ball","皮球, 球, 汽球",0.811764705882353
+"337","Mandarin",25,"produces","ball","皮球, 球, 汽球",0.858974358974359
+"338","Mandarin",26,"produces","ball","皮球, 球, 汽球",0.878787878787879
+"339","Mandarin",27,"produces","ball","皮球, 球, 汽球",0.886075949367089
+"340","Mandarin",28,"produces","ball","皮球, 球, 汽球",0.905063291139241
+"341","Mandarin",29,"produces","ball","皮球, 球, 汽球",0.928571428571429
+"342","Mandarin",30,"produces","ball","皮球, 球, 汽球",0.926666666666667
+"343","Norwegian",8,"produces","ball","ball",0.015748031496063
+"344","Norwegian",9,"produces","ball","ball",0.0220994475138122
+"345","Norwegian",10,"produces","ball","ball",0.0649350649350649
+"346","Norwegian",11,"produces","ball","ball",0.087378640776699
+"347","Norwegian",12,"produces","ball","ball",0.145748987854251
+"348","Norwegian",13,"produces","ball","ball",0.207692307692308
+"349","Norwegian",14,"produces","ball","ball",0.3046875
+"350","Norwegian",15,"produces","ball","ball",0.45
+"351","Norwegian",16,"produces","ball","ball",0.560096153846154
+"352","Norwegian",17,"produces","ball","ball",0.63169164882227
+"353","Norwegian",18,"produces","ball","ball",0.74
+"354","Norwegian",19,"produces","ball","ball",0.789189189189189
+"355","Norwegian",20,"produces","ball","ball",0.869947275922671
+"356","Norwegian",21,"produces","ball","ball",0.895104895104895
+"357","Norwegian",22,"produces","ball","ball",0.918544194107452
+"358","Norwegian",23,"produces","ball","ball",0.94954954954955
+"359","Norwegian",24,"produces","ball","ball",0.947811447811448
+"360","Norwegian",25,"produces","ball","ball",0.972136222910217
+"361","Norwegian",26,"produces","ball","ball",0.97
+"362","Norwegian",27,"produces","ball","ball",0.973025048169557
+"363","Norwegian",28,"produces","ball","ball",0.973231357552581
+"364","Norwegian",29,"produces","ball","ball",0.976190476190476
+"365","Norwegian",30,"produces","ball","ball",0.989754098360656
+"366","Norwegian",31,"produces","ball","ball",0.980728051391863
+"367","Norwegian",32,"produces","ball","ball",0.986206896551724
+"368","Norwegian",33,"produces","ball","ball",0.988372093023256
+"369","Norwegian",34,"produces","ball","ball",0.992462311557789
+"370","Norwegian",35,"produces","ball","ball",0.990338164251208
+"371","Norwegian",36,"produces","ball","ball",0.978070175438597
+"372","Russian",8,"produces","ball","мяч",0
+"373","Russian",9,"produces","ball","мяч",0
+"374","Russian",10,"produces","ball","мяч",0.0158730158730159
+"375","Russian",11,"produces","ball","мяч",0
+"376","Russian",12,"produces","ball","мяч",0.0394736842105263
+"377","Russian",13,"produces","ball","мяч",0.0273972602739726
+"378","Russian",14,"produces","ball","мяч",0.10126582278481
+"379","Russian",15,"produces","ball","мяч",0.0987654320987654
+"380","Russian",16,"produces","ball","мяч",0.123456790123457
+"381","Russian",17,"produces","ball","мяч",0.2625
+"382","Russian",18,"produces","ball","мяч",0.342857142857143
+"383","Russian",19,"produces","ball","мяч",0.463414634146341
+"384","Russian",20,"produces","ball","мяч",0.533333333333333
+"385","Russian",21,"produces","ball","мяч",0.697674418604651
+"386","Russian",22,"produces","ball","мяч",0.764705882352941
+"387","Russian",23,"produces","ball","мяч",0.875
+"388","Russian",24,"produces","ball","мяч",0.885245901639344
+"389","Russian",25,"produces","ball","мяч",0.878787878787879
+"390","Russian",26,"produces","ball","мяч",0.846153846153846
+"391","Russian",27,"produces","ball","мяч",0.833333333333333
+"392","Russian",28,"produces","ball","мяч",0.933333333333333
+"393","Russian",29,"produces","ball","мяч",0.982758620689655
+"394","Russian",30,"produces","ball","мяч",0.922077922077922
+"395","Russian",31,"produces","ball","мяч",0.983606557377049
+"396","Russian",32,"produces","ball","мяч",0.945454545454545
+"397","Russian",33,"produces","ball","мяч",0.909090909090909
+"398","Russian",34,"produces","ball","мяч",0.948275862068966
+"399","Russian",35,"produces","ball","мяч",1
+"400","Russian",36,"produces","ball","мяч",1
+"401","Slovak",8,"produces","ball","guľka, lopta / gól",0.0136986301369863
+"402","Slovak",9,"produces","ball","guľka, lopta / gól",0.00847457627118644
+"403","Slovak",10,"produces","ball","guľka, lopta / gól",0.0479452054794521
+"404","Slovak",11,"produces","ball","guľka, lopta / gól",0.0806451612903226
+"405","Slovak",12,"produces","ball","guľka, lopta / gól",0.120253164556962
+"406","Slovak",13,"produces","ball","guľka, lopta / gól",0.25
+"407","Slovak",14,"produces","ball","guľka, lopta / gól",0.256410256410256
+"408","Slovak",15,"produces","ball","guľka, lopta / gól",0.28735632183908
+"409","Slovak",16,"produces","ball","guľka, lopta / gól",0.367647058823529
+"410","Slovak",17,"produces","ball","guľka, lopta / gól",0.15
+"411","Slovak",18,"produces","ball","guľka, lopta / gól",0.276923076923077
+"412","Slovak",19,"produces","ball","guľka, lopta / gól",0.267857142857143
+"413","Slovak",20,"produces","ball","guľka, lopta / gól",0.459677419354839
+"414","Slovak",21,"produces","ball","guľka, lopta / gól",0.45679012345679
+"415","Slovak",22,"produces","ball","guľka, lopta / gól",0.518867924528302
+"416","Slovak",23,"produces","ball","guľka, lopta / gól",0.584745762711864
+"417","Slovak",24,"produces","ball","guľka, lopta / gól",0.703389830508475
+"418","Slovak",25,"produces","ball","guľka, lopta / gól",0.695652173913043
+"419","Slovak",26,"produces","ball","guľka, lopta / gól",0.865384615384615
+"420","Slovak",27,"produces","ball","guľka, lopta / gól",0.838709677419355
+"421","Slovak",28,"produces","ball","guľka, lopta / gól",0.767441860465116
+"422","Slovak",29,"produces","ball","guľka, lopta / gól",0.82
+"423","Slovak",30,"produces","ball","guľka, lopta / gól",0.775510204081633
+"424","Slovak",31,"produces","ball","guľka, lopta / gól",0.793103448275862
+"425","Slovak",32,"produces","ball","guľka, lopta / gól",0.9
+"426","Slovak",33,"produces","ball","guľka, lopta / gól",0.977272727272727
+"427","Slovak",34,"produces","ball","guľka, lopta / gól",0.814814814814815
+"428","Slovak",35,"produces","ball","guľka, lopta / gól",0.851851851851852
+"429","Slovak",36,"produces","ball","guľka, lopta / gól",0.8125
+"430","Spanish (Mexican)",8,"produces","ball","pelota",0
+"431","Spanish (Mexican)",9,"produces","ball","pelota",0.015625
+"432","Spanish (Mexican)",10,"produces","ball","pelota",0.0140845070422535
+"433","Spanish (Mexican)",11,"produces","ball","pelota",0.0447761194029851
+"434","Spanish (Mexican)",12,"produces","ball","pelota",0.0898876404494382
+"435","Spanish (Mexican)",13,"produces","ball","pelota",0.180722891566265
+"436","Spanish (Mexican)",14,"produces","ball","pelota",0.131578947368421
+"437","Spanish (Mexican)",15,"produces","ball","pelota",0.180327868852459
+"438","Spanish (Mexican)",16,"produces","ball","pelota",0.372549019607843
+"439","Spanish (Mexican)",17,"produces","ball","pelota",0.447154471544715
+"440","Spanish (Mexican)",18,"produces","ball","pelota",0.536423841059603
+"441","Spanish (Mexican)",19,"produces","ball","pelota",0.682926829268293
+"442","Spanish (Mexican)",20,"produces","ball","pelota",0.696969696969697
+"443","Spanish (Mexican)",21,"produces","ball","pelota",0.717647058823529
+"444","Spanish (Mexican)",22,"produces","ball","pelota",0.775862068965517
+"445","Spanish (Mexican)",23,"produces","ball","pelota",0.818181818181818
+"446","Spanish (Mexican)",24,"produces","ball","pelota",0.858695652173913
+"447","Spanish (Mexican)",25,"produces","ball","pelota",0.906976744186046
+"448","Spanish (Mexican)",26,"produces","ball","pelota",0.905405405405405
+"449","Spanish (Mexican)",27,"produces","ball","pelota",0.972222222222222
+"450","Spanish (Mexican)",28,"produces","ball","pelota",0.939024390243902
+"451","Spanish (Mexican)",29,"produces","ball","pelota",0.946666666666667
+"452","Spanish (Mexican)",30,"produces","ball","pelota",0.969230769230769
+"453","Swedish",8,"produces","ball","boll",0
+"454","Swedish",10,"produces","ball","boll",0.0185185185185185
+"455","Swedish",11,"produces","ball","boll",0
+"456","Swedish",12,"produces","ball","boll",0.0632911392405063
+"457","Swedish",13,"produces","ball","boll",0
+"458","Swedish",14,"produces","ball","boll",0.137096774193548
+"459","Swedish",15,"produces","ball","boll",0.230769230769231
+"460","Swedish",16,"produces","ball","boll",0.29874213836478
+"461","Swedish",19,"produces","ball","boll",0.598684210526316
+"462","Swedish",22,"produces","ball","boll",0.804560260586319
+"463","Swedish",25,"produces","ball","boll",0.916083916083916
+"464","Swedish",28,"produces","ball","boll",0.956834532374101
+"465","Turkish",8,"produces","ball","Top",0.0142857142857143
+"466","Turkish",9,"produces","ball","Top",0.024
+"467","Turkish",10,"produces","ball","Top",0.0692307692307692
+"468","Turkish",11,"produces","ball","Top",0.048
+"469","Turkish",12,"produces","ball","Top",0.0833333333333333
+"470","Turkish",13,"produces","ball","Top",0.139344262295082
+"471","Turkish",14,"produces","ball","Top",0.224489795918367
+"472","Turkish",15,"produces","ball","Top",0.312977099236641
+"473","Turkish",16,"produces","ball","Top",0.483695652173913
+"474","Turkish",17,"produces","ball","Top",0.579439252336449
+"475","Turkish",18,"produces","ball","Top",0.640625
+"476","Turkish",19,"produces","ball","Top",0.727272727272727
+"477","Turkish",20,"produces","ball","Top",0.73109243697479
+"478","Turkish",21,"produces","ball","Top",0.758064516129032
+"479","Turkish",22,"produces","ball","Top",0.738095238095238
+"480","Turkish",23,"produces","ball","Top",0.816793893129771
+"481","Turkish",24,"produces","ball","Top",0.877358490566038
+"482","Turkish",25,"produces","ball","Top",0.894308943089431
+"483","Turkish",26,"produces","ball","Top",0.910569105691057
+"484","Turkish",27,"produces","ball","Top",0.888888888888889
+"485","Turkish",28,"produces","ball","Top",0.910714285714286
+"486","Turkish",29,"produces","ball","Top",0.941176470588235
+"487","Turkish",30,"produces","ball","Top",0.923076923076923
+"488","Turkish",31,"produces","ball","Top",0.95049504950495
+"489","Turkish",32,"produces","ball","Top",0.924242424242424
+"490","Turkish",33,"produces","ball","Top",0.93859649122807
+"491","Turkish",34,"produces","ball","Top",0.990654205607477
+"492","Turkish",35,"produces","ball","Top",0.954198473282443
+"493","Turkish",36,"produces","ball","Top",0.987012987012987
+"494","American Sign Language",10,"produces","dog","DOG",0
+"495","American Sign Language",18,"produces","dog","DOG",1
+"496","American Sign Language",21,"produces","dog","DOG",0.75
+"497","American Sign Language",23,"produces","dog","DOG",0.75
+"498","American Sign Language",24,"produces","dog","DOG",1
+"499","American Sign Language",27,"produces","dog","DOG",1
+"500","American Sign Language",30,"produces","dog","DOG",1
+"501","American Sign Language",31,"produces","dog","DOG",1
+"502","American Sign Language",32,"produces","dog","DOG",1
+"503","American Sign Language",34,"produces","dog","DOG",1
+"504","British Sign Language",8,"produces","dog","dog",0
+"505","British Sign Language",9,"produces","dog","dog",0.25
+"506","British Sign Language",10,"produces","dog","dog",0
+"507","British Sign Language",11,"produces","dog","dog",0.166666666666667
+"508","British Sign Language",12,"produces","dog","dog",0
+"509","British Sign Language",13,"produces","dog","dog",0.166666666666667
+"510","British Sign Language",14,"produces","dog","dog",0.428571428571429
+"511","British Sign Language",15,"produces","dog","dog",0.333333333333333
+"512","British Sign Language",16,"produces","dog","dog",0.428571428571429
+"513","British Sign Language",17,"produces","dog","dog",0.571428571428571
+"514","British Sign Language",18,"produces","dog","dog",0.625
+"515","British Sign Language",19,"produces","dog","dog",1
+"516","British Sign Language",20,"produces","dog","dog",0.909090909090909
+"517","British Sign Language",21,"produces","dog","dog",0.8
+"518","British Sign Language",22,"produces","dog","dog",1
+"519","British Sign Language",23,"produces","dog","dog",0.857142857142857
+"520","British Sign Language",24,"produces","dog","dog",1
+"521","British Sign Language",25,"produces","dog","dog",1
+"522","British Sign Language",26,"produces","dog","dog",1
+"523","British Sign Language",27,"produces","dog","dog",1
+"524","British Sign Language",28,"produces","dog","dog",1
+"525","British Sign Language",29,"produces","dog","dog",1
+"526","British Sign Language",30,"produces","dog","dog",1
+"527","British Sign Language",32,"produces","dog","dog",1
+"528","British Sign Language",33,"produces","dog","dog",1
+"529","British Sign Language",36,"produces","dog","dog",1
+"530","Cantonese",16,"produces","dog","狗",0.422222222222222
+"531","Cantonese",17,"produces","dog","狗",0.508196721311475
+"532","Cantonese",18,"produces","dog","狗",0.742424242424242
+"533","Cantonese",19,"produces","dog","狗",0.681818181818182
+"534","Cantonese",20,"produces","dog","狗",0.808219178082192
+"535","Cantonese",21,"produces","dog","狗",0.75
+"536","Cantonese",22,"produces","dog","狗",0.777777777777778
+"537","Cantonese",23,"produces","dog","狗",0.783783783783784
+"538","Cantonese",24,"produces","dog","狗",0.897058823529412
+"539","Cantonese",25,"produces","dog","狗",0.907692307692308
+"540","Cantonese",26,"produces","dog","狗",0.895522388059702
+"541","Cantonese",27,"produces","dog","狗",0.935483870967742
+"542","Cantonese",28,"produces","dog","狗",0.984848484848485
+"543","Cantonese",29,"produces","dog","狗",0.971830985915493
+"544","Cantonese",30,"produces","dog","狗",0.955882352941177
+"545","Croatian",8,"produces","dog","pas",0
+"546","Croatian",9,"produces","dog","pas",0
+"547","Croatian",10,"produces","dog","pas",0.0454545454545455
+"548","Croatian",11,"produces","dog","pas",0
+"549","Croatian",12,"produces","dog","pas",0.0571428571428571
+"550","Croatian",13,"produces","dog","pas",0.176470588235294
+"551","Croatian",14,"produces","dog","pas",0.25
+"552","Croatian",15,"produces","dog","pas",0.25
+"553","Croatian",16,"produces","dog","pas",0.51063829787234
+"554","Croatian",17,"produces","dog","pas",0.28
+"555","Croatian",18,"produces","dog","pas",0.454545454545455
+"556","Croatian",19,"produces","dog","pas",0.523809523809524
+"557","Croatian",20,"produces","dog","pas",0.692307692307692
+"558","Croatian",21,"produces","dog","pas",0.655172413793103
+"559","Croatian",22,"produces","dog","pas",0.75
+"560","Croatian",23,"produces","dog","pas",0.730769230769231
+"561","Croatian",24,"produces","dog","pas",0.9
+"562","Croatian",25,"produces","dog","pas",0.833333333333333
+"563","Croatian",26,"produces","dog","pas",0.96551724137931
+"564","Croatian",27,"produces","dog","pas",0.96
+"565","Croatian",28,"produces","dog","pas",0.952380952380952
+"566","Croatian",29,"produces","dog","pas",0.892857142857143
+"567","Croatian",30,"produces","dog","pas",0.964285714285714
+"568","Danish",8,"produces","dog","hund",0
+"569","Danish",9,"produces","dog","hund",0
+"570","Danish",10,"produces","dog","hund",0
+"571","Danish",11,"produces","dog","hund",0
+"572","Danish",12,"produces","dog","hund",0.0265957446808511
+"573","Danish",13,"produces","dog","hund",0.0601851851851852
+"574","Danish",14,"produces","dog","hund",0.0730337078651685
+"575","Danish",15,"produces","dog","hund",0.118226600985222
+"576","Danish",16,"produces","dog","hund",0.178272980501393
+"577","Danish",17,"produces","dog","hund",0.274566473988439
+"578","Danish",18,"produces","dog","hund",0.340782122905028
+"579","Danish",19,"produces","dog","hund",0.445983379501385
+"580","Danish",20,"produces","dog","hund",0.589385474860335
+"581","Danish",21,"produces","dog","hund",0.635593220338983
+"582","Danish",22,"produces","dog","hund",0.723404255319149
+"583","Danish",23,"produces","dog","hund",0.789473684210526
+"584","Danish",24,"produces","dog","hund",0.875
+"585","Danish",25,"produces","dog","hund",0.869565217391304
+"586","Danish",26,"produces","dog","hund",0.936893203883495
+"587","Danish",27,"produces","dog","hund",0.960227272727273
+"588","Danish",28,"produces","dog","hund",0.963157894736842
+"589","Danish",29,"produces","dog","hund",0.961538461538462
+"590","Danish",30,"produces","dog","hund",0.976878612716763
+"591","Danish",31,"produces","dog","hund",0.982857142857143
+"592","Danish",32,"produces","dog","hund",1
+"593","Danish",33,"produces","dog","hund",0.986754966887417
+"594","Danish",34,"produces","dog","hund",0.993006993006993
+"595","Danish",35,"produces","dog","hund",0.991150442477876
+"596","Danish",36,"produces","dog","hund",1
+"597","English (American)",8,"produces","dog","dog",0
+"598","English (American)",9,"produces","dog","dog",0
+"599","English (American)",10,"produces","dog","dog",0.0451612903225806
+"600","English (American)",11,"produces","dog","dog",0.127659574468085
+"601","English (American)",12,"produces","dog","dog",0.244755244755245
+"602","English (American)",13,"produces","dog","dog",0.376623376623377
+"603","English (American)",14,"produces","dog","dog",0.369230769230769
+"604","English (American)",15,"produces","dog","dog",0.520661157024793
+"605","English (American)",16,"produces","dog","dog",0.664677804295943
+"606","English (American)",17,"produces","dog","dog",0.679558011049724
+"607","English (American)",18,"produces","dog","dog",0.766159695817491
+"608","English (American)",19,"produces","dog","dog",0.832317073170732
+"609","English (American)",20,"produces","dog","dog",0.821167883211679
+"610","English (American)",21,"produces","dog","dog",0.847290640394089
+"611","English (American)",22,"produces","dog","dog",0.87
+"612","English (American)",23,"produces","dog","dog",0.942748091603053
+"613","English (American)",24,"produces","dog","dog",0.926243567753002
+"614","English (American)",25,"produces","dog","dog",0.948948948948949
+"615","English (American)",26,"produces","dog","dog",0.983425414364641
+"616","English (American)",27,"produces","dog","dog",0.964102564102564
+"617","English (American)",28,"produces","dog","dog",0.994981179422836
+"618","English (American)",29,"produces","dog","dog",0.974747474747475
+"619","English (American)",30,"produces","dog","dog",0.96271186440678
+"620","English (Australian)",12,"produces","dog","dog",0.0704225352112676
+"621","English (Australian)",13,"produces","dog","dog",0.234375
+"622","English (Australian)",14,"produces","dog","dog",0.378378378378378
+"623","English (Australian)",15,"produces","dog","dog",0.391304347826087
+"624","English (Australian)",16,"produces","dog","dog",0.45
+"625","English (Australian)",17,"produces","dog","dog",0.528846153846154
+"626","English (Australian)",18,"produces","dog","dog",0.513761467889908
+"627","English (Australian)",19,"produces","dog","dog",0.701612903225806
+"628","English (Australian)",20,"produces","dog","dog",0.833333333333333
+"629","English (Australian)",21,"produces","dog","dog",0.823529411764706
+"630","English (Australian)",22,"produces","dog","dog",0.89041095890411
+"631","English (Australian)",23,"produces","dog","dog",0.887323943661972
+"632","English (Australian)",24,"produces","dog","dog",0.855263157894737
+"633","English (Australian)",25,"produces","dog","dog",0.917647058823529
+"634","English (Australian)",26,"produces","dog","dog",0.87012987012987
+"635","English (Australian)",27,"produces","dog","dog",0.958333333333333
+"636","English (Australian)",28,"produces","dog","dog",0.970149253731343
+"637","English (Australian)",29,"produces","dog","dog",0.923076923076923
+"638","English (Australian)",30,"produces","dog","dog",0.981132075471698
+"639","English (British)",12,"produces","dog","dog",0.222222222222222
+"640","English (British)",13,"produces","dog","dog",0.285714285714286
+"641","English (British)",14,"produces","dog","dog",0.234375
+"642","English (British)",15,"produces","dog","dog",0.284090909090909
+"643","English (British)",16,"produces","dog","dog",0.372881355932203
+"644","English (British)",17,"produces","dog","dog",0.482233502538071
+"645","English (British)",18,"produces","dog","dog",0.516949152542373
+"646","English (British)",19,"produces","dog","dog",0.678899082568807
+"647","English (British)",20,"produces","dog","dog",0.767123287671233
+"648","English (British)",21,"produces","dog","dog",0.829268292682927
+"649","English (British)",22,"produces","dog","dog",0.861486486486487
+"650","English (British)",23,"produces","dog","dog",0.86175580221998
+"651","English (British)",24,"produces","dog","dog",0.874422899353647
+"652","English (British)",25,"produces","dog","dog",0.888493475682088
+"653","English (British)",26,"produces","dog","dog",0.914893617021277
+"654","English (British)",27,"produces","dog","dog",0.852348993288591
+"655","English (British)",28,"produces","dog","dog",0.881720430107527
+"656","English (British)",29,"produces","dog","dog",0.855555555555556
+"657","English (British)",30,"produces","dog","dog",1
+"658","English (British)",31,"produces","dog","dog",1
+"659","English (British)",32,"produces","dog","dog",0.962962962962963
+"660","English (British)",33,"produces","dog","dog",0.933333333333333
+"661","English (British)",34,"produces","dog","dog",0.8
+"662","English (British)",35,"produces","dog","dog",0.8
+"663","French (French)",8,"produces","dog","chien",0
+"664","French (French)",9,"produces","dog","chien",0
+"665","French (French)",11,"produces","dog","chien",0.0357142857142857
+"666","French (French)",12,"produces","dog","chien",0.0384615384615385
+"667","French (French)",13,"produces","dog","chien",0.0232558139534884
+"668","French (French)",14,"produces","dog","chien",0.0416666666666667
+"669","French (French)",16,"produces","dog","chien",0.166666666666667
+"670","French (French)",17,"produces","dog","chien",0.346153846153846
+"671","French (French)",19,"produces","dog","chien",0.909090909090909
+"672","French (French)",20,"produces","dog","chien",0.5
+"673","French (French)",21,"produces","dog","chien",0.714285714285714
+"674","French (French)",22,"produces","dog","chien",0.780487804878049
+"675","French (French)",23,"produces","dog","chien",0.746478873239437
+"676","French (French)",24,"produces","dog","chien",0.8
+"677","French (French)",25,"produces","dog","chien",0.952380952380952
+"678","French (French)",26,"produces","dog","chien",0.90625
+"679","French (French)",27,"produces","dog","chien",0.884615384615385
+"680","French (French)",28,"produces","dog","chien",1
+"681","French (French)",29,"produces","dog","chien",0.971428571428571
+"682","French (French)",30,"produces","dog","chien",1
+"683","French (Quebecois)",8,"produces","dog","chien",0
+"684","French (Quebecois)",9,"produces","dog","chien",0.0169491525423729
+"685","French (Quebecois)",10,"produces","dog","chien",0.0545454545454545
+"686","French (Quebecois)",11,"produces","dog","chien",0.0172413793103448
+"687","French (Quebecois)",12,"produces","dog","chien",0.0410958904109589
+"688","French (Quebecois)",13,"produces","dog","chien",0.0571428571428571
+"689","French (Quebecois)",14,"produces","dog","chien",0.132075471698113
+"690","French (Quebecois)",15,"produces","dog","chien",0.209677419354839
+"691","French (Quebecois)",16,"produces","dog","chien",0.336842105263158
+"692","French (Quebecois)",17,"produces","dog","chien",0.403846153846154
+"693","French (Quebecois)",18,"produces","dog","chien",0.518518518518518
+"694","French (Quebecois)",19,"produces","dog","chien",0.574074074074074
+"695","French (Quebecois)",20,"produces","dog","chien",0.682539682539683
+"696","French (Quebecois)",21,"produces","dog","chien",0.806451612903226
+"697","French (Quebecois)",22,"produces","dog","chien",0.807017543859649
+"698","French (Quebecois)",23,"produces","dog","chien",0.884615384615385
+"699","French (Quebecois)",24,"produces","dog","chien",0.962962962962963
+"700","French (Quebecois)",25,"produces","dog","chien",0.862068965517241
+"701","French (Quebecois)",26,"produces","dog","chien",0.912280701754386
+"702","French (Quebecois)",27,"produces","dog","chien",0.983050847457627
+"703","French (Quebecois)",28,"produces","dog","chien",1
+"704","French (Quebecois)",29,"produces","dog","chien",1
+"705","French (Quebecois)",30,"produces","dog","chien",0.980769230769231
+"706","German",18,"produces","dog","Hund",0.247058823529412
+"707","German",19,"produces","dog","Hund",0.354430379746835
+"708","German",20,"produces","dog","Hund",0.375
+"709","German",21,"produces","dog","Hund",0.493506493506494
+"710","German",22,"produces","dog","Hund",0.6
+"711","German",23,"produces","dog","Hund",0.778947368421053
+"712","German",24,"produces","dog","Hund",0.737864077669903
+"713","German",25,"produces","dog","Hund",0.789473684210526
+"714","German",26,"produces","dog","Hund",0.880434782608696
+"715","German",27,"produces","dog","Hund",0.842696629213483
+"716","German",28,"produces","dog","Hund",0.881720430107527
+"717","German",29,"produces","dog","Hund",0.932584269662921
+"718","German",30,"produces","dog","Hund",0.967741935483871
+"719","Greek (Cypriot)",18,"produces","dog","σκύλος",0.333333333333333
+"720","Greek (Cypriot)",21,"produces","dog","σκύλος",0.361111111111111
+"721","Greek (Cypriot)",24,"produces","dog","σκύλος",0.8125
+"722","Greek (Cypriot)",27,"produces","dog","σκύλος",0.896551724137931
+"723","Greek (Cypriot)",30,"produces","dog","σκύλος",0.911764705882353
+"724","Hebrew",12,"produces","dog","כלב",0
+"725","Hebrew",15,"produces","dog","כלב",0
+"726","Hebrew",16,"produces","dog","כלב",0.5
+"727","Hebrew",19,"produces","dog","כלב",0.714285714285714
+"728","Hebrew",20,"produces","dog","כלב",0.571428571428571
+"729","Hebrew",21,"produces","dog","כלב",1
+"730","Hebrew",22,"produces","dog","כלב",1
+"731","Hebrew",23,"produces","dog","כלב",0.7
+"732","Hebrew",24,"produces","dog","כלב",1
+"733","Hebrew",25,"produces","dog","כלב",0.939024390243902
+"734","Hebrew",26,"produces","dog","כלב",0.987179487179487
+"735","Hebrew",27,"produces","dog","כלב",0.867647058823529
+"736","Hebrew",28,"produces","dog","כלב",0.946428571428571
+"737","Hebrew",29,"produces","dog","כלב",0.978260869565217
+"738","Hebrew",30,"produces","dog","כלב",0.888888888888889
+"739","Hebrew",31,"produces","dog","כלב",0.96875
+"740","Hebrew",32,"produces","dog","כלב",1
+"741","Hebrew",33,"produces","dog","כלב",0.904761904761905
+"742","Hebrew",34,"produces","dog","כלב",1
+"743","Hebrew",35,"produces","dog","כלב",0.875
+"744","Italian",7,"produces","dog","cane",0
+"745","Italian",8,"produces","dog","cane",0
+"746","Italian",9,"produces","dog","cane",0.0263157894736842
+"747","Italian",10,"produces","dog","cane",0.0377358490566038
+"748","Italian",11,"produces","dog","cane",0.0714285714285714
+"749","Italian",12,"produces","dog","cane",0.072463768115942
+"750","Italian",13,"produces","dog","cane",0.104166666666667
+"751","Italian",14,"produces","dog","cane",0.075
+"752","Italian",15,"produces","dog","cane",0.102941176470588
+"753","Italian",16,"produces","dog","cane",0.0714285714285714
+"754","Italian",17,"produces","dog","cane",0.354166666666667
+"755","Italian",18,"produces","dog","cane",0.28
+"756","Italian",19,"produces","dog","cane",0.362068965517241
+"757","Italian",20,"produces","dog","cane",0.457831325301205
+"758","Italian",21,"produces","dog","cane",0.656716417910448
+"759","Italian",22,"produces","dog","cane",0.701298701298701
+"760","Italian",23,"produces","dog","cane",0.771428571428571
+"761","Italian",24,"produces","dog","cane",0.835294117647059
+"762","Italian",25,"produces","dog","cane",0.897435897435897
+"763","Italian",26,"produces","dog","cane",0.951219512195122
+"764","Italian",27,"produces","dog","cane",0.930232558139535
+"765","Italian",28,"produces","dog","cane",0.954545454545455
+"766","Italian",29,"produces","dog","cane",0.945945945945946
+"767","Italian",30,"produces","dog","cane",0.955223880597015
+"768","Italian",31,"produces","dog","cane",1
+"769","Italian",32,"produces","dog","cane",1
+"770","Italian",33,"produces","dog","cane",1
+"771","Italian",34,"produces","dog","cane",1
+"772","Italian",35,"produces","dog","cane",1
+"773","Italian",36,"produces","dog","cane",1
+"774","Kiswahili",9,"produces","dog","Mbwa/Jibwa",0.1
+"775","Kiswahili",10,"produces","dog","Mbwa/Jibwa",0
+"776","Kiswahili",11,"produces","dog","Mbwa/Jibwa",0.285714285714286
+"777","Kiswahili",12,"produces","dog","Mbwa/Jibwa",0.285714285714286
+"778","Kiswahili",13,"produces","dog","Mbwa/Jibwa",0.666666666666667
+"779","Kiswahili",14,"produces","dog","Mbwa/Jibwa",0.285714285714286
+"780","Kiswahili",22,"produces","dog","Mbwa/Jibwa",0.333333333333333
+"781","Kiswahili",23,"produces","dog","Mbwa/Jibwa",0.6
+"782","Kiswahili",24,"produces","dog","Mbwa/Jibwa",0.466666666666667
+"783","Kiswahili",25,"produces","dog","Mbwa/Jibwa",0.307692307692308
+"784","Kiswahili",26,"produces","dog","Mbwa/Jibwa",0.4
+"785","Kiswahili",27,"produces","dog","Mbwa/Jibwa",0.538461538461538
+"786","Kiswahili",28,"produces","dog","Mbwa/Jibwa",0.714285714285714
+"787","Kiswahili",29,"produces","dog","Mbwa/Jibwa",0.777777777777778
+"788","Korean",8,"produces","dog","개/멍멍이",0
+"789","Korean",9,"produces","dog","개/멍멍이",0
+"790","Korean",10,"produces","dog","개/멍멍이",0.05
+"791","Korean",11,"produces","dog","개/멍멍이",0.107692307692308
+"792","Korean",12,"produces","dog","개/멍멍이",0.266666666666667
+"793","Korean",13,"produces","dog","개/멍멍이",0.242857142857143
+"794","Korean",14,"produces","dog","개/멍멍이",0.442622950819672
+"795","Korean",15,"produces","dog","개/멍멍이",0.5
+"796","Korean",16,"produces","dog","개/멍멍이",0.523809523809524
+"797","Korean",17,"produces","dog","개/멍멍이",0.559322033898305
+"798","Korean",18,"produces","dog","개",0.415384615384615
+"799","Korean",19,"produces","dog","개",0.333333333333333
+"800","Korean",20,"produces","dog","개",0.451612903225806
+"801","Korean",21,"produces","dog","개",0.542372881355932
+"802","Korean",22,"produces","dog","개",0.602941176470588
+"803","Korean",23,"produces","dog","개",0.626865671641791
+"804","Korean",24,"produces","dog","개",0.706666666666667
+"805","Korean",25,"produces","dog","개",0.75
+"806","Korean",26,"produces","dog","개",0.8125
+"807","Korean",27,"produces","dog","개",0.775
+"808","Korean",28,"produces","dog","개",0.857142857142857
+"809","Korean",29,"produces","dog","개",0.863013698630137
+"810","Korean",30,"produces","dog","개",0.892307692307692
+"811","Korean",31,"produces","dog","개",0.941176470588235
+"812","Korean",32,"produces","dog","개",0.904761904761905
+"813","Korean",33,"produces","dog","개",0.931506849315068
+"814","Korean",34,"produces","dog","개",0.928571428571429
+"815","Korean",35,"produces","dog","개",0.919354838709677
+"816","Korean",36,"produces","dog","개",0.956521739130435
+"817","Mandarin",12,"produces","dog","狗",0.0444444444444444
+"818","Mandarin",13,"produces","dog","狗",0.16
+"819","Mandarin",14,"produces","dog","狗",0.104166666666667
+"820","Mandarin",15,"produces","dog","狗",0.260869565217391
+"821","Mandarin",16,"produces","dog","狗",0.333333333333333
+"822","Mandarin",17,"produces","dog","狗",0.517857142857143
+"823","Mandarin",18,"produces","dog","狗",0.570247933884298
+"824","Mandarin",19,"produces","dog","狗",0.625
+"825","Mandarin",20,"produces","dog","狗",0.768595041322314
+"826","Mandarin",21,"produces","dog","狗",0.823529411764706
+"827","Mandarin",22,"produces","dog","狗",0.897435897435897
+"828","Mandarin",23,"produces","dog","狗",0.916666666666667
+"829","Mandarin",24,"produces","dog","狗",0.858333333333333
+"830","Mandarin",25,"produces","dog","狗",0.929203539823009
+"831","Mandarin",26,"produces","dog","狗",0.915254237288136
+"832","Mandarin",27,"produces","dog","狗",0.964912280701754
+"833","Mandarin",28,"produces","dog","狗",0.956140350877193
+"834","Mandarin",29,"produces","dog","狗",0.974789915966387
+"835","Mandarin",30,"produces","dog","狗",0.981818181818182
+"836","Norwegian",8,"produces","dog","hund",0.015748031496063
+"837","Norwegian",9,"produces","dog","hund",0.0110497237569061
+"838","Norwegian",10,"produces","dog","hund",0.012987012987013
+"839","Norwegian",11,"produces","dog","hund",0.029126213592233
+"840","Norwegian",12,"produces","dog","hund",0.0566801619433198
+"841","Norwegian",13,"produces","dog","hund",0.0884615384615385
+"842","Norwegian",14,"produces","dog","hund",0.0703125
+"843","Norwegian",15,"produces","dog","hund",0.215384615384615
+"844","Norwegian",16,"produces","dog","hund",0.197115384615385
+"845","Norwegian",17,"produces","dog","hund",0.297644539614561
+"846","Norwegian",18,"produces","dog","hund",0.366
+"847","Norwegian",19,"produces","dog","hund",0.45045045045045
+"848","Norwegian",20,"produces","dog","hund",0.586994727592267
+"849","Norwegian",21,"produces","dog","hund",0.592657342657343
+"850","Norwegian",22,"produces","dog","hund",0.672443674176776
+"851","Norwegian",23,"produces","dog","hund",0.731531531531531
+"852","Norwegian",24,"produces","dog","hund",0.769360269360269
+"853","Norwegian",25,"produces","dog","hund",0.812693498452012
+"854","Norwegian",26,"produces","dog","hund",0.861666666666667
+"855","Norwegian",27,"produces","dog","hund",0.886319845857418
+"856","Norwegian",28,"produces","dog","hund",0.904397705544933
+"857","Norwegian",29,"produces","dog","hund",0.902777777777778
+"858","Norwegian",30,"produces","dog","hund",0.938524590163934
+"859","Norwegian",31,"produces","dog","hund",0.93576017130621
+"860","Norwegian",32,"produces","dog","hund",0.958620689655172
+"861","Norwegian",33,"produces","dog","hund",0.941860465116279
+"862","Norwegian",34,"produces","dog","hund",0.982412060301508
+"863","Norwegian",35,"produces","dog","hund",0.985507246376812
+"864","Norwegian",36,"produces","dog","hund",0.960526315789474
+"865","Russian",8,"produces","dog","собака",0
+"866","Russian",9,"produces","dog","собака",0.0476190476190476
+"867","Russian",10,"produces","dog","собака",0.0158730158730159
+"868","Russian",11,"produces","dog","собака",0.0422535211267606
+"869","Russian",12,"produces","dog","собака",0.0394736842105263
+"870","Russian",13,"produces","dog","собака",0.0958904109589041
+"871","Russian",14,"produces","dog","собака",0.126582278481013
+"872","Russian",15,"produces","dog","собака",0.0740740740740741
+"873","Russian",16,"produces","dog","собака",0.197530864197531
+"874","Russian",17,"produces","dog","собака",0.25
+"875","Russian",18,"produces","dog","собака",0.219047619047619
+"876","Russian",19,"produces","dog","собака",0.219512195121951
+"877","Russian",20,"produces","dog","собака",0.355555555555556
+"878","Russian",21,"produces","dog","собака",0.418604651162791
+"879","Russian",22,"produces","dog","собака",0.529411764705882
+"880","Russian",23,"produces","dog","собака",0.589285714285714
+"881","Russian",24,"produces","dog","собака",0.639344262295082
+"882","Russian",25,"produces","dog","собака",0.606060606060606
+"883","Russian",26,"produces","dog","собака",0.711538461538462
+"884","Russian",27,"produces","dog","собака",0.7
+"885","Russian",28,"produces","dog","собака",0.716666666666667
+"886","Russian",29,"produces","dog","собака",0.793103448275862
+"887","Russian",30,"produces","dog","собака",0.753246753246753
+"888","Russian",31,"produces","dog","собака",0.80327868852459
+"889","Russian",32,"produces","dog","собака",0.836363636363636
+"890","Russian",33,"produces","dog","собака",0.836363636363636
+"891","Russian",34,"produces","dog","собака",0.862068965517241
+"892","Russian",35,"produces","dog","собака",0.851063829787234
+"893","Russian",36,"produces","dog","собака",0.877551020408163
+"894","Slovak",8,"produces","dog","pes/havo",0.0410958904109589
+"895","Slovak",9,"produces","dog","pes/havo",0.186440677966102
+"896","Slovak",10,"produces","dog","pes/havo",0.164383561643836
+"897","Slovak",11,"produces","dog","pes/havo",0.338709677419355
+"898","Slovak",12,"produces","dog","pes/havo",0.493670886075949
+"899","Slovak",13,"produces","dog","pes/havo",0.635135135135135
+"900","Slovak",14,"produces","dog","pes/havo",0.641025641025641
+"901","Slovak",15,"produces","dog","pes/havo",0.770114942528736
+"902","Slovak",16,"produces","dog","pes/havo",0.838235294117647
+"903","Slovak",17,"produces","dog","pes / havo",0.757142857142857
+"904","Slovak",18,"produces","dog","pes / havo",0.969230769230769
+"905","Slovak",19,"produces","dog","pes / havo",0.875
+"906","Slovak",20,"produces","dog","pes / havo",0.951612903225806
+"907","Slovak",21,"produces","dog","pes / havo",0.901234567901235
+"908","Slovak",22,"produces","dog","pes / havo",0.886792452830189
+"909","Slovak",23,"produces","dog","pes / havo",0.898305084745763
+"910","Slovak",24,"produces","dog","pes / havo",0.983050847457627
+"911","Slovak",25,"produces","dog","pes / havo",0.927536231884058
+"912","Slovak",26,"produces","dog","pes / havo",0.923076923076923
+"913","Slovak",27,"produces","dog","pes / havo",0.951612903225806
+"914","Slovak",28,"produces","dog","pes / havo",0.930232558139535
+"915","Slovak",29,"produces","dog","pes / havo",0.946666666666667
+"916","Slovak",30,"produces","dog","pes / havo",0.938775510204082
+"917","Slovak",31,"produces","dog","pes / havo",0.96551724137931
+"918","Slovak",32,"produces","dog","pes / havo",1
+"919","Slovak",33,"produces","dog","pes / havo",1
+"920","Slovak",34,"produces","dog","pes / havo",0.925925925925926
+"921","Slovak",35,"produces","dog","pes / havo",0.888888888888889
+"922","Slovak",36,"produces","dog","pes / havo",1
+"923","Spanish (Mexican)",8,"produces","dog","perro",0.05
+"924","Spanish (Mexican)",9,"produces","dog","perro",0.015625
+"925","Spanish (Mexican)",10,"produces","dog","perro",0.0985915492957746
+"926","Spanish (Mexican)",11,"produces","dog","perro",0.104477611940299
+"927","Spanish (Mexican)",12,"produces","dog","perro",0.168539325842697
+"928","Spanish (Mexican)",13,"produces","dog","perro",0.240963855421687
+"929","Spanish (Mexican)",14,"produces","dog","perro",0.263157894736842
+"930","Spanish (Mexican)",15,"produces","dog","perro",0.360655737704918
+"931","Spanish (Mexican)",16,"produces","dog","perro",0.450980392156863
+"932","Spanish (Mexican)",17,"produces","dog","perro",0.544715447154472
+"933","Spanish (Mexican)",18,"produces","dog","perro",0.47682119205298
+"934","Spanish (Mexican)",19,"produces","dog","perro",0.695121951219512
+"935","Spanish (Mexican)",20,"produces","dog","perro",0.696969696969697
+"936","Spanish (Mexican)",21,"produces","dog","perro",0.717647058823529
+"937","Spanish (Mexican)",22,"produces","dog","perro",0.724137931034483
+"938","Spanish (Mexican)",23,"produces","dog","perro",0.693181818181818
+"939","Spanish (Mexican)",24,"produces","dog","perro",0.869565217391304
+"940","Spanish (Mexican)",25,"produces","dog","perro",0.837209302325581
+"941","Spanish (Mexican)",26,"produces","dog","perro",0.810810810810811
+"942","Spanish (Mexican)",27,"produces","dog","perro",0.875
+"943","Spanish (Mexican)",28,"produces","dog","perro",0.878048780487805
+"944","Spanish (Mexican)",29,"produces","dog","perro",0.866666666666667
+"945","Spanish (Mexican)",30,"produces","dog","perro",0.830769230769231
+"946","Swedish",8,"produces","dog","hund",0
+"947","Swedish",10,"produces","dog","hund",0
+"948","Swedish",11,"produces","dog","hund",0
+"949","Swedish",12,"produces","dog","hund",0.0886075949367089
+"950","Swedish",13,"produces","dog","hund",0.142857142857143
+"951","Swedish",14,"produces","dog","hund",0.209677419354839
+"952","Swedish",15,"produces","dog","hund",0.384615384615385
+"953","Swedish",16,"produces","dog","hund",0.251572327044025
+"954","Swedish",19,"produces","dog","hund",0.322368421052632
+"955","Swedish",22,"produces","dog","hund",0.618892508143323
+"956","Swedish",25,"produces","dog","hund",0.748251748251748
+"957","Swedish",28,"produces","dog","hund",0.863309352517986
+"958","Turkish",8,"produces","dog","Köpek",0.00714285714285714
+"959","Turkish",9,"produces","dog","Köpek",0
+"960","Turkish",10,"produces","dog","Köpek",0.00769230769230769
+"961","Turkish",11,"produces","dog","Köpek",0.008
+"962","Turkish",12,"produces","dog","Köpek",0.0333333333333333
+"963","Turkish",13,"produces","dog","Köpek",0.0819672131147541
+"964","Turkish",14,"produces","dog","Köpek",0.129251700680272
+"965","Turkish",15,"produces","dog","Köpek",0.114503816793893
+"966","Turkish",16,"produces","dog","Köpek",0.179347826086957
+"967","Turkish",17,"produces","dog","Köpek",0.299065420560748
+"968","Turkish",18,"produces","dog","Köpek",0.328125
+"969","Turkish",19,"produces","dog","Köpek",0.413223140495868
+"970","Turkish",20,"produces","dog","Köpek",0.46218487394958
+"971","Turkish",21,"produces","dog","Köpek",0.548387096774194
+"972","Turkish",22,"produces","dog","Köpek",0.515873015873016
+"973","Turkish",23,"produces","dog","Köpek",0.633587786259542
+"974","Turkish",24,"produces","dog","Köpek",0.707547169811321
+"975","Turkish",25,"produces","dog","Köpek",0.699186991869919
+"976","Turkish",26,"produces","dog","Köpek",0.764227642276423
+"977","Turkish",27,"produces","dog","Köpek",0.833333333333333
+"978","Turkish",28,"produces","dog","Köpek",0.857142857142857
+"979","Turkish",29,"produces","dog","Köpek",0.882352941176471
+"980","Turkish",30,"produces","dog","Köpek",0.932692307692308
+"981","Turkish",31,"produces","dog","Köpek",0.871287128712871
+"982","Turkish",32,"produces","dog","Köpek",0.893939393939394
+"983","Turkish",33,"produces","dog","Köpek",0.93859649122807
+"984","Turkish",34,"produces","dog","Köpek",0.878504672897196
+"985","Turkish",35,"produces","dog","Köpek",0.931297709923664
+"986","Turkish",36,"produces","dog","Köpek",0.974025974025974
+"987","American Sign Language",10,"understands","ball","BALL",0
+"988","American Sign Language",18,"understands","ball","BALL",0.666666666666667
+"989","American Sign Language",21,"understands","ball","BALL",1
+"990","American Sign Language",23,"understands","ball","BALL",1
+"991","American Sign Language",24,"understands","ball","BALL",1
+"992","American Sign Language",27,"understands","ball","BALL",1
+"993","American Sign Language",30,"understands","ball","BALL",1
+"994","American Sign Language",31,"understands","ball","BALL",1
+"995","American Sign Language",32,"understands","ball","BALL",1
+"996","American Sign Language",34,"understands","ball","BALL",1
+"997","British Sign Language",8,"understands","ball","ball",0
+"998","British Sign Language",9,"understands","ball","ball",0.25
+"999","British Sign Language",10,"understands","ball","ball",0
+"1000","British Sign Language",11,"understands","ball","ball",0.333333333333333
+"1001","British Sign Language",12,"understands","ball","ball",0.5
+"1002","British Sign Language",13,"understands","ball","ball",0.166666666666667
+"1003","British Sign Language",14,"understands","ball","ball",0.714285714285714
+"1004","British Sign Language",15,"understands","ball","ball",0.5
+"1005","British Sign Language",16,"understands","ball","ball",0.714285714285714
+"1006","British Sign Language",17,"understands","ball","ball",0.714285714285714
+"1007","British Sign Language",18,"understands","ball","ball",0.75
+"1008","British Sign Language",19,"understands","ball","ball",0.875
+"1009","British Sign Language",20,"understands","ball","ball",0.909090909090909
+"1010","British Sign Language",21,"understands","ball","ball",1
+"1011","British Sign Language",22,"understands","ball","ball",0.833333333333333
+"1012","British Sign Language",23,"understands","ball","ball",1
+"1013","British Sign Language",24,"understands","ball","ball",1
+"1014","British Sign Language",25,"understands","ball","ball",1
+"1015","British Sign Language",26,"understands","ball","ball",1
+"1016","British Sign Language",27,"understands","ball","ball",1
+"1017","British Sign Language",28,"understands","ball","ball",1
+"1018","British Sign Language",29,"understands","ball","ball",1
+"1019","British Sign Language",30,"understands","ball","ball",1
+"1020","British Sign Language",32,"understands","ball","ball",1
+"1021","British Sign Language",33,"understands","ball","ball",1
+"1022","British Sign Language",36,"understands","ball","ball",1
+"1023","Cantonese",16,"understands","ball","波",0.511111111111111
+"1024","Cantonese",17,"understands","ball","波",0.672131147540984
+"1025","Cantonese",18,"understands","ball","波",0.772727272727273
+"1026","Cantonese",19,"understands","ball","波",0.787878787878788
+"1027","Cantonese",20,"understands","ball","波",0.89041095890411
+"1028","Cantonese",21,"understands","ball","波",0.875
+"1029","Cantonese",22,"understands","ball","波",0.888888888888889
+"1030","Cantonese",23,"understands","ball","波",0.918918918918919
+"1031","Cantonese",24,"understands","ball","波",0.941176470588235
+"1032","Cantonese",25,"understands","ball","波",0.984615384615385
+"1033","Cantonese",26,"understands","ball","波",0.970149253731343
+"1034","Cantonese",27,"understands","ball","波",1
+"1035","Cantonese",28,"understands","ball","波",0.96969696969697
+"1036","Cantonese",29,"understands","ball","波",0.985915492957746
+"1037","Cantonese",30,"understands","ball","波",1
+"1038","Croatian",8,"understands","ball","lopta",0.0869565217391304
+"1039","Croatian",9,"understands","ball","lopta",0.24
+"1040","Croatian",10,"understands","ball","lopta",0.454545454545455
+"1041","Croatian",11,"understands","ball","lopta",0.64
+"1042","Croatian",12,"understands","ball","lopta",0.8
+"1043","Croatian",13,"understands","ball","lopta",0.764705882352941
+"1044","Croatian",14,"understands","ball","lopta",0.892857142857143
+"1045","Croatian",15,"understands","ball","lopta",0.958333333333333
+"1046","Croatian",16,"understands","ball","lopta",0.765957446808511
+"1047","Croatian",17,"understands","ball","lopta",0.2
+"1048","Croatian",18,"understands","ball","lopta",0.363636363636364
+"1049","Croatian",19,"understands","ball","lopta",0.523809523809524
+"1050","Croatian",20,"understands","ball","lopta",0.576923076923077
+"1051","Croatian",21,"understands","ball","lopta",0.620689655172414
+"1052","Croatian",22,"understands","ball","lopta",0.75
+"1053","Croatian",23,"understands","ball","lopta",0.846153846153846
+"1054","Croatian",24,"understands","ball","lopta",0.833333333333333
+"1055","Croatian",25,"understands","ball","lopta",0.833333333333333
+"1056","Croatian",26,"understands","ball","lopta",0.862068965517241
+"1057","Croatian",27,"understands","ball","lopta",0.92
+"1058","Croatian",28,"understands","ball","lopta",1
+"1059","Croatian",29,"understands","ball","lopta",0.928571428571429
+"1060","Croatian",30,"understands","ball","lopta",1
+"1061","Danish",8,"understands","ball","bold",0.0862068965517241
+"1062","Danish",9,"understands","ball","bold",0.0918367346938776
+"1063","Danish",10,"understands","ball","bold",0.247252747252747
+"1064","Danish",11,"understands","ball","bold",0.42
+"1065","Danish",12,"understands","ball","bold",0.595744680851064
+"1066","Danish",13,"understands","ball","bold",0.625
+"1067","Danish",14,"understands","ball","bold",0.780898876404494
+"1068","Danish",15,"understands","ball","bold",0.827586206896552
+"1069","Danish",16,"understands","ball","bold",0.559888579387187
+"1070","Danish",17,"understands","ball","bold",0.624277456647399
+"1071","Danish",18,"understands","ball","bold",0.706703910614525
+"1072","Danish",19,"understands","ball","bold",0.722991689750693
+"1073","Danish",20,"understands","ball","bold",0.826815642458101
+"1074","Danish",21,"understands","ball","bold",0.716101694915254
+"1075","Danish",22,"understands","ball","bold",0.842553191489362
+"1076","Danish",23,"understands","ball","bold",0.847368421052632
+"1077","Danish",24,"understands","ball","bold",0.907407407407407
+"1078","Danish",25,"understands","ball","bold",0.91304347826087
+"1079","Danish",26,"understands","ball","bold",0.951456310679612
+"1080","Danish",27,"understands","ball","bold",0.943181818181818
+"1081","Danish",28,"understands","ball","bold",0.952631578947368
+"1082","Danish",29,"understands","ball","bold",0.956043956043956
+"1083","Danish",30,"understands","ball","bold",0.988439306358382
+"1084","Danish",31,"understands","ball","bold",0.982857142857143
+"1085","Danish",32,"understands","ball","bold",0.986013986013986
+"1086","Danish",33,"understands","ball","bold",0.986754966887417
+"1087","Danish",34,"understands","ball","bold",1
+"1088","Danish",35,"understands","ball","bold",0.991150442477876
+"1089","Danish",36,"understands","ball","bold",1
+"1090","English (American)",8,"understands","ball","ball",0.314285714285714
+"1091","English (American)",9,"understands","ball","ball",0.361702127659574
+"1092","English (American)",10,"understands","ball","ball",0.458064516129032
+"1093","English (American)",11,"understands","ball","ball",0.712765957446808
+"1094","English (American)",12,"understands","ball","ball",0.769230769230769
+"1095","English (American)",13,"understands","ball","ball",0.893506493506493
+"1096","English (American)",14,"understands","ball","ball",0.915384615384615
+"1097","English (American)",15,"understands","ball","ball",0.925619834710744
+"1098","English (American)",16,"understands","ball","ball",0.858591885441527
+"1099","English (American)",17,"understands","ball","ball",0.839779005524862
+"1100","English (American)",18,"understands","ball","ball",0.9106463878327
+"1101","English (American)",19,"understands","ball","ball",0.914634146341463
+"1102","English (American)",20,"understands","ball","ball",0.952554744525547
+"1103","English (American)",21,"understands","ball","ball",0.940886699507389
+"1104","English (American)",22,"understands","ball","ball",0.96
+"1105","English (American)",23,"understands","ball","ball",0.977099236641221
+"1106","English (American)",24,"understands","ball","ball",0.963979416809606
+"1107","English (American)",25,"understands","ball","ball",0.972972972972973
+"1108","English (American)",26,"understands","ball","ball",0.983425414364641
+"1109","English (American)",27,"understands","ball","ball",0.979487179487179
+"1110","English (American)",28,"understands","ball","ball",0.994981179422836
+"1111","English (American)",29,"understands","ball","ball",0.97979797979798
+"1112","English (American)",30,"understands","ball","ball",0.993220338983051
+"1113","English (Australian)",12,"understands","ball","ball",0.140845070422535
+"1114","English (Australian)",13,"understands","ball","ball",0.171875
+"1115","English (Australian)",14,"understands","ball","ball",0.414414414414414
+"1116","English (Australian)",15,"understands","ball","ball",0.478260869565217
+"1117","English (Australian)",16,"understands","ball","ball",0.65
+"1118","English (Australian)",17,"understands","ball","ball",0.701923076923077
+"1119","English (Australian)",18,"understands","ball","ball",0.779816513761468
+"1120","English (Australian)",19,"understands","ball","ball",0.887096774193548
+"1121","English (Australian)",20,"understands","ball","ball",0.987179487179487
+"1122","English (Australian)",21,"understands","ball","ball",0.882352941176471
+"1123","English (Australian)",22,"understands","ball","ball",0.972602739726027
+"1124","English (Australian)",23,"understands","ball","ball",0.985915492957746
+"1125","English (Australian)",24,"understands","ball","ball",0.960526315789474
+"1126","English (Australian)",25,"understands","ball","ball",0.988235294117647
+"1127","English (Australian)",26,"understands","ball","ball",0.974025974025974
+"1128","English (Australian)",27,"understands","ball","ball",0.972222222222222
+"1129","English (Australian)",28,"understands","ball","ball",1
+"1130","English (Australian)",29,"understands","ball","ball",0.969230769230769
+"1131","English (Australian)",30,"understands","ball","ball",1
+"1132","English (British)",12,"understands","ball","ball",0.555555555555556
+"1133","English (British)",13,"understands","ball","ball",0.428571428571429
+"1134","English (British)",14,"understands","ball","ball",0.65625
+"1135","English (British)",15,"understands","ball","ball",0.75
+"1136","English (British)",16,"understands","ball","ball",0.805084745762712
+"1137","English (British)",17,"understands","ball","ball",0.883248730964467
+"1138","English (British)",18,"understands","ball","ball",0.898305084745763
+"1139","English (British)",19,"understands","ball","ball",0.935779816513762
+"1140","English (British)",20,"understands","ball","ball",0.945205479452055
+"1141","English (British)",21,"understands","ball","ball",0.975609756097561
+"1142","English (British)",22,"understands","ball","ball",0.918918918918919
+"1143","English (British)",23,"understands","ball","ball",0.910864446686848
+"1144","English (British)",24,"understands","ball","ball",0.916743613419514
+"1145","English (British)",25,"understands","ball","ball",0.918149466192171
+"1146","English (British)",26,"understands","ball","ball",0.918439716312057
+"1147","English (British)",27,"understands","ball","ball",0.919463087248322
+"1148","English (British)",28,"understands","ball","ball",0.881720430107527
+"1149","English (British)",29,"understands","ball","ball",0.9
+"1150","English (British)",30,"understands","ball","ball",1
+"1151","English (British)",31,"understands","ball","ball",1
+"1152","English (British)",32,"understands","ball","ball",0.962962962962963
+"1153","English (British)",33,"understands","ball","ball",0.933333333333333
+"1154","English (British)",34,"understands","ball","ball",0.8
+"1155","English (British)",35,"understands","ball","ball",0.8
+"1156","French (French)",8,"understands","ball","balle, ballon",0.074468085106383
+"1157","French (French)",9,"understands","ball","balle, ballon",0
+"1158","French (French)",11,"understands","ball","balle, ballon",0.339285714285714
+"1159","French (French)",12,"understands","ball","balle, ballon",0.326923076923077
+"1160","French (French)",13,"understands","ball","balle, ballon",0.36046511627907
+"1161","French (French)",14,"understands","ball","balle, ballon",0.291666666666667
+"1162","French (French)",16,"understands","ball","balle, ballon",0.1875
+"1163","French (French)",17,"understands","ball","balle, ballon",0.25
+"1164","French (French)",19,"understands","ball","balle, ballon",0.5
+"1165","French (French)",20,"understands","ball","balle, ballon",0.5125
+"1166","French (French)",21,"understands","ball","balle, ballon",0.5625
+"1167","French (French)",22,"understands","ball","balle, ballon",0.658536585365854
+"1168","French (French)",23,"understands","ball","balle, ballon",0.647887323943662
+"1169","French (French)",24,"understands","ball","balle, ballon",0.715384615384615
+"1170","French (French)",25,"understands","ball","balle, ballon",0.75
+"1171","French (French)",26,"understands","ball","balle, ballon",0.703125
+"1172","French (French)",27,"understands","ball","balle, ballon",0.807692307692308
+"1173","French (French)",28,"understands","ball","balle, ballon",0.852941176470588
+"1174","French (French)",29,"understands","ball","balle, ballon",0.828571428571429
+"1175","French (French)",30,"understands","ball","balle, ballon",0.862068965517241
+"1176","French (Quebecois)",8,"understands","ball","ballon, balle",0.161016949152542
+"1177","French (Quebecois)",9,"understands","ball","ballon, balle",0.211864406779661
+"1178","French (Quebecois)",10,"understands","ball","ballon, balle",0.327272727272727
+"1179","French (Quebecois)",11,"understands","ball","ballon, balle",0.543103448275862
+"1180","French (Quebecois)",12,"understands","ball","ballon, balle",0.568493150684932
+"1181","French (Quebecois)",13,"understands","ball","ballon, balle",0.657142857142857
+"1182","French (Quebecois)",14,"understands","ball","ballon, balle",0.783018867924528
+"1183","French (Quebecois)",15,"understands","ball","ballon, balle",0.862903225806452
+"1184","French (Quebecois)",16,"understands","ball","ballon, balle",0.642105263157895
+"1185","French (Quebecois)",17,"understands","ball","balle, ballon",0.576923076923077
+"1186","French (Quebecois)",18,"understands","ball","balle, ballon",0.546296296296296
+"1187","French (Quebecois)",19,"understands","ball","balle, ballon",0.675925925925926
+"1188","French (Quebecois)",20,"understands","ball","balle, ballon",0.698412698412698
+"1189","French (Quebecois)",21,"understands","ball","balle, ballon",0.798387096774194
+"1190","French (Quebecois)",22,"understands","ball","balle, ballon",0.780701754385965
+"1191","French (Quebecois)",23,"understands","ball","balle, ballon",0.865384615384615
+"1192","French (Quebecois)",24,"understands","ball","balle, ballon",0.87037037037037
+"1193","French (Quebecois)",25,"understands","ball","balle, ballon",0.827586206896552
+"1194","French (Quebecois)",26,"understands","ball","balle, ballon",0.868421052631579
+"1195","French (Quebecois)",27,"understands","ball","balle, ballon",0.889830508474576
+"1196","French (Quebecois)",28,"understands","ball","balle, ballon",0.933962264150943
+"1197","French (Quebecois)",29,"understands","ball","balle, ballon",0.990566037735849
+"1198","French (Quebecois)",30,"understands","ball","balle, ballon",0.913461538461538
+"1199","German",18,"understands","ball","Ball",0.764705882352941
+"1200","German",19,"understands","ball","Ball",0.822784810126582
+"1201","German",20,"understands","ball","Ball",0.8125
+"1202","German",21,"understands","ball","Ball",0.883116883116883
+"1203","German",22,"understands","ball","Ball",0.863157894736842
+"1204","German",23,"understands","ball","Ball",0.968421052631579
+"1205","German",24,"understands","ball","Ball",0.951456310679612
+"1206","German",25,"understands","ball","Ball",0.936842105263158
+"1207","German",26,"understands","ball","Ball",0.978260869565217
+"1208","German",27,"understands","ball","Ball",0.97752808988764
+"1209","German",28,"understands","ball","Ball",0.989247311827957
+"1210","German",29,"understands","ball","Ball",1
+"1211","German",30,"understands","ball","Ball",1
+"1212","Greek (Cypriot)",18,"understands","ball","μπάλα",0.688888888888889
+"1213","Greek (Cypriot)",21,"understands","ball","μπάλα",0.777777777777778
+"1214","Greek (Cypriot)",24,"understands","ball","μπάλα",0.875
+"1215","Greek (Cypriot)",27,"understands","ball","μπάλα",0.96551724137931
+"1216","Greek (Cypriot)",30,"understands","ball","μπάλα",0.970588235294118
+"1217","Hebrew",12,"understands","ball","כדור",0.714285714285714
+"1218","Hebrew",15,"understands","ball","כדור",1
+"1219","Hebrew",16,"understands","ball","כדור",1
+"1220","Hebrew",19,"understands","ball","כדור",1
+"1221","Hebrew",20,"understands","ball","כדור",1
+"1222","Hebrew",21,"understands","ball","כדור",1
+"1223","Hebrew",22,"understands","ball","כדור",1
+"1224","Hebrew",23,"understands","ball","כדור",0.9
+"1225","Hebrew",24,"understands","ball","כדור",1
+"1226","Hebrew",25,"understands","ball","כדור",0.98780487804878
+"1227","Hebrew",26,"understands","ball","כדור",0.974358974358974
+"1228","Hebrew",27,"understands","ball","כדור",1
+"1229","Hebrew",28,"understands","ball","כדור",1
+"1230","Hebrew",29,"understands","ball","כדור",0.956521739130435
+"1231","Hebrew",30,"understands","ball","כדור",1
+"1232","Hebrew",31,"understands","ball","כדור",0.9375
+"1233","Hebrew",32,"understands","ball","כדור",1
+"1234","Hebrew",33,"understands","ball","כדור",0.952380952380952
+"1235","Hebrew",34,"understands","ball","כדור",1
+"1236","Hebrew",35,"understands","ball","כדור",0.875
+"1237","Italian",7,"understands","ball","palla",0.2
+"1238","Italian",8,"understands","ball","palla",0.411764705882353
+"1239","Italian",9,"understands","ball","palla",0.421052631578947
+"1240","Italian",10,"understands","ball","palla",0.415094339622642
+"1241","Italian",11,"understands","ball","palla",0.69047619047619
+"1242","Italian",12,"understands","ball","palla",0.855072463768116
+"1243","Italian",13,"understands","ball","palla",0.875
+"1244","Italian",14,"understands","ball","palla",0.975
+"1245","Italian",15,"understands","ball","palla",0.941176470588235
+"1246","Italian",16,"understands","ball","palla",0.964285714285714
+"1247","Italian",17,"understands","ball","palla",0.958333333333333
+"1248","Italian",18,"understands","ball","palla",0.853333333333333
+"1249","Italian",19,"understands","ball","palla",0.741379310344828
+"1250","Italian",20,"understands","ball","palla",0.72289156626506
+"1251","Italian",21,"understands","ball","palla",0.791044776119403
+"1252","Italian",22,"understands","ball","palla",0.87012987012987
+"1253","Italian",23,"understands","ball","palla",0.942857142857143
+"1254","Italian",24,"understands","ball","palla",0.941176470588235
+"1255","Italian",25,"understands","ball","palla",0.923076923076923
+"1256","Italian",26,"understands","ball","palla",0.951219512195122
+"1257","Italian",27,"understands","ball","palla",0.930232558139535
+"1258","Italian",28,"understands","ball","palla",0.954545454545455
+"1259","Italian",29,"understands","ball","palla",0.972972972972973
+"1260","Italian",30,"understands","ball","palla",0.985074626865672
+"1261","Italian",31,"understands","ball","palla",0.894736842105263
+"1262","Italian",32,"understands","ball","palla",0.956521739130435
+"1263","Italian",33,"understands","ball","palla",1
+"1264","Italian",34,"understands","ball","palla",0.947368421052632
+"1265","Italian",35,"understands","ball","palla",1
+"1266","Italian",36,"understands","ball","palla",0.952380952380952
+"1267","Kiswahili",9,"understands","ball","Mpira/Boli",0.8
+"1268","Kiswahili",10,"understands","ball","Mpira/Boli",0.75
+"1269","Kiswahili",11,"understands","ball","Mpira/Boli",0.571428571428571
+"1270","Kiswahili",12,"understands","ball","Mpira/Boli",0.714285714285714
+"1271","Kiswahili",13,"understands","ball","Mpira/Boli",1
+"1272","Kiswahili",14,"understands","ball","Mpira/Boli",0.571428571428571
+"1273","Kiswahili",22,"understands","ball","Mpira/Boli",1
+"1274","Kiswahili",23,"understands","ball","Mpira/Boli",0.8
+"1275","Kiswahili",24,"understands","ball","Mpira/Boli",0.866666666666667
+"1276","Kiswahili",25,"understands","ball","Mpira/Boli",0.769230769230769
+"1277","Kiswahili",26,"understands","ball","Mpira/Boli",0.866666666666667
+"1278","Kiswahili",27,"understands","ball","Mpira/Boli",1
+"1279","Kiswahili",28,"understands","ball","Mpira/Boli",1
+"1280","Kiswahili",29,"understands","ball","Mpira/Boli",0.888888888888889
+"1281","Korean",8,"understands","ball","공",0.2
+"1282","Korean",9,"understands","ball","공",0.310344827586207
+"1283","Korean",10,"understands","ball","공",0.483333333333333
+"1284","Korean",11,"understands","ball","공",0.507692307692308
+"1285","Korean",12,"understands","ball","공",0.65
+"1286","Korean",13,"understands","ball","공",0.7
+"1287","Korean",14,"understands","ball","공",0.737704918032787
+"1288","Korean",15,"understands","ball","공",0.82258064516129
+"1289","Korean",16,"understands","ball","공",0.841269841269841
+"1290","Korean",17,"understands","ball","공",0.864406779661017
+"1291","Korean",18,"understands","ball","공",0.630769230769231
+"1292","Korean",19,"understands","ball","공",0.650793650793651
+"1293","Korean",20,"understands","ball","공",0.661290322580645
+"1294","Korean",21,"understands","ball","공",0.779661016949153
+"1295","Korean",22,"understands","ball","공",0.794117647058823
+"1296","Korean",23,"understands","ball","공",0.805970149253731
+"1297","Korean",24,"understands","ball","공",0.893333333333333
+"1298","Korean",25,"understands","ball","공",0.930555555555556
+"1299","Korean",26,"understands","ball","공",0.921875
+"1300","Korean",27,"understands","ball","공",0.95
+"1301","Korean",28,"understands","ball","공",0.971428571428571
+"1302","Korean",29,"understands","ball","공",0.958904109589041
+"1303","Korean",30,"understands","ball","공",0.938461538461538
+"1304","Korean",31,"understands","ball","공",0.985294117647059
+"1305","Korean",32,"understands","ball","공",0.968253968253968
+"1306","Korean",33,"understands","ball","공",0.986301369863014
+"1307","Korean",34,"understands","ball","공",1
+"1308","Korean",35,"understands","ball","공",0.983870967741935
+"1309","Korean",36,"understands","ball","공",0.985507246376812
+"1310","Mandarin",12,"understands","ball","皮球",0.622222222222222
+"1311","Mandarin",13,"understands","ball","皮球",0.56
+"1312","Mandarin",14,"understands","ball","皮球",0.645833333333333
+"1313","Mandarin",15,"understands","ball","皮球",0.565217391304348
+"1314","Mandarin",16,"understands","ball","皮球, 汽球",0.621621621621622
+"1315","Mandarin",17,"understands","ball","皮球, 球, 汽球",0.552631578947368
+"1316","Mandarin",18,"understands","ball","皮球, 球, 汽球",0.52046783625731
+"1317","Mandarin",19,"understands","ball","皮球, 球, 汽球",0.635294117647059
+"1318","Mandarin",20,"understands","ball","皮球, 球, 汽球",0.64327485380117
+"1319","Mandarin",21,"understands","ball","皮球, 球, 汽球",0.68452380952381
+"1320","Mandarin",22,"understands","ball","皮球, 球, 汽球",0.742331288343558
+"1321","Mandarin",23,"understands","ball","皮球, 球, 汽球",0.835294117647059
+"1322","Mandarin",24,"understands","ball","皮球, 球, 汽球",0.811764705882353
+"1323","Mandarin",25,"understands","ball","皮球, 球, 汽球",0.858974358974359
+"1324","Mandarin",26,"understands","ball","皮球, 球, 汽球",0.878787878787879
+"1325","Mandarin",27,"understands","ball","皮球, 球, 汽球",0.886075949367089
+"1326","Mandarin",28,"understands","ball","皮球, 球, 汽球",0.905063291139241
+"1327","Mandarin",29,"understands","ball","皮球, 球, 汽球",0.928571428571429
+"1328","Mandarin",30,"understands","ball","皮球, 球, 汽球",0.926666666666667
+"1329","Norwegian",8,"understands","ball","ball",0.220472440944882
+"1330","Norwegian",9,"understands","ball","ball",0.348066298342541
+"1331","Norwegian",10,"understands","ball","ball",0.480519480519481
+"1332","Norwegian",11,"understands","ball","ball",0.669902912621359
+"1333","Norwegian",12,"understands","ball","ball",0.748987854251012
+"1334","Norwegian",13,"understands","ball","ball",0.838461538461538
+"1335","Norwegian",14,"understands","ball","ball",0.8671875
+"1336","Norwegian",15,"understands","ball","ball",0.926923076923077
+"1337","Norwegian",16,"understands","ball","ball",0.759615384615385
+"1338","Norwegian",17,"understands","ball","ball",0.802997858672377
+"1339","Norwegian",18,"understands","ball","ball",0.864
+"1340","Norwegian",19,"understands","ball","ball",0.877477477477478
+"1341","Norwegian",20,"understands","ball","ball",0.927943760984183
+"1342","Norwegian",21,"understands","ball","ball",0.895104895104895
+"1343","Norwegian",22,"understands","ball","ball",0.918544194107452
+"1344","Norwegian",23,"understands","ball","ball",0.94954954954955
+"1345","Norwegian",24,"understands","ball","ball",0.947811447811448
+"1346","Norwegian",25,"understands","ball","ball",0.972136222910217
+"1347","Norwegian",26,"understands","ball","ball",0.97
+"1348","Norwegian",27,"understands","ball","ball",0.973025048169557
+"1349","Norwegian",28,"understands","ball","ball",0.973231357552581
+"1350","Norwegian",29,"understands","ball","ball",0.976190476190476
+"1351","Norwegian",30,"understands","ball","ball",0.989754098360656
+"1352","Norwegian",31,"understands","ball","ball",0.980728051391863
+"1353","Norwegian",32,"understands","ball","ball",0.986206896551724
+"1354","Norwegian",33,"understands","ball","ball",0.988372093023256
+"1355","Norwegian",34,"understands","ball","ball",0.992462311557789
+"1356","Norwegian",35,"understands","ball","ball",0.990338164251208
+"1357","Norwegian",36,"understands","ball","ball",0.978070175438597
+"1358","Russian",8,"understands","ball","мяч",0.457627118644068
+"1359","Russian",9,"understands","ball","мяч",0.547619047619048
+"1360","Russian",10,"understands","ball","мяч",0.619047619047619
+"1361","Russian",11,"understands","ball","мяч",0.830985915492958
+"1362","Russian",12,"understands","ball","мяч",0.789473684210526
+"1363","Russian",13,"understands","ball","мяч",0.89041095890411
+"1364","Russian",14,"understands","ball","мяч",0.936708860759494
+"1365","Russian",15,"understands","ball","мяч",0.938271604938272
+"1366","Russian",16,"understands","ball","мяч",0.950617283950617
+"1367","Russian",17,"understands","ball","мяч",0.975
+"1368","Russian",18,"understands","ball","мяч",0.723809523809524
+"1369","Russian",19,"understands","ball","мяч",0.463414634146341
+"1370","Russian",20,"understands","ball","мяч",0.533333333333333
+"1371","Russian",21,"understands","ball","мяч",0.697674418604651
+"1372","Russian",22,"understands","ball","мяч",0.764705882352941
+"1373","Russian",23,"understands","ball","мяч",0.875
+"1374","Russian",24,"understands","ball","мяч",0.885245901639344
+"1375","Russian",25,"understands","ball","мяч",0.878787878787879
+"1376","Russian",26,"understands","ball","мяч",0.846153846153846
+"1377","Russian",27,"understands","ball","мяч",0.833333333333333
+"1378","Russian",28,"understands","ball","мяч",0.933333333333333
+"1379","Russian",29,"understands","ball","мяч",0.982758620689655
+"1380","Russian",30,"understands","ball","мяч",0.922077922077922
+"1381","Russian",31,"understands","ball","мяч",0.983606557377049
+"1382","Russian",32,"understands","ball","мяч",0.945454545454545
+"1383","Russian",33,"understands","ball","мяч",0.909090909090909
+"1384","Russian",34,"understands","ball","мяч",0.948275862068966
+"1385","Russian",35,"understands","ball","мяч",1
+"1386","Russian",36,"understands","ball","мяч",1
+"1387","Slovak",8,"understands","ball","guľka, lopta / gól",0.321917808219178
+"1388","Slovak",9,"understands","ball","guľka, lopta / gól",0.398305084745763
+"1389","Slovak",10,"understands","ball","guľka, lopta / gól",0.458904109589041
+"1390","Slovak",11,"understands","ball","guľka, lopta / gól",0.67741935483871
+"1391","Slovak",12,"understands","ball","guľka, lopta / gól",0.683544303797468
+"1392","Slovak",13,"understands","ball","guľka, lopta / gól",0.77027027027027
+"1393","Slovak",14,"understands","ball","guľka, lopta / gól",0.743589743589744
+"1394","Slovak",15,"understands","ball","guľka, lopta / gól",0.798850574712644
+"1395","Slovak",16,"understands","ball","guľka, lopta / gól",0.794117647058823
+"1396","Slovak",17,"understands","ball","guľka, lopta / gól",0.892857142857143
+"1397","Slovak",18,"understands","ball","guľka, lopta / gól",0.923076923076923
+"1398","Slovak",19,"understands","ball","guľka, lopta / gól",0.910714285714286
+"1399","Slovak",20,"understands","ball","guľka, lopta / gól",0.959677419354839
+"1400","Slovak",21,"understands","ball","guľka, lopta / gól",0.975308641975309
+"1401","Slovak",22,"understands","ball","guľka, lopta / gól",0.952830188679245
+"1402","Slovak",23,"understands","ball","guľka, lopta / gól",0.966101694915254
+"1403","Slovak",24,"understands","ball","guľka, lopta / gól",0.991525423728814
+"1404","Slovak",25,"understands","ball","guľka, lopta / gól",0.963768115942029
+"1405","Slovak",26,"understands","ball","guľka, lopta / gól",0.987179487179487
+"1406","Slovak",27,"understands","ball","guľka, lopta / gól",0.951612903225806
+"1407","Slovak",28,"understands","ball","guľka, lopta / gól",0.976744186046512
+"1408","Slovak",29,"understands","ball","guľka, lopta / gól",0.986666666666667
+"1409","Slovak",30,"understands","ball","guľka, lopta / gól",0.979591836734694
+"1410","Slovak",31,"understands","ball","guľka, lopta / gól",0.982758620689655
+"1411","Slovak",32,"understands","ball","guľka, lopta / gól",0.98
+"1412","Slovak",33,"understands","ball","guľka, lopta / gól",1
+"1413","Slovak",34,"understands","ball","guľka, lopta / gól",0.981481481481482
+"1414","Slovak",35,"understands","ball","guľka, lopta / gól",0.981481481481482
+"1415","Slovak",36,"understands","ball","guľka, lopta / gól",1
+"1416","Spanish (Mexican)",8,"understands","ball","pelota",0.425
+"1417","Spanish (Mexican)",9,"understands","ball","pelota",0.484375
+"1418","Spanish (Mexican)",10,"understands","ball","pelota",0.47887323943662
+"1419","Spanish (Mexican)",11,"understands","ball","pelota",0.701492537313433
+"1420","Spanish (Mexican)",12,"understands","ball","pelota",0.730337078651685
+"1421","Spanish (Mexican)",13,"understands","ball","pelota",0.807228915662651
+"1422","Spanish (Mexican)",14,"understands","ball","pelota",0.776315789473684
+"1423","Spanish (Mexican)",15,"understands","ball","pelota",0.80327868852459
+"1424","Spanish (Mexican)",16,"understands","ball","pelota",0.718954248366013
+"1425","Spanish (Mexican)",17,"understands","ball","pelota",0.739837398373984
+"1426","Spanish (Mexican)",18,"understands","ball","pelota",0.814569536423841
+"1427","Spanish (Mexican)",19,"understands","ball","pelota",0.682926829268293
+"1428","Spanish (Mexican)",20,"understands","ball","pelota",0.696969696969697
+"1429","Spanish (Mexican)",21,"understands","ball","pelota",0.717647058823529
+"1430","Spanish (Mexican)",22,"understands","ball","pelota",0.775862068965517
+"1431","Spanish (Mexican)",23,"understands","ball","pelota",0.818181818181818
+"1432","Spanish (Mexican)",24,"understands","ball","pelota",0.858695652173913
+"1433","Spanish (Mexican)",25,"understands","ball","pelota",0.906976744186046
+"1434","Spanish (Mexican)",26,"understands","ball","pelota",0.905405405405405
+"1435","Spanish (Mexican)",27,"understands","ball","pelota",0.972222222222222
+"1436","Spanish (Mexican)",28,"understands","ball","pelota",0.939024390243902
+"1437","Spanish (Mexican)",29,"understands","ball","pelota",0.946666666666667
+"1438","Spanish (Mexican)",30,"understands","ball","pelota",0.969230769230769
+"1439","Swedish",8,"understands","ball","boll",0.0384615384615385
+"1440","Swedish",10,"understands","ball","boll",0.333333333333333
+"1441","Swedish",11,"understands","ball","boll",0.333333333333333
+"1442","Swedish",12,"understands","ball","boll",0.683544303797468
+"1443","Swedish",13,"understands","ball","boll",0.857142857142857
+"1444","Swedish",14,"understands","ball","boll",0.895161290322581
+"1445","Swedish",15,"understands","ball","boll",0.923076923076923
+"1446","Swedish",16,"understands","ball","boll",0.632075471698113
+"1447","Swedish",19,"understands","ball","boll",0.598684210526316
+"1448","Swedish",22,"understands","ball","boll",0.804560260586319
+"1449","Swedish",25,"understands","ball","boll",0.916083916083916
+"1450","Swedish",28,"understands","ball","boll",0.956834532374101
+"1451","Turkish",8,"understands","ball","Top",0.5
+"1452","Turkish",9,"understands","ball","Top",0.664
+"1453","Turkish",10,"understands","ball","Top",0.7
+"1454","Turkish",11,"understands","ball","Top",0.776
+"1455","Turkish",12,"understands","ball","Top",0.825
+"1456","Turkish",13,"understands","ball","Top",0.786885245901639
+"1457","Turkish",14,"understands","ball","Top",0.904761904761905
+"1458","Turkish",15,"understands","ball","Top",0.916030534351145
+"1459","Turkish",16,"understands","ball","Top",0.701086956521739
+"1460","Turkish",17,"understands","ball","Top",0.579439252336449
+"1461","Turkish",18,"understands","ball","Top",0.640625
+"1462","Turkish",19,"understands","ball","Top",0.727272727272727
+"1463","Turkish",20,"understands","ball","Top",0.73109243697479
+"1464","Turkish",21,"understands","ball","Top",0.758064516129032
+"1465","Turkish",22,"understands","ball","Top",0.738095238095238
+"1466","Turkish",23,"understands","ball","Top",0.816793893129771
+"1467","Turkish",24,"understands","ball","Top",0.877358490566038
+"1468","Turkish",25,"understands","ball","Top",0.894308943089431
+"1469","Turkish",26,"understands","ball","Top",0.910569105691057
+"1470","Turkish",27,"understands","ball","Top",0.888888888888889
+"1471","Turkish",28,"understands","ball","Top",0.910714285714286
+"1472","Turkish",29,"understands","ball","Top",0.941176470588235
+"1473","Turkish",30,"understands","ball","Top",0.923076923076923
+"1474","Turkish",31,"understands","ball","Top",0.95049504950495
+"1475","Turkish",32,"understands","ball","Top",0.924242424242424
+"1476","Turkish",33,"understands","ball","Top",0.93859649122807
+"1477","Turkish",34,"understands","ball","Top",0.990654205607477
+"1478","Turkish",35,"understands","ball","Top",0.954198473282443
+"1479","Turkish",36,"understands","ball","Top",0.987012987012987
+"1480","American Sign Language",10,"understands","dog","DOG",0
+"1481","American Sign Language",18,"understands","dog","DOG",1
+"1482","American Sign Language",21,"understands","dog","DOG",0.75
+"1483","American Sign Language",23,"understands","dog","DOG",0.75
+"1484","American Sign Language",24,"understands","dog","DOG",1
+"1485","American Sign Language",27,"understands","dog","DOG",1
+"1486","American Sign Language",30,"understands","dog","DOG",1
+"1487","American Sign Language",31,"understands","dog","DOG",1
+"1488","American Sign Language",32,"understands","dog","DOG",1
+"1489","American Sign Language",34,"understands","dog","DOG",1
+"1490","British Sign Language",8,"understands","dog","dog",0.25
+"1491","British Sign Language",9,"understands","dog","dog",0.25
+"1492","British Sign Language",10,"understands","dog","dog",0
+"1493","British Sign Language",11,"understands","dog","dog",0.333333333333333
+"1494","British Sign Language",12,"understands","dog","dog",0
+"1495","British Sign Language",13,"understands","dog","dog",0.333333333333333
+"1496","British Sign Language",14,"understands","dog","dog",0.714285714285714
+"1497","British Sign Language",15,"understands","dog","dog",0.666666666666667
+"1498","British Sign Language",16,"understands","dog","dog",0.571428571428571
+"1499","British Sign Language",17,"understands","dog","dog",0.714285714285714
+"1500","British Sign Language",18,"understands","dog","dog",0.875
+"1501","British Sign Language",19,"understands","dog","dog",1
+"1502","British Sign Language",20,"understands","dog","dog",0.909090909090909
+"1503","British Sign Language",21,"understands","dog","dog",1
+"1504","British Sign Language",22,"understands","dog","dog",1
+"1505","British Sign Language",23,"understands","dog","dog",1
+"1506","British Sign Language",24,"understands","dog","dog",1
+"1507","British Sign Language",25,"understands","dog","dog",1
+"1508","British Sign Language",26,"understands","dog","dog",1
+"1509","British Sign Language",27,"understands","dog","dog",1
+"1510","British Sign Language",28,"understands","dog","dog",1
+"1511","British Sign Language",29,"understands","dog","dog",1
+"1512","British Sign Language",30,"understands","dog","dog",1
+"1513","British Sign Language",32,"understands","dog","dog",1
+"1514","British Sign Language",33,"understands","dog","dog",1
+"1515","British Sign Language",36,"understands","dog","dog",1
+"1516","Cantonese",16,"understands","dog","狗",0.422222222222222
+"1517","Cantonese",17,"understands","dog","狗",0.508196721311475
+"1518","Cantonese",18,"understands","dog","狗",0.742424242424242
+"1519","Cantonese",19,"understands","dog","狗",0.681818181818182
+"1520","Cantonese",20,"understands","dog","狗",0.808219178082192
+"1521","Cantonese",21,"understands","dog","狗",0.75
+"1522","Cantonese",22,"understands","dog","狗",0.777777777777778
+"1523","Cantonese",23,"understands","dog","狗",0.783783783783784
+"1524","Cantonese",24,"understands","dog","狗",0.897058823529412
+"1525","Cantonese",25,"understands","dog","狗",0.907692307692308
+"1526","Cantonese",26,"understands","dog","狗",0.895522388059702
+"1527","Cantonese",27,"understands","dog","狗",0.935483870967742
+"1528","Cantonese",28,"understands","dog","狗",0.984848484848485
+"1529","Cantonese",29,"understands","dog","狗",0.971830985915493
+"1530","Cantonese",30,"understands","dog","狗",0.955882352941177
+"1531","Croatian",8,"understands","dog","pas",0.173913043478261
+"1532","Croatian",9,"understands","dog","pas",0.36
+"1533","Croatian",10,"understands","dog","pas",0.5
+"1534","Croatian",11,"understands","dog","pas",0.68
+"1535","Croatian",12,"understands","dog","pas",0.771428571428571
+"1536","Croatian",13,"understands","dog","pas",0.764705882352941
+"1537","Croatian",14,"understands","dog","pas",0.821428571428571
+"1538","Croatian",15,"understands","dog","pas",0.875
+"1539","Croatian",16,"understands","dog","pas",0.808510638297872
+"1540","Croatian",17,"understands","dog","pas",0.28
+"1541","Croatian",18,"understands","dog","pas",0.454545454545455
+"1542","Croatian",19,"understands","dog","pas",0.523809523809524
+"1543","Croatian",20,"understands","dog","pas",0.692307692307692
+"1544","Croatian",21,"understands","dog","pas",0.655172413793103
+"1545","Croatian",22,"understands","dog","pas",0.75
+"1546","Croatian",23,"understands","dog","pas",0.730769230769231
+"1547","Croatian",24,"understands","dog","pas",0.9
+"1548","Croatian",25,"understands","dog","pas",0.833333333333333
+"1549","Croatian",26,"understands","dog","pas",0.96551724137931
+"1550","Croatian",27,"understands","dog","pas",0.96
+"1551","Croatian",28,"understands","dog","pas",0.952380952380952
+"1552","Croatian",29,"understands","dog","pas",0.892857142857143
+"1553","Croatian",30,"understands","dog","pas",0.964285714285714
+"1554","Danish",8,"understands","dog","hund",0.160919540229885
+"1555","Danish",9,"understands","dog","hund",0.137755102040816
+"1556","Danish",10,"understands","dog","hund",0.258241758241758
+"1557","Danish",11,"understands","dog","hund",0.37
+"1558","Danish",12,"understands","dog","hund",0.521276595744681
+"1559","Danish",13,"understands","dog","hund",0.587962962962963
+"1560","Danish",14,"understands","dog","hund",0.758426966292135
+"1561","Danish",15,"understands","dog","hund",0.729064039408867
+"1562","Danish",16,"understands","dog","hund",0.518105849582173
+"1563","Danish",17,"understands","dog","hund",0.572254335260116
+"1564","Danish",18,"understands","dog","hund",0.67877094972067
+"1565","Danish",19,"understands","dog","hund",0.667590027700831
+"1566","Danish",20,"understands","dog","hund",0.782122905027933
+"1567","Danish",21,"understands","dog","hund",0.635593220338983
+"1568","Danish",22,"understands","dog","hund",0.723404255319149
+"1569","Danish",23,"understands","dog","hund",0.789473684210526
+"1570","Danish",24,"understands","dog","hund",0.875
+"1571","Danish",25,"understands","dog","hund",0.869565217391304
+"1572","Danish",26,"understands","dog","hund",0.936893203883495
+"1573","Danish",27,"understands","dog","hund",0.960227272727273
+"1574","Danish",28,"understands","dog","hund",0.963157894736842
+"1575","Danish",29,"understands","dog","hund",0.961538461538462
+"1576","Danish",30,"understands","dog","hund",0.976878612716763
+"1577","Danish",31,"understands","dog","hund",0.982857142857143
+"1578","Danish",32,"understands","dog","hund",1
+"1579","Danish",33,"understands","dog","hund",0.986754966887417
+"1580","Danish",34,"understands","dog","hund",0.993006993006993
+"1581","Danish",35,"understands","dog","hund",0.991150442477876
+"1582","Danish",36,"understands","dog","hund",1
+"1583","English (American)",8,"understands","dog","dog",0.342857142857143
+"1584","English (American)",9,"understands","dog","dog",0.361702127659574
+"1585","English (American)",10,"understands","dog","dog",0.458064516129032
+"1586","English (American)",11,"understands","dog","dog",0.670212765957447
+"1587","English (American)",12,"understands","dog","dog",0.692307692307692
+"1588","English (American)",13,"understands","dog","dog",0.835064935064935
+"1589","English (American)",14,"understands","dog","dog",0.838461538461538
+"1590","English (American)",15,"understands","dog","dog",0.84297520661157
+"1591","English (American)",16,"understands","dog","dog",0.800715990453461
+"1592","English (American)",17,"understands","dog","dog",0.779005524861878
+"1593","English (American)",18,"understands","dog","dog",0.807984790874525
+"1594","English (American)",19,"understands","dog","dog",0.832317073170732
+"1595","English (American)",20,"understands","dog","dog",0.821167883211679
+"1596","English (American)",21,"understands","dog","dog",0.847290640394089
+"1597","English (American)",22,"understands","dog","dog",0.87
+"1598","English (American)",23,"understands","dog","dog",0.942748091603053
+"1599","English (American)",24,"understands","dog","dog",0.926243567753002
+"1600","English (American)",25,"understands","dog","dog",0.948948948948949
+"1601","English (American)",26,"understands","dog","dog",0.983425414364641
+"1602","English (American)",27,"understands","dog","dog",0.964102564102564
+"1603","English (American)",28,"understands","dog","dog",0.994981179422836
+"1604","English (American)",29,"understands","dog","dog",0.974747474747475
+"1605","English (American)",30,"understands","dog","dog",0.96271186440678
+"1606","English (Australian)",12,"understands","dog","dog",0.0704225352112676
+"1607","English (Australian)",13,"understands","dog","dog",0.234375
+"1608","English (Australian)",14,"understands","dog","dog",0.378378378378378
+"1609","English (Australian)",15,"understands","dog","dog",0.391304347826087
+"1610","English (Australian)",16,"understands","dog","dog",0.45
+"1611","English (Australian)",17,"understands","dog","dog",0.528846153846154
+"1612","English (Australian)",18,"understands","dog","dog",0.513761467889908
+"1613","English (Australian)",19,"understands","dog","dog",0.701612903225806
+"1614","English (Australian)",20,"understands","dog","dog",0.833333333333333
+"1615","English (Australian)",21,"understands","dog","dog",0.823529411764706
+"1616","English (Australian)",22,"understands","dog","dog",0.89041095890411
+"1617","English (Australian)",23,"understands","dog","dog",0.887323943661972
+"1618","English (Australian)",24,"understands","dog","dog",0.855263157894737
+"1619","English (Australian)",25,"understands","dog","dog",0.917647058823529
+"1620","English (Australian)",26,"understands","dog","dog",0.87012987012987
+"1621","English (Australian)",27,"understands","dog","dog",0.958333333333333
+"1622","English (Australian)",28,"understands","dog","dog",0.970149253731343
+"1623","English (Australian)",29,"understands","dog","dog",0.923076923076923
+"1624","English (Australian)",30,"understands","dog","dog",0.981132075471698
+"1625","English (British)",12,"understands","dog","dog",0.62962962962963
+"1626","English (British)",13,"understands","dog","dog",0.571428571428571
+"1627","English (British)",14,"understands","dog","dog",0.75
+"1628","English (British)",15,"understands","dog","dog",0.852272727272727
+"1629","English (British)",16,"understands","dog","dog",0.889830508474576
+"1630","English (British)",17,"understands","dog","dog",0.913705583756345
+"1631","English (British)",18,"understands","dog","dog",0.915254237288136
+"1632","English (British)",19,"understands","dog","dog",0.963302752293578
+"1633","English (British)",20,"understands","dog","dog",0.979452054794521
+"1634","English (British)",21,"understands","dog","dog",0.975609756097561
+"1635","English (British)",22,"understands","dog","dog",0.878378378378378
+"1636","English (British)",23,"understands","dog","dog",0.868146653212243
+"1637","English (British)",24,"understands","dog","dog",0.875346260387812
+"1638","English (British)",25,"understands","dog","dog",0.893238434163701
+"1639","English (British)",26,"understands","dog","dog",0.914893617021277
+"1640","English (British)",27,"understands","dog","dog",0.852348993288591
+"1641","English (British)",28,"understands","dog","dog",0.881720430107527
+"1642","English (British)",29,"understands","dog","dog",0.855555555555556
+"1643","English (British)",30,"understands","dog","dog",1
+"1644","English (British)",31,"understands","dog","dog",1
+"1645","English (British)",32,"understands","dog","dog",0.962962962962963
+"1646","English (British)",33,"understands","dog","dog",0.933333333333333
+"1647","English (British)",34,"understands","dog","dog",0.8
+"1648","English (British)",35,"understands","dog","dog",0.8
+"1649","French (French)",8,"understands","dog","chien",0.0851063829787234
+"1650","French (French)",9,"understands","dog","chien",0
+"1651","French (French)",11,"understands","dog","chien",0.357142857142857
+"1652","French (French)",12,"understands","dog","chien",0.269230769230769
+"1653","French (French)",13,"understands","dog","chien",0.476744186046512
+"1654","French (French)",14,"understands","dog","chien",0.333333333333333
+"1655","French (French)",16,"understands","dog","chien",0.208333333333333
+"1656","French (French)",17,"understands","dog","chien",0.346153846153846
+"1657","French (French)",19,"understands","dog","chien",0.909090909090909
+"1658","French (French)",20,"understands","dog","chien",0.5
+"1659","French (French)",21,"understands","dog","chien",0.714285714285714
+"1660","French (French)",22,"understands","dog","chien",0.780487804878049
+"1661","French (French)",23,"understands","dog","chien",0.746478873239437
+"1662","French (French)",24,"understands","dog","chien",0.8
+"1663","French (French)",25,"understands","dog","chien",0.952380952380952
+"1664","French (French)",26,"understands","dog","chien",0.90625
+"1665","French (French)",27,"understands","dog","chien",0.884615384615385
+"1666","French (French)",28,"understands","dog","chien",1
+"1667","French (French)",29,"understands","dog","chien",0.971428571428571
+"1668","French (French)",30,"understands","dog","chien",1
+"1669","French (Quebecois)",8,"understands","dog","chien",0.23728813559322
+"1670","French (Quebecois)",9,"understands","dog","chien",0.406779661016949
+"1671","French (Quebecois)",10,"understands","dog","chien",0.363636363636364
+"1672","French (Quebecois)",11,"understands","dog","chien",0.46551724137931
+"1673","French (Quebecois)",12,"understands","dog","chien",0.561643835616438
+"1674","French (Quebecois)",13,"understands","dog","chien",0.642857142857143
+"1675","French (Quebecois)",14,"understands","dog","chien",0.792452830188679
+"1676","French (Quebecois)",15,"understands","dog","chien",0.854838709677419
+"1677","French (Quebecois)",16,"understands","dog","chien",0.642105263157895
+"1678","French (Quebecois)",17,"understands","dog","chien",0.403846153846154
+"1679","French (Quebecois)",18,"understands","dog","chien",0.518518518518518
+"1680","French (Quebecois)",19,"understands","dog","chien",0.574074074074074
+"1681","French (Quebecois)",20,"understands","dog","chien",0.682539682539683
+"1682","French (Quebecois)",21,"understands","dog","chien",0.806451612903226
+"1683","French (Quebecois)",22,"understands","dog","chien",0.807017543859649
+"1684","French (Quebecois)",23,"understands","dog","chien",0.884615384615385
+"1685","French (Quebecois)",24,"understands","dog","chien",0.962962962962963
+"1686","French (Quebecois)",25,"understands","dog","chien",0.862068965517241
+"1687","French (Quebecois)",26,"understands","dog","chien",0.912280701754386
+"1688","French (Quebecois)",27,"understands","dog","chien",0.983050847457627
+"1689","French (Quebecois)",28,"understands","dog","chien",1
+"1690","French (Quebecois)",29,"understands","dog","chien",1
+"1691","French (Quebecois)",30,"understands","dog","chien",0.980769230769231
+"1692","German",18,"understands","dog","Hund",0.247058823529412
+"1693","German",19,"understands","dog","Hund",0.354430379746835
+"1694","German",20,"understands","dog","Hund",0.375
+"1695","German",21,"understands","dog","Hund",0.493506493506494
+"1696","German",22,"understands","dog","Hund",0.6
+"1697","German",23,"understands","dog","Hund",0.778947368421053
+"1698","German",24,"understands","dog","Hund",0.737864077669903
+"1699","German",25,"understands","dog","Hund",0.789473684210526
+"1700","German",26,"understands","dog","Hund",0.880434782608696
+"1701","German",27,"understands","dog","Hund",0.842696629213483
+"1702","German",28,"understands","dog","Hund",0.881720430107527
+"1703","German",29,"understands","dog","Hund",0.932584269662921
+"1704","German",30,"understands","dog","Hund",0.967741935483871
+"1705","Greek (Cypriot)",18,"understands","dog","σκύλος",0.333333333333333
+"1706","Greek (Cypriot)",21,"understands","dog","σκύλος",0.361111111111111
+"1707","Greek (Cypriot)",24,"understands","dog","σκύλος",0.8125
+"1708","Greek (Cypriot)",27,"understands","dog","σκύλος",0.896551724137931
+"1709","Greek (Cypriot)",30,"understands","dog","σκύλος",0.911764705882353
+"1710","Hebrew",12,"understands","dog","כלב",0.428571428571429
+"1711","Hebrew",15,"understands","dog","כלב",1
+"1712","Hebrew",16,"understands","dog","כלב",1
+"1713","Hebrew",19,"understands","dog","כלב",0.857142857142857
+"1714","Hebrew",20,"understands","dog","כלב",1
+"1715","Hebrew",21,"understands","dog","כלב",1
+"1716","Hebrew",22,"understands","dog","כלב",1
+"1717","Hebrew",23,"understands","dog","כלב",0.9
+"1718","Hebrew",24,"understands","dog","כלב",1
+"1719","Hebrew",25,"understands","dog","כלב",1
+"1720","Hebrew",26,"understands","dog","כלב",1
+"1721","Hebrew",27,"understands","dog","כלב",0.941176470588235
+"1722","Hebrew",28,"understands","dog","כלב",1
+"1723","Hebrew",29,"understands","dog","כלב",1
+"1724","Hebrew",30,"understands","dog","כלב",1
+"1725","Hebrew",31,"understands","dog","כלב",0.96875
+"1726","Hebrew",32,"understands","dog","כלב",1
+"1727","Hebrew",33,"understands","dog","כלב",0.952380952380952
+"1728","Hebrew",34,"understands","dog","כלב",1
+"1729","Hebrew",35,"understands","dog","כלב",0.875
+"1730","Italian",7,"understands","dog","cane",0.4
+"1731","Italian",8,"understands","dog","cane",0.352941176470588
+"1732","Italian",9,"understands","dog","cane",0.578947368421053
+"1733","Italian",10,"understands","dog","cane",0.490566037735849
+"1734","Italian",11,"understands","dog","cane",0.666666666666667
+"1735","Italian",12,"understands","dog","cane",0.855072463768116
+"1736","Italian",13,"understands","dog","cane",0.833333333333333
+"1737","Italian",14,"understands","dog","cane",0.95
+"1738","Italian",15,"understands","dog","cane",0.941176470588235
+"1739","Italian",16,"understands","dog","cane",0.928571428571429
+"1740","Italian",17,"understands","dog","cane",1
+"1741","Italian",18,"understands","dog","cane",0.746666666666667
+"1742","Italian",19,"understands","dog","cane",0.551724137931034
+"1743","Italian",20,"understands","dog","cane",0.590361445783133
+"1744","Italian",21,"understands","dog","cane",0.701492537313433
+"1745","Italian",22,"understands","dog","cane",0.818181818181818
+"1746","Italian",23,"understands","dog","cane",0.857142857142857
+"1747","Italian",24,"understands","dog","cane",0.905882352941176
+"1748","Italian",25,"understands","dog","cane",0.897435897435897
+"1749","Italian",26,"understands","dog","cane",0.951219512195122
+"1750","Italian",27,"understands","dog","cane",0.930232558139535
+"1751","Italian",28,"understands","dog","cane",0.954545454545455
+"1752","Italian",29,"understands","dog","cane",0.945945945945946
+"1753","Italian",30,"understands","dog","cane",0.955223880597015
+"1754","Italian",31,"understands","dog","cane",1
+"1755","Italian",32,"understands","dog","cane",1
+"1756","Italian",33,"understands","dog","cane",1
+"1757","Italian",34,"understands","dog","cane",1
+"1758","Italian",35,"understands","dog","cane",1
+"1759","Italian",36,"understands","dog","cane",1
+"1760","Kiswahili",9,"understands","dog","Mbwa/Jibwa",0.1
+"1761","Kiswahili",10,"understands","dog","Mbwa/Jibwa",0
+"1762","Kiswahili",11,"understands","dog","Mbwa/Jibwa",0.285714285714286
+"1763","Kiswahili",12,"understands","dog","Mbwa/Jibwa",0.285714285714286
+"1764","Kiswahili",13,"understands","dog","Mbwa/Jibwa",0.666666666666667
+"1765","Kiswahili",14,"understands","dog","Mbwa/Jibwa",0.428571428571429
+"1766","Kiswahili",22,"understands","dog","Mbwa/Jibwa",0.333333333333333
+"1767","Kiswahili",23,"understands","dog","Mbwa/Jibwa",0.6
+"1768","Kiswahili",24,"understands","dog","Mbwa/Jibwa",0.466666666666667
+"1769","Kiswahili",25,"understands","dog","Mbwa/Jibwa",0.307692307692308
+"1770","Kiswahili",26,"understands","dog","Mbwa/Jibwa",0.4
+"1771","Kiswahili",27,"understands","dog","Mbwa/Jibwa",0.538461538461538
+"1772","Kiswahili",28,"understands","dog","Mbwa/Jibwa",0.714285714285714
+"1773","Kiswahili",29,"understands","dog","Mbwa/Jibwa",0.777777777777778
+"1774","Korean",8,"understands","dog","개/멍멍이",0.222222222222222
+"1775","Korean",9,"understands","dog","개/멍멍이",0.224137931034483
+"1776","Korean",10,"understands","dog","개/멍멍이",0.35
+"1777","Korean",11,"understands","dog","개/멍멍이",0.461538461538462
+"1778","Korean",12,"understands","dog","개/멍멍이",0.583333333333333
+"1779","Korean",13,"understands","dog","개/멍멍이",0.642857142857143
+"1780","Korean",14,"understands","dog","개/멍멍이",0.80327868852459
+"1781","Korean",15,"understands","dog","개/멍멍이",0.774193548387097
+"1782","Korean",16,"understands","dog","개/멍멍이",0.888888888888889
+"1783","Korean",17,"understands","dog","개/멍멍이",0.813559322033898
+"1784","Korean",18,"understands","dog","개",0.430769230769231
+"1785","Korean",19,"understands","dog","개",0.428571428571429
+"1786","Korean",20,"understands","dog","개",0.467741935483871
+"1787","Korean",21,"understands","dog","개",0.593220338983051
+"1788","Korean",22,"understands","dog","개",0.617647058823529
+"1789","Korean",23,"understands","dog","개",0.686567164179104
+"1790","Korean",24,"understands","dog","개",0.76
+"1791","Korean",25,"understands","dog","개",0.777777777777778
+"1792","Korean",26,"understands","dog","개",0.828125
+"1793","Korean",27,"understands","dog","개",0.8
+"1794","Korean",28,"understands","dog","개",0.871428571428571
+"1795","Korean",29,"understands","dog","개",0.89041095890411
+"1796","Korean",30,"understands","dog","개",0.892307692307692
+"1797","Korean",31,"understands","dog","개",0.941176470588235
+"1798","Korean",32,"understands","dog","개",0.920634920634921
+"1799","Korean",33,"understands","dog","개",0.931506849315068
+"1800","Korean",34,"understands","dog","개",0.942857142857143
+"1801","Korean",35,"understands","dog","개",0.935483870967742
+"1802","Korean",36,"understands","dog","개",0.956521739130435
+"1803","Mandarin",12,"understands","dog","狗",0.755555555555556
+"1804","Mandarin",13,"understands","dog","狗",0.62
+"1805","Mandarin",14,"understands","dog","狗",0.625
+"1806","Mandarin",15,"understands","dog","狗",0.695652173913043
+"1807","Mandarin",16,"understands","dog","狗",0.504504504504504
+"1808","Mandarin",17,"understands","dog","狗",0.517857142857143
+"1809","Mandarin",18,"understands","dog","狗",0.570247933884298
+"1810","Mandarin",19,"understands","dog","狗",0.625
+"1811","Mandarin",20,"understands","dog","狗",0.768595041322314
+"1812","Mandarin",21,"understands","dog","狗",0.823529411764706
+"1813","Mandarin",22,"understands","dog","狗",0.897435897435897
+"1814","Mandarin",23,"understands","dog","狗",0.916666666666667
+"1815","Mandarin",24,"understands","dog","狗",0.858333333333333
+"1816","Mandarin",25,"understands","dog","狗",0.929203539823009
+"1817","Mandarin",26,"understands","dog","狗",0.915254237288136
+"1818","Mandarin",27,"understands","dog","狗",0.964912280701754
+"1819","Mandarin",28,"understands","dog","狗",0.956140350877193
+"1820","Mandarin",29,"understands","dog","狗",0.974789915966387
+"1821","Mandarin",30,"understands","dog","狗",0.981818181818182
+"1822","Norwegian",8,"understands","dog","hund",0.118110236220472
+"1823","Norwegian",9,"understands","dog","hund",0.220994475138122
+"1824","Norwegian",10,"understands","dog","hund",0.242424242424242
+"1825","Norwegian",11,"understands","dog","hund",0.368932038834951
+"1826","Norwegian",12,"understands","dog","hund",0.493927125506073
+"1827","Norwegian",13,"understands","dog","hund",0.596153846153846
+"1828","Norwegian",14,"understands","dog","hund",0.65625
+"1829","Norwegian",15,"understands","dog","hund",0.723076923076923
+"1830","Norwegian",16,"understands","dog","hund",0.490384615384615
+"1831","Norwegian",17,"understands","dog","hund",0.552462526766595
+"1832","Norwegian",18,"understands","dog","hund",0.588
+"1833","Norwegian",19,"understands","dog","hund",0.627027027027027
+"1834","Norwegian",20,"understands","dog","hund",0.724077328646749
+"1835","Norwegian",21,"understands","dog","hund",0.592657342657343
+"1836","Norwegian",22,"understands","dog","hund",0.672443674176776
+"1837","Norwegian",23,"understands","dog","hund",0.731531531531531
+"1838","Norwegian",24,"understands","dog","hund",0.769360269360269
+"1839","Norwegian",25,"understands","dog","hund",0.812693498452012
+"1840","Norwegian",26,"understands","dog","hund",0.861666666666667
+"1841","Norwegian",27,"understands","dog","hund",0.886319845857418
+"1842","Norwegian",28,"understands","dog","hund",0.904397705544933
+"1843","Norwegian",29,"understands","dog","hund",0.902777777777778
+"1844","Norwegian",30,"understands","dog","hund",0.938524590163934
+"1845","Norwegian",31,"understands","dog","hund",0.93576017130621
+"1846","Norwegian",32,"understands","dog","hund",0.958620689655172
+"1847","Norwegian",33,"understands","dog","hund",0.941860465116279
+"1848","Norwegian",34,"understands","dog","hund",0.982412060301508
+"1849","Norwegian",35,"understands","dog","hund",0.985507246376812
+"1850","Norwegian",36,"understands","dog","hund",0.960526315789474
+"1851","Russian",8,"understands","dog","собака",0.322033898305085
+"1852","Russian",9,"understands","dog","собака",0.523809523809524
+"1853","Russian",10,"understands","dog","собака",0.73015873015873
+"1854","Russian",11,"understands","dog","собака",0.71830985915493
+"1855","Russian",12,"understands","dog","собака",0.75
+"1856","Russian",13,"understands","dog","собака",0.821917808219178
+"1857","Russian",14,"understands","dog","собака",0.911392405063291
+"1858","Russian",15,"understands","dog","собака",0.876543209876543
+"1859","Russian",16,"understands","dog","собака",0.901234567901235
+"1860","Russian",17,"understands","dog","собака",0.9375
+"1861","Russian",18,"understands","dog","собака",0.628571428571429
+"1862","Russian",19,"understands","dog","собака",0.219512195121951
+"1863","Russian",20,"understands","dog","собака",0.355555555555556
+"1864","Russian",21,"understands","dog","собака",0.418604651162791
+"1865","Russian",22,"understands","dog","собака",0.529411764705882
+"1866","Russian",23,"understands","dog","собака",0.589285714285714
+"1867","Russian",24,"understands","dog","собака",0.639344262295082
+"1868","Russian",25,"understands","dog","собака",0.606060606060606
+"1869","Russian",26,"understands","dog","собака",0.711538461538462
+"1870","Russian",27,"understands","dog","собака",0.7
+"1871","Russian",28,"understands","dog","собака",0.716666666666667
+"1872","Russian",29,"understands","dog","собака",0.793103448275862
+"1873","Russian",30,"understands","dog","собака",0.753246753246753
+"1874","Russian",31,"understands","dog","собака",0.80327868852459
+"1875","Russian",32,"understands","dog","собака",0.836363636363636
+"1876","Russian",33,"understands","dog","собака",0.836363636363636
+"1877","Russian",34,"understands","dog","собака",0.862068965517241
+"1878","Russian",35,"understands","dog","собака",0.851063829787234
+"1879","Russian",36,"understands","dog","собака",0.877551020408163
+"1880","Slovak",8,"understands","dog","pes/havo",0.534246575342466
+"1881","Slovak",9,"understands","dog","pes/havo",0.644067796610169
+"1882","Slovak",10,"understands","dog","pes/havo",0.794520547945205
+"1883","Slovak",11,"understands","dog","pes/havo",0.887096774193548
+"1884","Slovak",12,"understands","dog","pes/havo",0.936708860759494
+"1885","Slovak",13,"understands","dog","pes/havo",0.945945945945946
+"1886","Slovak",14,"understands","dog","pes/havo",0.961538461538462
+"1887","Slovak",15,"understands","dog","pes/havo",0.954022988505747
+"1888","Slovak",16,"understands","dog","pes/havo",0.985294117647059
+"1889","Slovak",17,"understands","dog","pes / havo",0.942857142857143
+"1890","Slovak",18,"understands","dog","pes / havo",1
+"1891","Slovak",19,"understands","dog","pes / havo",0.946428571428571
+"1892","Slovak",20,"understands","dog","pes / havo",0.983870967741935
+"1893","Slovak",21,"understands","dog","pes / havo",0.987654320987654
+"1894","Slovak",22,"understands","dog","pes / havo",1
+"1895","Slovak",23,"understands","dog","pes / havo",0.949152542372881
+"1896","Slovak",24,"understands","dog","pes / havo",0.983050847457627
+"1897","Slovak",25,"understands","dog","pes / havo",0.971014492753623
+"1898","Slovak",26,"understands","dog","pes / havo",0.987179487179487
+"1899","Slovak",27,"understands","dog","pes / havo",1
+"1900","Slovak",28,"understands","dog","pes / havo",0.941860465116279
+"1901","Slovak",29,"understands","dog","pes / havo",0.973333333333333
+"1902","Slovak",30,"understands","dog","pes / havo",1
+"1903","Slovak",31,"understands","dog","pes / havo",0.96551724137931
+"1904","Slovak",32,"understands","dog","pes / havo",1
+"1905","Slovak",33,"understands","dog","pes / havo",1
+"1906","Slovak",34,"understands","dog","pes / havo",1
+"1907","Slovak",35,"understands","dog","pes / havo",0.925925925925926
+"1908","Slovak",36,"understands","dog","pes / havo",1
+"1909","Spanish (Mexican)",8,"understands","dog","perro",0.45
+"1910","Spanish (Mexican)",9,"understands","dog","perro",0.359375
+"1911","Spanish (Mexican)",10,"understands","dog","perro",0.507042253521127
+"1912","Spanish (Mexican)",11,"understands","dog","perro",0.582089552238806
+"1913","Spanish (Mexican)",12,"understands","dog","perro",0.707865168539326
+"1914","Spanish (Mexican)",13,"understands","dog","perro",0.771084337349398
+"1915","Spanish (Mexican)",14,"understands","dog","perro",0.736842105263158
+"1916","Spanish (Mexican)",15,"understands","dog","perro",0.885245901639344
+"1917","Spanish (Mexican)",16,"understands","dog","perro",0.673202614379085
+"1918","Spanish (Mexican)",17,"understands","dog","perro",0.739837398373984
+"1919","Spanish (Mexican)",18,"understands","dog","perro",0.721854304635762
+"1920","Spanish (Mexican)",19,"understands","dog","perro",0.695121951219512
+"1921","Spanish (Mexican)",20,"understands","dog","perro",0.696969696969697
+"1922","Spanish (Mexican)",21,"understands","dog","perro",0.717647058823529
+"1923","Spanish (Mexican)",22,"understands","dog","perro",0.724137931034483
+"1924","Spanish (Mexican)",23,"understands","dog","perro",0.693181818181818
+"1925","Spanish (Mexican)",24,"understands","dog","perro",0.869565217391304
+"1926","Spanish (Mexican)",25,"understands","dog","perro",0.837209302325581
+"1927","Spanish (Mexican)",26,"understands","dog","perro",0.810810810810811
+"1928","Spanish (Mexican)",27,"understands","dog","perro",0.875
+"1929","Spanish (Mexican)",28,"understands","dog","perro",0.878048780487805
+"1930","Spanish (Mexican)",29,"understands","dog","perro",0.866666666666667
+"1931","Spanish (Mexican)",30,"understands","dog","perro",0.830769230769231
+"1932","Swedish",8,"understands","dog","hund",0.0769230769230769
+"1933","Swedish",10,"understands","dog","hund",0.37037037037037
+"1934","Swedish",11,"understands","dog","hund",0
+"1935","Swedish",12,"understands","dog","hund",0.556962025316456
+"1936","Swedish",13,"understands","dog","hund",0.428571428571429
+"1937","Swedish",14,"understands","dog","hund",0.806451612903226
+"1938","Swedish",15,"understands","dog","hund",0.769230769230769
+"1939","Swedish",16,"understands","dog","hund",0.531446540880503
+"1940","Swedish",19,"understands","dog","hund",0.322368421052632
+"1941","Swedish",22,"understands","dog","hund",0.618892508143323
+"1942","Swedish",25,"understands","dog","hund",0.748251748251748
+"1943","Swedish",28,"understands","dog","hund",0.863309352517986
+"1944","Turkish",8,"understands","dog","Köpek",0.135714285714286
+"1945","Turkish",9,"understands","dog","Köpek",0.368
+"1946","Turkish",10,"understands","dog","Köpek",0.323076923076923
+"1947","Turkish",11,"understands","dog","Köpek",0.4
+"1948","Turkish",12,"understands","dog","Köpek",0.458333333333333
+"1949","Turkish",13,"understands","dog","Köpek",0.573770491803279
+"1950","Turkish",14,"understands","dog","Köpek",0.72108843537415
+"1951","Turkish",15,"understands","dog","Köpek",0.709923664122137
+"1952","Turkish",16,"understands","dog","Köpek",0.434782608695652
+"1953","Turkish",17,"understands","dog","Köpek",0.299065420560748
+"1954","Turkish",18,"understands","dog","Köpek",0.328125
+"1955","Turkish",19,"understands","dog","Köpek",0.413223140495868
+"1956","Turkish",20,"understands","dog","Köpek",0.46218487394958
+"1957","Turkish",21,"understands","dog","Köpek",0.548387096774194
+"1958","Turkish",22,"understands","dog","Köpek",0.515873015873016
+"1959","Turkish",23,"understands","dog","Köpek",0.633587786259542
+"1960","Turkish",24,"understands","dog","Köpek",0.707547169811321
+"1961","Turkish",25,"understands","dog","Köpek",0.699186991869919
+"1962","Turkish",26,"understands","dog","Köpek",0.764227642276423
+"1963","Turkish",27,"understands","dog","Köpek",0.833333333333333
+"1964","Turkish",28,"understands","dog","Köpek",0.857142857142857
+"1965","Turkish",29,"understands","dog","Köpek",0.882352941176471
+"1966","Turkish",30,"understands","dog","Köpek",0.932692307692308
+"1967","Turkish",31,"understands","dog","Köpek",0.871287128712871
+"1968","Turkish",32,"understands","dog","Köpek",0.893939393939394
+"1969","Turkish",33,"understands","dog","Köpek",0.93859649122807
+"1970","Turkish",34,"understands","dog","Köpek",0.878504672897196
+"1971","Turkish",35,"understands","dog","Köpek",0.931297709923664
+"1972","Turkish",36,"understands","dog","Köpek",0.974025974025974
