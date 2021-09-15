@@ -17,17 +17,17 @@ layout: page
 ## Teaching Team
 
 ### Instructors
-[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) - Mondays 11:15 - 12:15 [on Zoom](https://upenn.zoom.us/my/katieschuler)<br>
-[Dr. Colin Twomey](mailto:ctwomey@sas.upenn.edu) - Wednesdays 11:15 - 12:15 [on zoom](https://upenn.zoom.us/j/95066312919?pwd=K1BIL2ZPS1JYS3E5OU9LcnlEdWN3dz09)
+[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) - Office Hours Mondays 11:15 - 12:15 [on Zoom](https://upenn.zoom.us/my/katieschuler)<br>
+[Dr. Colin Twomey](mailto:ctwomey@sas.upenn.edu) - Office Hours Wednesdays 11:15 - 12:15 [on zoom](https://upenn.zoom.us/j/95066312919?pwd=K1BIL2ZPS1JYS3E5OU9LcnlEdWN3dz09)
 
 ### Lead TA
-[June Choe](mailto:yjchoe@sas.upenn.edu) - Virtual Office Hours TBD
+[June Choe](mailto:yjchoe@sas.upenn.edu) - Office Hours Tuesdays 4 - 5pm [on zoom](https://upenn.zoom.us/my/yjunechoe)
 
 ### Lab Assistants
-[Nikhil Avadhani](mailto:nikav@sas.upenn.edu) - Office Hours TBD<br>
-[Sophie Faircloth](mailto:sof@sas.upenn.edu) - Office Hours TBD<br>
-[Salam Karadsheh](mailto:salamkar@sas.upenn.edu) - Office Hours TBD<br>
-[Kevin Liang](mailto:kevliang@sas.upenn.edu) - Office Hours TBD
+[Nikhil Avadhani](mailto:nikav@sas.upenn.edu) - Office Hours Tuesdays 2:15 - 3:15pm in person (PCPSE building)<br>
+[Sophie Faircloth](mailto:sof@sas.upenn.edu) - Office Hours Thursdays 1 - 2pm in person (Fisher-Bennett)<br>
+[Salam Karadsheh](mailto:salamkar@sas.upenn.edu) - Office Hours Thursdays 6 - 7pm on zoom<br>
+[Kevin Liang](mailto:kevliang@sas.upenn.edu) - Office Hours Fridays 1 - 2pm in person (DRL)
 
 
 ## Getting Help
