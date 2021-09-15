@@ -26,7 +26,7 @@ layout: page
 ### Lab Assistants
 [Nikhil Avadhani](mailto:nikav@sas.upenn.edu) - Office Hours Tuesdays 2:15 - 3:15pm in person (PCPSE building)<br>
 [Sophie Faircloth](mailto:sof@sas.upenn.edu) - Office Hours Thursdays 1 - 2pm in person (Fisher-Bennett)<br>
-[Salam Karadsheh](mailto:salamkar@sas.upenn.edu) - Office Hours Thursdays 6 - 7pm on zoom<br>
+[Salam Karadsheh](mailto:salamkar@sas.upenn.edu) - Office Hours Thursdays 6 - 7pm [on zoom](https://upenn.zoom.us/j/6527520197)<br>
 [Kevin Liang](mailto:kevliang@sas.upenn.edu) - Office Hours Fridays 1 - 2pm in person (DRL)
 
 
