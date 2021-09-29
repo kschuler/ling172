@@ -30,3 +30,9 @@ install.packages("devtools")
 devtools::install_github("jvcasillas/untidydata")
 ```
 
+Then call
+
+```r
+language_diversity
+```
+
