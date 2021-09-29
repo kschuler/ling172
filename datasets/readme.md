@@ -21,11 +21,11 @@ data <- read.csv('https://kathrynschuler.com/ling172/datasets/crosslinguistic-do
 A long format dataset that is most useful in wide format. Data taken from Appendix 1 in:
 Nettle, D. (1998). Explaining Global Patterns of Language Diversity. Journal of Anthropological Archaeology, 17, 354–374.
 
-[[Nettle, D. (1998). Explaining Global Patterns of Language Diversity. Journal of Anthropological Archaeology, 17, 354–374.](https://kathrynschuler.com/ling172/datasets/nettle-1998.pdf)
+[Nettle, D. (1998). Explaining Global Patterns of Language Diversity. Journal of Anthropological Archaeology, 17, 354–374.](https://kathrynschuler.com/ling172/datasets/nettle-1998.pdf)
 
 To use this dataset, you'll need the jvcasillas/untidydata package:
 
-```
+```r
 install.packages("devtools")
 devtools::install_github("jvcasillas/untidydata")
 ```
