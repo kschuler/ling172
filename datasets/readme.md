@@ -16,5 +16,17 @@ Cross-linguistic trajectories of two words: `ball` and `dog` from [wordbank.stan
 data <- read.csv('https://kathrynschuler.com/ling172/datasets/crosslinguistic-dog-ball.csv')
 ```
 
+## Language diversity data
 
+A long format dataset that is most useful in wide format. Data taken from Appendix 1 in:
+Nettle, D. (1998). Explaining Global Patterns of Language Diversity. Journal of Anthropological Archaeology, 17, 354–374.
+
+[[Nettle, D. (1998). Explaining Global Patterns of Language Diversity. Journal of Anthropological Archaeology, 17, 354–374.](https://kathrynschuler.com/ling172/datasets/nettle-1998.pdf)
+
+To use this dataset, you'll need the jvcasillas/untidydata package:
+
+```
+install.packages("devtools")
+devtools::install_github("jvcasillas/untidydata")
+```
 
