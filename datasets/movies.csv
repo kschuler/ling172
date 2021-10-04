@@ -1,0 +1,167 @@
+id,name,year,quality
+969,"12 Angry Men",1957,1
+1711,"2001: A Space Odyssey",1968,1
+2136,"3 Ninjas: High Noon at Mega Mountain",1998,0
+10830,Alien,1979,1
+10920,Aliens,1986,1
+11108,"All About Eve",1950,1
+11440,"All Quiet on the Western Front",1930,1
+12937,Amadeus,1984,1
+13789,"American Beauty",1999,1
+13978,"American History X",1998,1
+14110,"American Ninja V",1993,0
+14942,"Amores perros",2000,1
+15936,"Anatomy of a Murder",1959,1
+17676,"Anne B. Real",2003,0
+17760,"Annie Hall",1977,1
+18498,"Anus Magillicutty",2003,0
+18960,"Apocalypse Now",1979,1
+26352,"Baby Geniuses",1999,0
+26844,"Back to the Future",1985,1
+30182,"Barney's Great Adventure",1998,0
+30431,"Barry Lyndon",1975,1
+30959,"Batman Begins",2005,1
+31274,"Battlefield Earth: A Saga of the Year 3000",2000,0
+32178,"Beauty and the Beast",1991,1
+33848,"Ben & Arthur",2002,0
+33923,Ben-Hur,1959,1
+37057,"Big Fish",2003,1
+40199,"Blade Runner",1982,1
+46169,Braveheart,1995,1
+54726,"Car 54, Where Are You?",1994,0
+56044,Casablanca,1942,1
+56304,Casino,1995,1
+58542,"Chairman of the Board",1998,0
+62076,Chinatown,1974,1
+64729,"Citizen Kane",1941,1
+64833,"City Lights",1931,1
+70391,"Cool as Ice",1991,0
+70404,"Cool Hand Luke",1967,1
+82681,"Demon Island",2002,0
+85669,"Dial M for Murder",1954,1
+86274,"Die Hard",1988,1
+86282,"Die Hard Dracula",1998,0
+89147,"Dog Day Afternoon",1975,1
+90772,"Donnie Darko",2001,1
+91758,"Double Indemnity",1944,1
+92616,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,1
+97342,Ed,1996,0
+97765,Eegah,1962,0
+104338,"Eternal Sunshine of the Spotless Mind",2004,1
+109093,Fargo,1996,1
+109590,"Fat Slags",2004,0
+112290,"Fight Club",1999,1
+113504,"Finding Nemo",2003,1
+117874,"Forrest Gump",1994,1
+120528,"From Justin to Kelly",2003,0
+121538,"Full Metal Jacket",1987,1
+123572,Gandhi,1982,1
+127627,Gigli,2003,0
+129185,Gladiator,2000,1
+129439,Glitter,2001,0
+130358,"Going Overboard",1989,0
+131240,"Gone with the Wind",1939,1
+131665,"Good Will Hunting",1997,1
+131780,Goodfellas,1990,1
+134672,"Groundhog Day",1993,1
+141544,Heat,1995,1
+144861,"High Noon",1952,1
+150629,"Hotel Rwanda",2004,1
+151052,"House of the Dead",2003,0
+153985,"I Accuse My Parents",1944,0
+156234,Ikiru,1952,1
+159172,"Indiana Jones and the Last Crusade",1989,1
+163288,"It Happened One Night",1934,1
+163485,"It's a Wonderful Life",1946,1
+163625,"It's Pat",1994,0
+165961,Jaws,1975,1
+169942,"Judgment at Nuremberg",1961,1
+176711,"Kill Bill: Vol. 1",2003,1
+177138,"Kind Hearts and Coronets",1949,1
+182955,"L.A. Confidential",1997,1
+184978,Laserblast,1978,0
+186431,"Lawnmower Man 2: Beyond Cyberspace",1996,0
+186439,"Lawrence of Arabia",1962,1
+187908,"Leonard Part 6",1987,0
+190166,"Life of Brian",1979,1
+193253,"Lock, Stock and Two Smoking Barrels",1998,1
+198435,M,1931,1
+200521,Magnolia,1999,1
+204163,Manhattan,1979,1
+210511,Memento,2000,1
+211506,"Merlin's Shop of Mystical Wonders",1996,0
+212097,Metropolis,1927,1
+216312,Mitchell,1975,0
+216964,"Modern Times",1936,1
+218346,"Monster a-Go Go",1965,0
+218415,"Monsters, Inc.",2001,1
+218599,"Monty Python and the Holy Grail",1975,1
+221130,"Mr. Smith Goes to Washington",1939,1
+224842,"Mystic River",2003,1
+230151,Network,1976,1
+232275,"Night Train to Mundo Fine",1966,0
+232829,"Nine Lives",2002,0
+235062,"North by Northwest",1959,1
+235676,Notorious,1946,1
+239851,Oldboy,2003,1
+240922,"On the Waterfront",1954,1
+241141,"Once Upon a Time in America",1984,1
+241347,"One Flew Over the Cuckoo's Nest",1975,1
+250612,"Paths of Glory",1957,1
+253440,Persona,1966,1
+256632,"Pirates of the Caribbean: The Curse of the Black Pearl",2003,1
+257459,Platoon,1986,1
+260430,Popstar,2005,0
+266574,Psycho,1960,1
+267038,"Pulp Fiction",1994,1
+270971,"Raging Bull",1980,1
+271095,"Raiders of the Lost Ark",1981,1
+271915,Ran,1985,1
+273543,"Rear Window",1954,1
+273585,Rebecca,1940,1
+276085,"Requiem for a Dream",2000,1
+276217,"Reservoir Dogs",1992,1
+280270,Rocky,1976,1
+280803,"Roman Holiday",1953,1
+281546,Rope,1948,1
+281937,"Rosemary's Baby",1968,1
+287712,"Santa Claus",1959,0
+287719,"Santa Claus Conquers the Martians",1964,0
+287782,"Santa with Muscles",1996,0
+289109,"Saving Private Ryan",1998,1
+289558,Scarface,1983,1
+290070,"Schindler's List",1993,1
+291698,Se7en,1995,1
+302150,"Simon Sez",1999,0
+302329,"Sin City",2005,1
+302696,"Singin' in the Rain",1952,1
+306032,Snatch.,2000,1
+306312,"Snowboard Academy",1996,0
+307913,"Some Like It Hot",1959,1
+308396,"Son of the Mask",2005,0
+309597,Soultaker,1990,0
+310141,"Space Mutiny",1988,0
+312934,"Stalag 17",1953,1
+312963,Stalker,1979,1
+313059,"Stand by Me",1986,1
+313478,"Star Wars: Episode V - The Empire Strikes Back",1980,1
+313479,"Star Wars: Episode VI - Return of the Jedi",1983,1
+316323,"Strangers on a Train",1951,1
+319181,"Sunset Blvd.",1950,1
+319516,"SuperBabies: Baby Geniuses 2",2004,1
+324371,Tangents,1994,0
+326155,"Taxi Driver",1976,1
+328277,"Terminator 2: Judgment Day",1991,1
+334212,"To Kill a Mockingbird",1962,1
+336683,"Touch of Evil",1958,1
+337166,"Toy Story",1995,1
+337307,"Track of the Moon Beast",1976,0
+337830,Trainspotting,1996,1
+340247,"Troll 2",1990,0
+342384,"Twelve Monkeys",1995,1
+346949,Unforgiven,1992,1
+352639,Vertigo,1958,1
+364329,"Who's Afraid of Virginia Woolf?",1966,1
+366987,"Witness for the Prosecution",1957,1
+371844,Yojimbo,1961,1
+375706,"Zombie Nightmare",1986,0
