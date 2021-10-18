@@ -1,4 +1,4 @@
-name,gender,birth_date,country,discipline,function
+name,gender,birth_date,country_name,discipline_name,role
 ABAEVA Elena,Female,1966-04-21,Uzbekistan,Wrestling,Judge
 ABBAR Bachir,Male,1965-05-03,Morocco,Boxing,Judge
 ABDELLATIF Makfouni,Male,1972-11-23,Morocco,Boxing,Judge
@@ -104,8 +104,8 @@ BROOKER Eric,Male,1960-03-26,Australia,Diving,Judge
 BROOKER Eric,Male,1960-03-26,Australia,Water Polo,Judge
 BROOKER Gillian,Female,1962-04-25,Australia,Diving,Judge
 BRUNNER Arthur,Male,1991-10-05,Switzerland,Handball,Referee
-BRUSNIKINA Olga,Female,1978-11-09,ROC,Diving,Judge
-BRUSNIKINA Olga,Female,1978-11-09,ROC,Water Polo,Judge
+BRUSNIKINA Olga,Female,1978-11-09,Russian Federation,Diving,Judge
+BRUSNIKINA Olga,Female,1978-11-09,Russian Federation,Water Polo,Judge
 BTGEN Abdulkadir,Male,1984-02-06,Turkey,Football,Video Assistant Referee (VAR)
 BUCH Xevi,Male,1971-09-25,Spain,Water Polo,Referee
 BURTON Nick,Male,1968-04-22,Great Britain,Equestrian,Jury President
@@ -740,7 +740,7 @@ SEVERO Alessandro,Male,1973-09-30,Italy,Water Polo,Referee
 SHAABAN Mohamed,Male,1978-10-02,Egypt,Taekwondo,Referee
 SHADGAN Babak,Male,1969-02-21,Canada,Wrestling,Judge
 SHAIKH Javed,Male,1976-04-02,India,Hockey,Umpire
-SHARONOV Evgeny,Male,1958-12-11,ROC,Diving,Judge
+SHARONOV Evgeny,Male,1958-12-11,Russian Federation,Diving,Judge
 SHAW William,Male,1949-10-10,Canada,Diving,Judge
 SHCHETININ Anton,Male,1986-03-27,Australia,Football,Assistant Referee
 SHERSHNEV Alexandr,Male,1985-08-12,Kazakhstan,Water Polo,Video Assistant Referee
