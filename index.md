@@ -10,7 +10,7 @@ layout: page
 
 <hr>
 
-> The course is full! [Join the waitlist!](https://docs.google.com/forms/d/1ZAectJ07CbwUjm4mkTfQOMVEvWAN04qwF5pYfRfPo70/)
+> The grace period for Exam 2 has been extended to Friday at midnight!
 
 <hr>
 
