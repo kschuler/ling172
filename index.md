@@ -64,8 +64,8 @@ Section | Time | Location | LA
 - **[Ed Discussion](https://edstem.org/us/courses/12952/discussion/)** for online discussion and support
 
 ### Evaluation 
-- **Exams (90%)** - There are four exams, but the lowest exam score is dropped. 
-- **Data journal (10%)** - Practice your skills by applying what you’ve learned to (at least) four data sets of your choosing. More details will be provided as the deadline approaches
+- **Exams (~~90%~~ 100%)** - There are four exams, but the lowest exam score is dropped. 
+- ~~**Data journal (10%)** - Practice your skills by applying what you’ve learned to (at least) four data sets of your choosing. More details will be provided as the deadline approaches~~
 - Note that **lab problem sets are ungraded**. They are designed to help you practice your new skills in a low-pressure environment and to help you prepare for the exams!
 
 
@@ -137,7 +137,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once! 
 
 **Can I turn in my data journal late?** 
-> Yep! Data journals will be accepted without penalty through the last day of class (Dec 10th).
+> ~~Yep! Data journals will be accepted without penalty through the last day of class (Dec 10th).~~ The data journal assignment has been dropped.
 
 **I missed class, how can I catch up?**
 > All of the lectures will be automatically recorded and posted to canvas a few minutes after class ends. You can watch the lectures when you are ready. We also recommend attending office hours and lab sections to make sure you don't fall behind. 
