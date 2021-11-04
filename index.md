@@ -87,7 +87,7 @@ Wk  | Lecture | Readings | Resources
 12 | Nov 15: Model formulas  <br> Nov 17: Exam 3 Review | [SM 7](https://dtkaplan.github.io/SM2-bookdown/model-formulas-and-coefficients.html) | **Exam 3 due Fri**
 13 | Nov 22: Model coefficients <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*<br> **Exam grace period closes Wed**
 14 | Nov 29: Fitting models to data <br> Dec 01: Correlation and variance | [SM 8](https://dtkaplan.github.io/SM2-bookdown/fitting-models-to-data.html)<br>[SM 9](https://dtkaplan.github.io/SM2-bookdown/correlation-and-partitioning-of-variance.html) | Problem Set 7
-15 | Dec 06: TBD <br> Dec 08: Exam 4 Review | | *last day of classes (10)*
+15 | Dec 06: Confidence in models <br> Dec 08: Exam 4 Review | [SM 12](https://dtkaplan.github.io/SM2-bookdown/confidence-in-models.html) | *last day of classes (10)*
 16 | Dec 13: Reading period, no class! <br> Dec 15: Finals week, no class! | | **Exam 4 due Fri**
 
 
