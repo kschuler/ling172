@@ -10,7 +10,7 @@ layout: page
 
 <hr>
 
-> The grace period for Exam 2 has been extended to Friday at midnight!
+> Exam 3 will be released tomorrow at 10am! The deadline has been extended to Dec 03 at midnight!
 
 <hr>
 
