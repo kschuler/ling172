@@ -10,7 +10,7 @@ layout: page
 
 <hr>
 
-> Exam 3 will be released tomorrow at 10am! The deadline has been extended to Dec 03 at midnight!
+> [Exam 4 is due on Dec 17!](https://colab.research.google.com/drive/1l4uA1gXJglGWv4xdfE7JEvGMVEv-4Xfm?usp=sharing)
 
 <hr>
 
@@ -88,7 +88,7 @@ Wk  | Lecture | Readings | Resources
 13 | [Nov 22: Model coefficients](https://docs.google.com/presentation/d/14i-7Z7cfNMSoXoqA17JjwZ9BGRAQK2e3qR7cKvXFpZA/edit?usp=sharing) <br> Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*<br> 
 14 | [Nov 29: Fitting models to data](https://colab.research.google.com/drive/1XLtrgAZHSC7vbgnjZ7W-Bn77JxIiQ9xu?usp=sharing) <br> [Dec 01: Correlation and variance](https://docs.google.com/presentation/d/1i0lZKtFuCchQ1jigd9QUtoV3j60m1FLkVZ2xTbLneNc/edit#slide=id.g1051b2cb438_0_50) | [SM 8](https://dtkaplan.github.io/SM2-bookdown/fitting-models-to-data.html)<br>[SM 9](https://dtkaplan.github.io/SM2-bookdown/correlation-and-partitioning-of-variance.html) | **Exam 3 due Fri**
 15 | [Dec 06: Confidence in models](https://colab.research.google.com/drive/1NxIqTavJm_38GHvJg6BjgNyyaBWpLTgZ?usp=sharing) <br> [Dec 08: Exam 4 Review](https://colab.research.google.com/drive/1ZnBmup1CPaO4W_ycRyE0ZNOWYa-EhZi1) | [SM 12](https://dtkaplan.github.io/SM2-bookdown/confidence-in-models.html) | *last day of classes (10)*
-16 | Dec 13: Reading period, no class! <br> Dec 15: Finals week, no class! | | **Exam 4 due Fri**
+16 | Dec 13: Reading period, no class! <br> Dec 15: Finals week, no class! | | **[Exam 4](https://colab.research.google.com/drive/1l4uA1gXJglGWv4xdfE7JEvGMVEv-4Xfm?usp=sharing) due Fri**
 
 
 ## How to do well in LING172
